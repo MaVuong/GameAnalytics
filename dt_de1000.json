@@ -1,0 +1,10239 @@
+[
+  {
+    "rs" : [
+      "AN",
+      "FAN"
+    ],
+    "word" : "AFN"
+  },
+  {
+    "rs" : [
+      "AB",
+      "DA",
+      "BAD"
+    ],
+    "word" : "DAB"
+  },
+  {
+    "rs" : [
+      "IN",
+      "EI",
+      "NIE",
+      "EIN"
+    ],
+    "word" : "IEN"
+  },
+  {
+    "rs" : [
+      "EI",
+      "DIE",
+      "EID"
+    ],
+    "word" : "DIE"
+  },
+  {
+    "rs" : [
+      "NUR",
+      "UND",
+      "RUND"
+    ],
+    "word" : "DRNU"
+  },
+  {
+    "rs" : [
+      "UM",
+      "ZU",
+      "ZUM"
+    ],
+    "word" : "MZU"
+  },
+  {
+    "rs" : [
+      "AN",
+      "NASE",
+      "ES"
+    ],
+    "word" : "ANES"
+  },
+  {
+    "rs" : [
+      "ARZT",
+      "ZART",
+      "ART",
+      "RAT"
+    ],
+    "word" : "ATRZ"
+  },
+  {
+    "rs" : [
+      "FÜR",
+      "FRÜH"
+    ],
+    "word" : "HFRÜ"
+  },
+  {
+    "rs" : [
+      "TOR",
+      "OFT",
+      "ORT",
+      "FORT",
+      "ROT"
+    ],
+    "word" : "OTRF"
+  },
+  {
+    "rs" : [
+      "NIE",
+      "WEN",
+      "EIN",
+      "WIE",
+      "WEIN"
+    ],
+    "word" : "INEW"
+  },
+  {
+    "rs" : [
+      "RAU",
+      "GRAU",
+      "GAR",
+      "ARG"
+    ],
+    "word" : "ARUG"
+  },
+  {
+    "rs" : [
+      "BEI",
+      "EIS",
+      "SIE",
+      "SIEB",
+      "BIS"
+    ],
+    "word" : "IBSE"
+  },
+  {
+    "rs" : [
+      "EHER",
+      "EHRE",
+      "HEER"
+    ],
+    "word" : "REEH"
+  },
+  {
+    "rs" : [
+      "HUT",
+      "HAUT"
+    ],
+    "word" : "ATHU"
+  },
+  {
+    "rs" : [
+      "GRAM",
+      "ARM",
+      "GAR",
+      "ARG"
+    ],
+    "word" : "AMRG"
+  },
+  {
+    "rs" : [
+      "RÜBE",
+      "ÜBER"
+    ],
+    "word" : "RÜBE"
+  },
+  {
+    "rs" : [
+      "BEIL",
+      "BLEI",
+      "LEIB"
+    ],
+    "word" : "IBLE"
+  },
+  {
+    "rs" : [
+      "EIS",
+      "SIE",
+      "SKI",
+      "KIES"
+    ],
+    "word" : "KISE"
+  },
+  {
+    "rs" : [
+      "NEID",
+      "DEIN",
+      "FEIN",
+      "FEIND"
+    ],
+    "word" : "FDINE"
+  },
+  {
+    "rs" : [
+      "NEID",
+      "NIE",
+      "EIN",
+      "DEIN"
+    ],
+    "word" : "DINE"
+  },
+  {
+    "rs" : [
+      "ZU",
+      "ABZUG",
+      "ZUG",
+      "BAU"
+    ],
+    "word" : "ABUZG"
+  },
+  {
+    "rs" : [
+      "OHR",
+      "ROH",
+      "ROHR"
+    ],
+    "word" : "RROH"
+  },
+  {
+    "rs" : [
+      "DA",
+      "RAD",
+      "ARM",
+      "DARM"
+    ],
+    "word" : "AMRD"
+  },
+  {
+    "rs" : [
+      "TOBEN",
+      "OBEN"
+    ],
+    "word" : "OTBNE"
+  },
+  {
+    "rs" : [
+      "HEISS",
+      "HIESSE",
+      "EHE",
+      "HEISSE",
+      "HIESS"
+    ],
+    "word" : "HIEESS"
+  },
+  {
+    "rs" : [
+      "BREI",
+      "BRIEF",
+      "FREI",
+      "BIER"
+    ],
+    "word" : "FRIBE"
+  },
+  {
+    "rs" : [
+      "DEIN",
+      "LIED",
+      "LINDE"
+    ],
+    "word" : "DINLE"
+  },
+  {
+    "rs" : [
+      "EIS",
+      "SIEG",
+      "GEIST",
+      "SEIT"
+    ],
+    "word" : "TIGSE"
+  },
+  {
+    "rs" : [
+      "KEIN",
+      "KNIE"
+    ],
+    "word" : "KINE"
+  },
+  {
+    "rs" : [
+      "GRAM",
+      "ARG",
+      "ARM",
+      "GAR",
+      "GRAMM"
+    ],
+    "word" : "AMMRG"
+  },
+  {
+    "rs" : [
+      "SEIT",
+      "MEIST",
+      "MIES"
+    ],
+    "word" : "TMISE"
+  },
+  {
+    "rs" : [
+      "AUCH",
+      "BACH",
+      "BUCH",
+      "BAUCH",
+      "BAU"
+    ],
+    "word" : "HABUC"
+  },
+  {
+    "rs" : [
+      "EIS",
+      "IN",
+      "SEIN",
+      "EINS"
+    ],
+    "word" : "INSE"
+  },
+  {
+    "rs" : [
+      "LANG",
+      "LAGE",
+      "EGAL",
+      "NAGEL"
+    ],
+    "word" : "AGNLE"
+  },
+  {
+    "rs" : [
+      "IHRE",
+      "REIHE",
+      "EHRE",
+      "HIER"
+    ],
+    "word" : "HRIEE"
+  },
+  {
+    "rs" : [
+      "LEIB",
+      "LIEB",
+      "EILE",
+      "BLEI",
+      "LIEBE"
+    ],
+    "word" : "IBLEE"
+  },
+  {
+    "rs" : [
+      "RAT",
+      "AUTOR",
+      "TOR",
+      "ART",
+      "ROT",
+      "ORT"
+    ],
+    "word" : "AORTU"
+  },
+  {
+    "rs" : [
+      "EINS",
+      "SEIN",
+      "EINST"
+    ],
+    "word" : "TINSE"
+  },
+  {
+    "rs" : [
+      "REH",
+      "HER",
+      "FRÜH",
+      "FRÜHE",
+      "FÜR"
+    ],
+    "word" : "HFRÜE"
+  },
+  {
+    "rs" : [
+      "STIL",
+      "LISTE",
+      "SEIL",
+      "STEIL",
+      "SEIT",
+      "TEIL"
+    ],
+    "word" : "STILE"
+  },
+  {
+    "rs" : [
+      "GERN",
+      "REGE",
+      "ENGE"
+    ],
+    "word" : "RNEEG"
+  },
+  {
+    "rs" : [
+      "SORTE",
+      "ROSE",
+      "ERST",
+      "REST",
+      "ROST"
+    ],
+    "word" : "OTRES"
+  },
+  {
+    "rs" : [
+      "TÜTE",
+      "HÜTE",
+      "HÜTET",
+      "HÜTTE"
+    ],
+    "word" : "HTTÜE"
+  },
+  {
+    "rs" : [
+      "POST",
+      "SPORT",
+      "ORT",
+      "ROST",
+      "ROT"
+    ],
+    "word" : "OTRPS"
+  },
+  {
+    "rs" : [
+      "WINDEN",
+      "WENN",
+      "NEID",
+      "NEIN",
+      "DEIN",
+      "WEIN",
+      "DENN",
+      "WIND"
+    ],
+    "word" : "DWNNEI"
+  },
+  {
+    "rs" : [
+      "AGENT",
+      "TAG",
+      "GETAN",
+      "ENG"
+    ],
+    "word" : "ATNEG"
+  },
+  {
+    "rs" : [
+      "REIFEN",
+      "FEIERN",
+      "FERIEN",
+      "NIERE"
+    ],
+    "word" : "FRINEE"
+  },
+  {
+    "rs" : [
+      "LEER",
+      "EHER",
+      "LEHRE",
+      "EHRE"
+    ],
+    "word" : "HRLEE"
+  },
+  {
+    "rs" : [
+      "DIE",
+      "EID",
+      "IDEE"
+    ],
+    "word" : "DIEE"
+  },
+  {
+    "rs" : [
+      "EISEN",
+      "SEIN",
+      "REISE",
+      "REIN",
+      "REIS"
+    ],
+    "word" : "RINEES"
+  },
+  {
+    "rs" : [
+      "PIEPT",
+      "PIEP",
+      "TIPP"
+    ],
+    "word" : "TIPPE"
+  },
+  {
+    "rs" : [
+      "BAND",
+      "RAD",
+      "RAND",
+      "BRAND",
+      "BAD",
+      "BAR"
+    ],
+    "word" : "ADBNR"
+  },
+  {
+    "rs" : [
+      "BIER",
+      "BEREIT",
+      "BREI",
+      "BREITE",
+      "TIER",
+      "BREIT",
+      "ERBE"
+    ],
+    "word" : "TRBIEE"
+  },
+  {
+    "rs" : [
+      "BACH",
+      "ABBRUCH",
+      "BUCH",
+      "BRAUCH",
+      "AUCH"
+    ],
+    "word" : "HARBBUC"
+  },
+  {
+    "rs" : [
+      "MEER",
+      "RIEMEN",
+      "REIN",
+      "EIMER",
+      "MEIN"
+    ],
+    "word" : "MRINEE"
+  },
+  {
+    "rs" : [
+      "EDEL",
+      "LIED",
+      "IDEE",
+      "DIELE",
+      "EILE",
+      "LEID"
+    ],
+    "word" : "DILEE"
+  },
+  {
+    "rs" : [
+      "RAUB",
+      "BART",
+      "BRAUT",
+      "TABU"
+    ],
+    "word" : "ATRBU"
+  },
+  {
+    "rs" : [
+      "HÄLT",
+      "ZÄHLT"
+    ],
+    "word" : "HÄTZL"
+  },
+  {
+    "rs" : [
+      "AST",
+      "MARS",
+      "SAMT",
+      "ARM",
+      "ART"
+    ],
+    "word" : "ATRMS"
+  },
+  {
+    "rs" : [
+      "NEID",
+      "DREI",
+      "RINDE",
+      "DEIN",
+      "REIN",
+      "RIND"
+    ],
+    "word" : "DINRE"
+  },
+  {
+    "rs" : [
+      "TEUER",
+      "REUE",
+      "TREU",
+      "TREUE",
+      "EUER"
+    ],
+    "word" : "TRUEE"
+  },
+  {
+    "rs" : [
+      "LAUNE",
+      "RATEN",
+      "NATUR",
+      "NEUTRAL",
+      "ALTER"
+    ],
+    "word" : "EARNTLU"
+  },
+  {
+    "rs" : [
+      "BAUT",
+      "STAUB",
+      "TAUB",
+      "STAU",
+      "TABU"
+    ],
+    "word" : "ATBUS"
+  },
+  {
+    "rs" : [
+      "TEAM",
+      "AMT",
+      "ATEM",
+      "THEMA"
+    ],
+    "word" : "ATMHE"
+  },
+  {
+    "rs" : [
+      "VIEL",
+      "OLIVE",
+      "LIVE"
+    ],
+    "word" : "VOILE"
+  },
+  {
+    "rs" : [
+      "NEST",
+      "REST",
+      "TEST",
+      "TRÖSTEN"
+    ],
+    "word" : "ETTRNSÖ"
+  },
+  {
+    "rs" : [
+      "NASE",
+      "SAGE",
+      "GANS",
+      "SAGEN"
+    ],
+    "word" : "AGNSE"
+  },
+  {
+    "rs" : [
+      "KERL",
+      "KLAR",
+      "MAKLER",
+      "REAL",
+      "MERKMAL",
+      "KAMEL"
+    ],
+    "word" : "AMMKRLE"
+  },
+  {
+    "rs" : [
+      "AUGE",
+      "GENAU",
+      "GRAU",
+      "GERN",
+      "RAGE",
+      "GAUNER"
+    ],
+    "word" : "AERGUN"
+  },
+  {
+    "rs" : [
+      "AUGE",
+      "BLAU",
+      "GLAUBE",
+      "GABE",
+      "GELB",
+      "GABEL"
+    ],
+    "word" : "AEBGUL"
+  },
+  {
+    "rs" : [
+      "REIF",
+      "FREI",
+      "TIEF",
+      "FERTIG"
+    ],
+    "word" : "TRIFEG"
+  },
+  {
+    "rs" : [
+      "SCHAF",
+      "FACH",
+      "HALS",
+      "FLACH",
+      "SCHLAF"
+    ],
+    "word" : "HASFLC"
+  },
+  {
+    "rs" : [
+      "SCHIEF",
+      "FRISCHE",
+      "FRISCH",
+      "FISCHER"
+    ],
+    "word" : "IRESFCH"
+  },
+  {
+    "rs" : [
+      "EILEN",
+      "LEINE",
+      "LEBEN",
+      "BIENE",
+      "LIEBEN",
+      "LIEBE"
+    ],
+    "word" : "EEINLB"
+  },
+  {
+    "rs" : [
+      "RAT",
+      "RATE",
+      "WERT",
+      "WARTEN",
+      "WER",
+      "ETWA",
+      "ART"
+    ],
+    "word" : "ATRWNE"
+  },
+  {
+    "rs" : [
+      "TIER",
+      "DREI",
+      "ECHT",
+      "HIER",
+      "RECHT",
+      "DICHT"
+    ],
+    "word" : "DIRETCH"
+  },
+  {
+    "rs" : [
+      "IST",
+      "ZWIST",
+      "WITZ"
+    ],
+    "word" : "TIWZS"
+  },
+  {
+    "rs" : [
+      "SPIEL",
+      "LISTE",
+      "TEILS",
+      "PISTOLE"
+    ],
+    "word" : "IESOTPL"
+  },
+  {
+    "rs" : [
+      "OSTERN",
+      "NOTE",
+      "ROSTEN",
+      "STERN",
+      "REST",
+      "ROTE",
+      "SORTE"
+    ],
+    "word" : "OTRNSE"
+  },
+  {
+    "rs" : [
+      "BREI",
+      "FREI",
+      "BIER",
+      "GIER",
+      "BERG",
+      "BEGRIFF"
+    ],
+    "word" : "FFRIGBE"
+  },
+  {
+    "rs" : [
+      "LAGE",
+      "LAGER",
+      "EGAL",
+      "REAL"
+    ],
+    "word" : "ARGLE"
+  },
+  {
+    "rs" : [
+      "STERN",
+      "ERST",
+      "NEST"
+    ],
+    "word" : "TRNSE"
+  },
+  {
+    "rs" : [
+      "RUHE",
+      "HAUS",
+      "HERAUS",
+      "SEHR",
+      "ER"
+    ],
+    "word" : "HARUES"
+  },
+  {
+    "rs" : [
+      "LANG",
+      "NAME",
+      "ANGELN",
+      "MANN",
+      "MANGELN",
+      "NAGEL"
+    ],
+    "word" : "AMEGLNN"
+  },
+  {
+    "rs" : [
+      "FERN",
+      "NEU",
+      "NUR",
+      "RUF",
+      "UFER",
+      "RUFEN"
+    ],
+    "word" : "FRUNE"
+  },
+  {
+    "rs" : [
+      "LAGE",
+      "GABE",
+      "GELB",
+      "GABEL"
+    ],
+    "word" : "ABGLE"
+  },
+  {
+    "rs" : [
+      "NACH",
+      "NASE",
+      "DACH",
+      "HAND",
+      "HASE",
+      "SAND"
+    ],
+    "word" : "DEANSCH"
+  },
+  {
+    "rs" : [
+      "KINN",
+      "KNIE",
+      "NEIN",
+      "KEIN"
+    ],
+    "word" : "KINNE"
+  },
+  {
+    "rs" : [
+      "TUN",
+      "PUNK",
+      "PUNKT"
+    ],
+    "word" : "TKPUN"
+  },
+  {
+    "rs" : [
+      "EDEL",
+      "REDE",
+      "LEER",
+      "ERDE",
+      "LEDER"
+    ],
+    "word" : "DRLEE"
+  },
+  {
+    "rs" : [
+      "MIETER",
+      "RATE",
+      "ATEM",
+      "TIER",
+      "MEER",
+      "TEAM",
+      "MATERIE"
+    ],
+    "word" : "AMRTIEE"
+  },
+  {
+    "rs" : [
+      "EITEL",
+      "EILE",
+      "ELITE",
+      "TEIL"
+    ],
+    "word" : "TILEE"
+  },
+  {
+    "rs" : [
+      "KUR",
+      "ZUR",
+      "KURZ",
+      "KURZE",
+      "KREUZ"
+    ],
+    "word" : "KRUZE"
+  },
+  {
+    "rs" : [
+      "NOT",
+      "TON",
+      "SONST"
+    ],
+    "word" : "OTNSS"
+  },
+  {
+    "rs" : [
+      "BAUER",
+      "ABER",
+      "BRAUSE",
+      "SAUBER",
+      "RABE"
+    ],
+    "word" : "ARBUES"
+  },
+  {
+    "rs" : [
+      "FAHNE",
+      "FAHREN",
+      "HAFER",
+      "HAFEN"
+    ],
+    "word" : "HARFNE"
+  },
+  {
+    "rs" : [
+      "HAFT",
+      "TRAF",
+      "ART",
+      "FAHRT",
+      "HART"
+    ],
+    "word" : "HARFT"
+  },
+  {
+    "rs" : [
+      "KERL",
+      "REIZ",
+      "ZIEL",
+      "ZIRKEL",
+      "KEIL"
+    ],
+    "word" : "EKIRLZ"
+  },
+  {
+    "rs" : [
+      "EIS",
+      "DIES",
+      "SEE",
+      "IDEE",
+      "SEIDE",
+      "DIE"
+    ],
+    "word" : "DIEES"
+  },
+  {
+    "rs" : [
+      "ERBEN",
+      "BIETE",
+      "BIENE",
+      "BREITEN"
+    ],
+    "word" : "TRINBEE"
+  },
+  {
+    "rs" : [
+      "NEST",
+      "REST",
+      "ERNST",
+      "STERN"
+    ],
+    "word" : "TRNSE"
+  },
+  {
+    "rs" : [
+      "NENN",
+      "DÜNN",
+      "DENN",
+      "DÜNNE",
+      "DÜNNEN"
+    ],
+    "word" : "DÜNNNE"
+  },
+  {
+    "rs" : [
+      "ELAN",
+      "LAGE",
+      "LANG",
+      "EGAL",
+      "ENG",
+      "NAGEL"
+    ],
+    "word" : "AEGLN"
+  },
+  {
+    "rs" : [
+      "SEIN",
+      "SEIL",
+      "LINSE",
+      "INSEL",
+      "EINS"
+    ],
+    "word" : "SINLE"
+  },
+  {
+    "rs" : [
+      "LAIE",
+      "MAIS",
+      "NASE",
+      "SEIL",
+      "INSEL",
+      "NIEMALS",
+      "MEIN",
+      "NAME"
+    ],
+    "word" : "MIEANSL"
+  },
+  {
+    "rs" : [
+      "REIH",
+      "REIHE",
+      "EHER",
+      "EHRE",
+      "HIER"
+    ],
+    "word" : "HRIEE"
+  },
+  {
+    "rs" : [
+      "BEI",
+      "BREI",
+      "FREI",
+      "BIER",
+      "REIF",
+      "BRIEF"
+    ],
+    "word" : "FRIBE"
+  },
+  {
+    "rs" : [
+      "NETT",
+      "TÖTEN",
+      "TÖNE"
+    ],
+    "word" : "TTNEÖ"
+  },
+  {
+    "rs" : [
+      "NAME",
+      "TEAM",
+      "AMT",
+      "ATEM",
+      "ATMEN"
+    ],
+    "word" : "AMTNE"
+  },
+  {
+    "rs" : [
+      "ECHT",
+      "STEHE",
+      "SEHT",
+      "STEH"
+    ],
+    "word" : "EETHSC"
+  },
+  {
+    "rs" : [
+      "WECKE",
+      "ECKE",
+      "ZWECK",
+      "ZWECKE"
+    ],
+    "word" : "EEKWZC"
+  },
+  {
+    "rs" : [
+      "NÄHE",
+      "ZEH",
+      "ZEHN",
+      "ZÄHNE",
+      "ZÄH"
+    ],
+    "word" : "HÄNZE"
+  },
+  {
+    "rs" : [
+      "DÜNNE",
+      "DÜNN",
+      "DENN",
+      "DEN"
+    ],
+    "word" : "DÜNNE"
+  },
+  {
+    "rs" : [
+      "FAN",
+      "FAHNE",
+      "NAH",
+      "HAFEN"
+    ],
+    "word" : "AFHNE"
+  },
+  {
+    "rs" : [
+      "LEIB",
+      "EILE",
+      "LIEB",
+      "BEIL",
+      "BLEI",
+      "LIEBE"
+    ],
+    "word" : "IBLEE"
+  },
+  {
+    "rs" : [
+      "ARTE",
+      "BETRAG",
+      "RATE",
+      "RAGE",
+      "RABE"
+    ],
+    "word" : "ATRBGE"
+  },
+  {
+    "rs" : [
+      "FERN",
+      "KRÄFTE",
+      "KERN",
+      "TRÄNE",
+      "KRÄFTEN"
+    ],
+    "word" : "RNEFÄKT"
+  },
+  {
+    "rs" : [
+      "LAGE",
+      "REGAL",
+      "EGAL",
+      "REAL"
+    ],
+    "word" : "ARGLE"
+  },
+  {
+    "rs" : [
+      "DIE",
+      "LEDIG",
+      "GELD",
+      "IGEL",
+      "LEID"
+    ],
+    "word" : "DIGLE"
+  },
+  {
+    "rs" : [
+      "HEER",
+      "EHER",
+      "EHE",
+      "EHRE"
+    ],
+    "word" : "REEH"
+  },
+  {
+    "rs" : [
+      "CHIP",
+      "PECH",
+      "CHIPS",
+      "EPISCH"
+    ],
+    "word" : "EHIPSC"
+  },
+  {
+    "rs" : [
+      "NEID",
+      "DREI",
+      "RINDE",
+      "REIN",
+      "RIND"
+    ],
+    "word" : "DINRE"
+  },
+  {
+    "rs" : [
+      "SEIL",
+      "IGEL",
+      "SIEG",
+      "GLEIS"
+    ],
+    "word" : "EIGSL"
+  },
+  {
+    "rs" : [
+      "EHRUNG",
+      "HUNGERN",
+      "HUNGER",
+      "UNGERN"
+    ],
+    "word" : "HERGUNN"
+  },
+  {
+    "rs" : [
+      "EIS",
+      "SIE",
+      "KIES",
+      "KREIS",
+      "KRISE",
+      "REIS"
+    ],
+    "word" : "KIRES"
+  },
+  {
+    "rs" : [
+      "GEIER",
+      "REGIE",
+      "GIER",
+      "REGE"
+    ],
+    "word" : "RIGEE"
+  },
+  {
+    "rs" : [
+      "SACHE",
+      "HASE",
+      "ACHSE",
+      "ASCHE"
+    ],
+    "word" : "AEHSC"
+  },
+  {
+    "rs" : [
+      "BREI",
+      "BEIN",
+      "BIER",
+      "REIN",
+      "BIRNE"
+    ],
+    "word" : "RINBE"
+  },
+  {
+    "rs" : [
+      "NOTE",
+      "TON",
+      "BOTE",
+      "OBEN",
+      "BETON",
+      "TOBEN"
+    ],
+    "word" : "OTBNE"
+  },
+  {
+    "rs" : [
+      "NASE",
+      "NAME",
+      "SAMEN",
+      "MENSA"
+    ],
+    "word" : "AMNSE"
+  },
+  {
+    "rs" : [
+      "KERL",
+      "ÄLTER",
+      "KÄLTE",
+      "KÄLTER"
+    ],
+    "word" : "ÄKRTLE"
+  },
+  {
+    "rs" : [
+      "ORT",
+      "TOR",
+      "OHR",
+      "ROST",
+      "ROH",
+      "STROH",
+      "ROT"
+    ],
+    "word" : "HORTS"
+  },
+  {
+    "rs" : [
+      "REH",
+      "RABE",
+      "BAR",
+      "HERAB",
+      "ABER"
+    ],
+    "word" : "AHRBE"
+  },
+  {
+    "rs" : [
+      "KNIE",
+      "KEIN",
+      "KEIL",
+      "KLEIN"
+    ],
+    "word" : "KINLE"
+  },
+  {
+    "rs" : [
+      "ART",
+      "RAT",
+      "ARZT"
+    ],
+    "word" : "ATRZ"
+  },
+  {
+    "rs" : [
+      "LÜGE",
+      "ZÜGEL",
+      "LÜG",
+      "ZÜGE"
+    ],
+    "word" : "EÜGZL"
+  },
+  {
+    "rs" : [
+      "KLEIN",
+      "WINKEL"
+    ],
+    "word" : "LKINEW"
+  },
+  {
+    "rs" : [
+      "RIESE",
+      "SEIDE",
+      "REISE",
+      "DIESER"
+    ],
+    "word" : "DIREES"
+  },
+  {
+    "rs" : [
+      "FEIER",
+      "FREIE",
+      "REIFE"
+    ],
+    "word" : "FRIEE"
+  },
+  {
+    "rs" : [
+      "STERBEN",
+      "BETEN",
+      "BESEN",
+      "STREBEN"
+    ],
+    "word" : "TRBNEES"
+  },
+  {
+    "rs" : [
+      "ASCHE",
+      "SACHE",
+      "SCHALE",
+      "ACHSE"
+    ],
+    "word" : "HAESLC"
+  },
+  {
+    "rs" : [
+      "BANGE",
+      "GABEL",
+      "BELANG",
+      "NAGEL"
+    ],
+    "word" : "AEBGLN"
+  },
+  {
+    "rs" : [
+      "KÖNNT",
+      "KÖNNE",
+      "TÖNEN",
+      "KENNT",
+      "KÖNNTE"
+    ],
+    "word" : "TKNNEÖ"
+  },
+  {
+    "rs" : [
+      "OSTERN",
+      "NOTE",
+      "ROSTEN",
+      "STERN",
+      "NEST",
+      "REST",
+      "SORTE",
+      "ERNST"
+    ],
+    "word" : "OTRNSE"
+  },
+  {
+    "rs" : [
+      "OBER",
+      "OBERST",
+      "BOTE",
+      "ERST",
+      "REST",
+      "ROSE"
+    ],
+    "word" : "OTRBES"
+  },
+  {
+    "rs" : [
+      "DETAIL",
+      "IDEAL",
+      "TADEL",
+      "ADEL",
+      "LIED",
+      "LEID",
+      "TEIL"
+    ],
+    "word" : "ATDILE"
+  },
+  {
+    "rs" : [
+      "DIENST",
+      "EINS",
+      "NEID",
+      "DEIN",
+      "DIES",
+      "SEIN",
+      "EINST",
+      "NEST"
+    ],
+    "word" : "TDINSE"
+  },
+  {
+    "rs" : [
+      "KISTE",
+      "INSEKT",
+      "KNIE",
+      "SEIT",
+      "SEIN",
+      "EINST",
+      "STEIN"
+    ],
+    "word" : "TKINSE"
+  },
+  {
+    "rs" : [
+      "ELAN",
+      "LAGE",
+      "LANG",
+      "PLAN",
+      "EGAL",
+      "PLAGEN"
+    ],
+    "word" : "AEPGLN"
+  },
+  {
+    "rs" : [
+      "FEIND",
+      "FINDEN"
+    ],
+    "word" : "FDINNE"
+  },
+  {
+    "rs" : [
+      "BEIN",
+      "BINDEN",
+      "NEID",
+      "NEIN",
+      "DEIN",
+      "DIEB",
+      "DENN"
+    ],
+    "word" : "DINNBE"
+  },
+  {
+    "rs" : [
+      "RIESIG",
+      "GIER",
+      "SIEG",
+      "EISIG",
+      "REIS"
+    ],
+    "word" : "RIIGES"
+  },
+  {
+    "rs" : [
+      "WIESEL",
+      "WIESE",
+      "WEILE",
+      "LEISE"
+    ],
+    "word" : "SIWLEE"
+  },
+  {
+    "rs" : [
+      "BIER",
+      "LIEBER",
+      "LEIB",
+      "BLEI",
+      "EILE",
+      "LEBER",
+      "LEER",
+      "LIEBE"
+    ],
+    "word" : "RBILEE"
+  },
+  {
+    "rs" : [
+      "GEBURT",
+      "BURG",
+      "TREU",
+      "BERG",
+      "BETRUG"
+    ],
+    "word" : "TRBGUE"
+  },
+  {
+    "rs" : [
+      "ORDEN",
+      "MORDEN",
+      "MODE",
+      "NORM",
+      "MOND",
+      "DORN",
+      "ENORM"
+    ],
+    "word" : "OMDRNE"
+  },
+  {
+    "rs" : [
+      "FEIERN",
+      "FERIEN",
+      "NIERE",
+      "FERN",
+      "REIF",
+      "FEIN",
+      "FREI"
+    ],
+    "word" : "FRINEE"
+  },
+  {
+    "rs" : [
+      "KINN",
+      "KNIE",
+      "NEIN",
+      "WINKEN"
+    ],
+    "word" : "KINNEW"
+  },
+  {
+    "rs" : [
+      "HIN",
+      "DAHIN",
+      "HAND",
+      "IHN",
+      "NAH"
+    ],
+    "word" : "AHDIN"
+  },
+  {
+    "rs" : [
+      "ANREIZ",
+      "NIE",
+      "EIN",
+      "REIN",
+      "REIZ"
+    ],
+    "word" : "ARINZE"
+  },
+  {
+    "rs" : [
+      "IDEE",
+      "LEIDEN",
+      "DEIN",
+      "EDEL",
+      "EILE",
+      "LIED",
+      "ENDE",
+      "LEID"
+    ],
+    "word" : "DINLEE"
+  },
+  {
+    "rs" : [
+      "KÜHE",
+      "KÜHL",
+      "KÜHLE",
+      "KÜHLEN"
+    ],
+    "word" : "HKÜNLE"
+  },
+  {
+    "rs" : [
+      "REH",
+      "MEHR",
+      "MENÜ",
+      "MÜHE",
+      "RÜHMEN"
+    ],
+    "word" : "HMRÜNE"
+  },
+  {
+    "rs" : [
+      "EINST",
+      "SEIN",
+      "NEST",
+      "SEIT",
+      "EINS"
+    ],
+    "word" : "TINES"
+  },
+  {
+    "rs" : [
+      "MEIN",
+      "MEER",
+      "RIEMEN",
+      "REIN",
+      "EIMER",
+      "NIERE"
+    ],
+    "word" : "MRINEE"
+  },
+  {
+    "rs" : [
+      "TENNIS",
+      "EINS",
+      "SINN",
+      "NEIN",
+      "SEIT",
+      "SEIN",
+      "NEST"
+    ],
+    "word" : "TINNES"
+  },
+  {
+    "rs" : [
+      "RINGEN",
+      "RING",
+      "GIER",
+      "NEIN",
+      "GERN",
+      "REIN"
+    ],
+    "word" : "RIGNNE"
+  },
+  {
+    "rs" : [
+      "HART",
+      "HEIRAT",
+      "TIER",
+      "HIER"
+    ],
+    "word" : "ATRIHE"
+  },
+  {
+    "rs" : [
+      "ECHO",
+      "NOCH",
+      "WOCHE",
+      "OHNE"
+    ],
+    "word" : "OHWNEC"
+  },
+  {
+    "rs" : [
+      "INGWER",
+      "REIN",
+      "GERN",
+      "RING",
+      "GIER",
+      "WEIN",
+      "EWIG"
+    ],
+    "word" : "ERIGWN"
+  },
+  {
+    "rs" : [
+      "MANDEL",
+      "LAND",
+      "LADEN",
+      "ADEL",
+      "NAME",
+      "DAME",
+      "ELAN"
+    ],
+    "word" : "AMDNLE"
+  },
+  {
+    "rs" : [
+      "STIL",
+      "LISTE",
+      "SEIL",
+      "STEIL",
+      "TEILS",
+      "SEIT"
+    ],
+    "word" : "STILE"
+  },
+  {
+    "rs" : [
+      "EIS",
+      "MIES",
+      "MEIST",
+      "MIST",
+      "SEIT"
+    ],
+    "word" : "MTIES"
+  },
+  {
+    "rs" : [
+      "FEUER",
+      "FEUERN",
+      "FREUEN",
+      "REUE",
+      "FERNE",
+      "FERN",
+      "RUFEN"
+    ],
+    "word" : "FRNUEE"
+  },
+  {
+    "rs" : [
+      "TABU",
+      "BRAUT",
+      "RAUB",
+      "BART",
+      "TAUB",
+      "BAU"
+    ],
+    "word" : "ATRBU"
+  },
+  {
+    "rs" : [
+      "GELB",
+      "LIEB",
+      "EIGELB",
+      "LEIB",
+      "IGEL",
+      "BLEI",
+      "EILE"
+    ],
+    "word" : "EEIGLB"
+  },
+  {
+    "rs" : [
+      "BIER",
+      "ARBEIT",
+      "BEI",
+      "BART",
+      "BREIT",
+      "ART",
+      "ABER"
+    ],
+    "word" : "ATRIBE"
+  },
+  {
+    "rs" : [
+      "ENDE",
+      "NEID",
+      "REIN",
+      "DIENER",
+      "NIEDER"
+    ],
+    "word" : "DINREE"
+  },
+  {
+    "rs" : [
+      "SEIL",
+      "IGEL",
+      "EILE",
+      "GLEIS",
+      "LEISE"
+    ],
+    "word" : "SIGLEE"
+  },
+  {
+    "rs" : [
+      "SEIN",
+      "WEISEN",
+      "WEIN",
+      "WIE",
+      "EINS"
+    ],
+    "word" : "SIWNEE"
+  },
+  {
+    "rs" : [
+      "SEIN",
+      "SEIL",
+      "IGEL",
+      "GLEIS",
+      "SINGLE",
+      "EINS"
+    ],
+    "word" : "ESIGLN"
+  },
+  {
+    "rs" : [
+      "REDE",
+      "ERDE",
+      "EHER",
+      "REDEN",
+      "EHRE",
+      "DREHEN"
+    ],
+    "word" : "HDRNEE"
+  },
+  {
+    "rs" : [
+      "LAGERN",
+      "LANG",
+      "GERN",
+      "RANG",
+      "EGAL",
+      "ELAN",
+      "LAGE"
+    ],
+    "word" : "AERGLN"
+  },
+  {
+    "rs" : [
+      "FEHLER",
+      "LEER",
+      "EHER",
+      "EHRE",
+      "HELFER"
+    ],
+    "word" : "HFRLEE"
+  },
+  {
+    "rs" : [
+      "SAND",
+      "EINS",
+      "SIND",
+      "NASE",
+      "NEID",
+      "ASIEN",
+      "DASEIN",
+      "DIES"
+    ],
+    "word" : "ADINSE"
+  },
+  {
+    "rs" : [
+      "DISKRET",
+      "STREIK",
+      "KREDIT",
+      "DIREKT"
+    ],
+    "word" : "DIRESKT"
+  },
+  {
+    "rs" : [
+      "ELAN",
+      "ALLEIN",
+      "LINEAL",
+      "ALLE",
+      "LAIE",
+      "LILA"
+    ],
+    "word" : "AINLLE"
+  },
+  {
+    "rs" : [
+      "NACH",
+      "HEMD",
+      "DACH",
+      "MACHEN",
+      "DEMNACH",
+      "NACHDEM"
+    ],
+    "word" : "DMEANCH"
+  },
+  {
+    "rs" : [
+      "EISEN",
+      "RIESE",
+      "NIERE",
+      "REISE",
+      "EISERN",
+      "REISEN"
+    ],
+    "word" : "RINEES"
+  },
+  {
+    "rs" : [
+      "SEMINAR",
+      "RASEN",
+      "MEINS",
+      "EINSAM",
+      "MARINE"
+    ],
+    "word" : "MIRANES"
+  },
+  {
+    "rs" : [
+      "EHREN",
+      "EICHE",
+      "NIERE",
+      "REICH",
+      "REIHE",
+      "RIECHEN",
+      "REICHEN"
+    ],
+    "word" : "HRINEEC"
+  },
+  {
+    "rs" : [
+      "BAUER",
+      "BAUEN",
+      "BRAUN",
+      "BRAUEN",
+      "ZAUBERN",
+      "RAUBEN"
+    ],
+    "word" : "ZEARNBU"
+  },
+  {
+    "rs" : [
+      "ENGEL",
+      "GEBEN",
+      "LEBEN",
+      "BELEGEN",
+      "LEGEN",
+      "EBENE"
+    ],
+    "word" : "EEEBGLN"
+  },
+  {
+    "rs" : [
+      "BEREIT",
+      "BREITE",
+      "REITEN",
+      "BREITEN",
+      "TREIBEN",
+      "BIETEN"
+    ],
+    "word" : "TRBNEEI"
+  },
+  {
+    "rs" : [
+      "WAGTE",
+      "GEWAGT",
+      "TAGE",
+      "WAGT"
+    ],
+    "word" : "ATWGGE"
+  },
+  {
+    "rs" : [
+      "WACHEN",
+      "WACHSEN",
+      "WASCHEN",
+      "SACHEN",
+      "SCHWAN"
+    ],
+    "word" : "EAWSNCH"
+  },
+  {
+    "rs" : [
+      "ABEND",
+      "VERBAND",
+      "BADEN",
+      "BRAND"
+    ],
+    "word" : "DVRANEB"
+  },
+  {
+    "rs" : [
+      "SAITEN",
+      "INSERAT",
+      "STERN",
+      "RATEN",
+      "RASEN",
+      "EINST",
+      "ERNST"
+    ],
+    "word" : "IRANSET"
+  },
+  {
+    "rs" : [
+      "REIFE",
+      "REIF",
+      "FREI",
+      "FEIER",
+      "EIFER",
+      "KIEFER"
+    ],
+    "word" : "FKIREE"
+  },
+  {
+    "rs" : [
+      "EILEN",
+      "LEINE",
+      "HILFE",
+      "HELFEN",
+      "FLIEHEN",
+      "FEHLEN"
+    ],
+    "word" : "HFINLEE"
+  },
+  {
+    "rs" : [
+      "TRENNEN",
+      "NENNER",
+      "RENNEN",
+      "ERNTEN"
+    ],
+    "word" : "TRNNNEE"
+  },
+  {
+    "rs" : [
+      "NEBEN",
+      "BETONEN",
+      "BETEN",
+      "TOBEN"
+    ],
+    "word" : "OTBNNEE"
+  },
+  {
+    "rs" : [
+      "ASCHE",
+      "SACHE",
+      "SCHADEN",
+      "SCHADE",
+      "SACHEN",
+      "ACHSE"
+    ],
+    "word" : "DEANSCH"
+  },
+  {
+    "rs" : [
+      "RITZEN",
+      "ZITTERN"
+    ],
+    "word" : "TTRINZE"
+  },
+  {
+    "rs" : [
+      "HAFEN",
+      "FAHNE",
+      "HAUFEN",
+      "HAUEN"
+    ],
+    "word" : "HAFUNE"
+  },
+  {
+    "rs" : [
+      "EINST",
+      "GENIE",
+      "SEITE",
+      "GESTEIN",
+      "EIGEN",
+      "GESTE"
+    ],
+    "word" : "STIGNEE"
+  },
+  {
+    "rs" : [
+      "KUCHEN",
+      "KEUCHEN"
+    ],
+    "word" : "NHKUEEC"
+  },
+  {
+    "rs" : [
+      "DIALEKT",
+      "KALTE",
+      "IDEAL",
+      "KLEID",
+      "TADEL"
+    ],
+    "word" : "DIEAKTL"
+  },
+  {
+    "rs" : [
+      "STERBEN",
+      "RENTE",
+      "BETEN",
+      "ERNST",
+      "STREBEN"
+    ],
+    "word" : "TRBNEES"
+  },
+  {
+    "rs" : [
+      "AMPEL",
+      "LAMPE"
+    ],
+    "word" : "AMPEL"
+  },
+  {
+    "rs" : [
+      "ÜBEN",
+      "ÜBEL",
+      "ÜBLEN",
+      "ÜBLE"
+    ],
+    "word" : "NBÜLE"
+  },
+  {
+    "rs" : [
+      "EILT",
+      "TEIL",
+      "LIESS",
+      "LIESST"
+    ],
+    "word" : "ETISSL"
+  },
+  {
+    "rs" : [
+      "STILLE",
+      "STILLEN"
+    ],
+    "word" : "ETINSLL"
+  },
+  {
+    "rs" : [
+      "ESSEN",
+      "FESSEL",
+      "FELSEN",
+      "FESSELN"
+    ],
+    "word" : "SSFNLEE"
+  },
+  {
+    "rs" : [
+      "ERBEN",
+      "RATEN",
+      "RENTE",
+      "BETEN",
+      "ERNTE",
+      "BERATEN"
+    ],
+    "word" : "ATRBNEE"
+  },
+  {
+    "rs" : [
+      "EINIGEN",
+      "EIGNEN",
+      "NEIGEN"
+    ],
+    "word" : "IINNEEG"
+  },
+  {
+    "rs" : [
+      "HÖHEN",
+      "HÖHLE",
+      "HÖHE"
+    ],
+    "word" : "EHHNLÖ"
+  },
+  {
+    "rs" : [
+      "TRIEB",
+      "BEREIT",
+      "BREITE",
+      "BIETE",
+      "BREIT"
+    ],
+    "word" : "TRIBEE"
+  },
+  {
+    "rs" : [
+      "SEITE",
+      "STIEFEL"
+    ],
+    "word" : "EETFISL"
+  },
+  {
+    "rs" : [
+      "SCHWEIN",
+      "WISCHEN"
+    ],
+    "word" : "IENWSCH"
+  },
+  {
+    "rs" : [
+      "SERIE",
+      "RIESE",
+      "SIRENE",
+      "NIERE",
+      "EISEN",
+      "PREISEN",
+      "REISE",
+      "PREIS"
+    ],
+    "word" : "IRPNSEE"
+  },
+  {
+    "rs" : [
+      "KARTE",
+      "KATER",
+      "KRATZEN"
+    ],
+    "word" : "ZRANEKT"
+  },
+  {
+    "rs" : [
+      "SCHIEF",
+      "SICHER",
+      "FRISCH",
+      "FISCHER"
+    ],
+    "word" : "IRESFCH"
+  },
+  {
+    "rs" : [
+      "NERV",
+      "VERN",
+      "VERS",
+      "SVEN",
+      "NERVÖS"
+    ],
+    "word" : "VSRNEÖ"
+  },
+  {
+    "rs" : [
+      "EISEN",
+      "CHINESE",
+      "SCHIENE"
+    ],
+    "word" : "EEHINSC"
+  },
+  {
+    "rs" : [
+      "ANGELN",
+      "AGENT",
+      "LANGE",
+      "ENTLANG",
+      "NAGEL"
+    ],
+    "word" : "AETGLNN"
+  },
+  {
+    "rs" : [
+      "FILTER",
+      "FREI",
+      "TIER",
+      "LIFT",
+      "LITER",
+      "REIF",
+      "TIEF",
+      "TEIL"
+    ],
+    "word" : "TRFILE"
+  },
+  {
+    "rs" : [
+      "DIESER",
+      "RIESE",
+      "ERDE",
+      "SEIDE",
+      "DREI",
+      "DIES",
+      "REDE"
+    ],
+    "word" : "DIREES"
+  },
+  {
+    "rs" : [
+      "HINKEN",
+      "KINN",
+      "KNIE",
+      "NEIN",
+      "KEIN"
+    ],
+    "word" : "HKINNE"
+  },
+  {
+    "rs" : [
+      "LEIB",
+      "LIEB",
+      "BIER",
+      "WEIB",
+      "BLEI",
+      "WIRBEL"
+    ],
+    "word" : "ERIWLB"
+  },
+  {
+    "rs" : [
+      "EINST",
+      "SEIN",
+      "SITZEN",
+      "EINS",
+      "ZEIT",
+      "ZINS"
+    ],
+    "word" : "STINZE"
+  },
+  {
+    "rs" : [
+      "GARTEN",
+      "RATE",
+      "GERN",
+      "RANG",
+      "TRAGEN",
+      "RATEN",
+      "AGENT"
+    ],
+    "word" : "ATRNEG"
+  },
+  {
+    "rs" : [
+      "EUER",
+      "REUE",
+      "TREU",
+      "ERST",
+      "REST",
+      "STEUER"
+    ],
+    "word" : "TRUEES"
+  },
+  {
+    "rs" : [
+      "LAGER",
+      "LANG",
+      "GERN",
+      "NAGEL",
+      "LAGERN",
+      "REGAL",
+      "ELAN"
+    ],
+    "word" : "AGRNLE"
+  },
+  {
+    "rs" : [
+      "VERLAG",
+      "LAGE",
+      "EGAL",
+      "REAL",
+      "VAGE"
+    ],
+    "word" : "VARGLE"
+  },
+  {
+    "rs" : [
+      "TABU",
+      "RATE",
+      "TRAUBE",
+      "BART",
+      "TAUB",
+      "RABE",
+      "BRAUT",
+      "ABER"
+    ],
+    "word" : "ATRBUE"
+  },
+  {
+    "rs" : [
+      "ENTE",
+      "TRETEN",
+      "NETTER",
+      "RETTEN"
+    ],
+    "word" : "TTRNEE"
+  },
+  {
+    "rs" : [
+      "BIER",
+      "HERBEI",
+      "BREI",
+      "HIER",
+      "EHER",
+      "EHRE",
+      "REIHE",
+      "ERBE"
+    ],
+    "word" : "HRBIEE"
+  },
+  {
+    "rs" : [
+      "SEIL",
+      "IGEL",
+      "EILE",
+      "ESEL",
+      "SIEGEL"
+    ],
+    "word" : "SIGLEE"
+  },
+  {
+    "rs" : [
+      "ABER",
+      "RAUB",
+      "BRAUSE",
+      "SAUBER",
+      "RABE"
+    ],
+    "word" : "ARBUES"
+  },
+  {
+    "rs" : [
+      "AKTE",
+      "ZANK",
+      "KANTE",
+      "AKZENT",
+      "TANZ",
+      "KATZE",
+      "NETZ",
+      "TANK"
+    ],
+    "word" : "ATKNZE"
+  },
+  {
+    "rs" : [
+      "SEIDE",
+      "DIES",
+      "IDEE"
+    ],
+    "word" : "DISEE"
+  },
+  {
+    "rs" : [
+      "ROSTEN",
+      "NOTE",
+      "ERNST",
+      "STERN",
+      "ERST",
+      "REST",
+      "SORTE",
+      "ROSE"
+    ],
+    "word" : "OTRNSE"
+  },
+  {
+    "rs" : [
+      "HIER",
+      "SICHER",
+      "REICH",
+      "SEHR",
+      "REIS"
+    ],
+    "word" : "HSRIEC"
+  },
+  {
+    "rs" : [
+      "EINST",
+      "SEIN",
+      "NEST",
+      "STEIN",
+      "SEIT",
+      "EINS"
+    ],
+    "word" : "TINES"
+  },
+  {
+    "rs" : [
+      "REIF",
+      "FREI",
+      "GIER",
+      "TEIG",
+      "FERTIG"
+    ],
+    "word" : "FRIGET"
+  },
+  {
+    "rs" : [
+      "WEHR",
+      "WEHREN",
+      "EHER",
+      "EHRE",
+      "EHREN"
+    ],
+    "word" : "HRWNEE"
+  },
+  {
+    "rs" : [
+      "NEID",
+      "IDEE",
+      "REIN",
+      "DIENER",
+      "NIEDER"
+    ],
+    "word" : "DINREE"
+  },
+  {
+    "rs" : [
+      "FREIE",
+      "FERIEN",
+      "NIERE",
+      "FERN",
+      "REIF",
+      "FEIN",
+      "FREI"
+    ],
+    "word" : "FRINEE"
+  },
+  {
+    "rs" : [
+      "BREI",
+      "BIER",
+      "EBEN",
+      "BIENE",
+      "REIBEN"
+    ],
+    "word" : "RINBEE"
+  },
+  {
+    "rs" : [
+      "EINS",
+      "SEIN",
+      "ENGE",
+      "SIEGEN",
+      "ENG",
+      "EIGENS"
+    ],
+    "word" : "SIGNEE"
+  },
+  {
+    "rs" : [
+      "RATEN",
+      "ETWA",
+      "RATE",
+      "WARTEN"
+    ],
+    "word" : "ATRWNE"
+  },
+  {
+    "rs" : [
+      "LEITER",
+      "LEER",
+      "EILE",
+      "TIER",
+      "TEIL"
+    ],
+    "word" : "TRILEE"
+  },
+  {
+    "rs" : [
+      "MACHE",
+      "MACHS",
+      "SACHE",
+      "SCHEMA",
+      "HASE",
+      "SCHAM"
+    ],
+    "word" : "HMASEC"
+  },
+  {
+    "rs" : [
+      "LEIB",
+      "BLIND",
+      "LIEB",
+      "BEIN",
+      "BILDEN",
+      "BLEI"
+    ],
+    "word" : "EDINLB"
+  },
+  {
+    "rs" : [
+      "EILT",
+      "LEIB",
+      "LIEB",
+      "LIEBT",
+      "LEBT"
+    ],
+    "word" : "TIBLE"
+  },
+  {
+    "rs" : [
+      "EISERN",
+      "EINS",
+      "REIN",
+      "RIESE",
+      "REISEN",
+      "EISEN",
+      "REIS",
+      "REISE"
+    ],
+    "word" : "RINSEE"
+  },
+  {
+    "rs" : [
+      "FLUT",
+      "BLUFF",
+      "BLUFFT",
+      "BLUT",
+      "LUFT"
+    ],
+    "word" : "FFTBUL"
+  },
+  {
+    "rs" : [
+      "ORDEN",
+      "DROHEN",
+      "ODER",
+      "HORN",
+      "DORN",
+      "HERD",
+      "OHNE"
+    ],
+    "word" : "HODRNE"
+  },
+  {
+    "rs" : [
+      "NEUE",
+      "ZEUGE",
+      "ENGE",
+      "ZEUGEN",
+      "ZUNGE"
+    ],
+    "word" : "NEEGUZ"
+  },
+  {
+    "rs" : [
+      "LEINE",
+      "ENTE",
+      "EITEL",
+      "LEITEN",
+      "TEILEN",
+      "EILEN",
+      "EILE"
+    ],
+    "word" : "TINLEE"
+  },
+  {
+    "rs" : [
+      "ESST",
+      "TESS",
+      "STETS",
+      "SEHT",
+      "TEST",
+      "STEHST"
+    ],
+    "word" : "HTTESS"
+  },
+  {
+    "rs" : [
+      "ELAN",
+      "LAGE",
+      "LANG",
+      "EGAL",
+      "NAGEL"
+    ],
+    "word" : "AEGLN"
+  },
+  {
+    "rs" : [
+      "DRITTE",
+      "TIER",
+      "DREI",
+      "LIED",
+      "LITER",
+      "LEID",
+      "DRITTEL"
+    ],
+    "word" : "TTRDILE"
+  },
+  {
+    "rs" : [
+      "REISS",
+      "RIET",
+      "TIER",
+      "REISST"
+    ],
+    "word" : "TRISSE"
+  },
+  {
+    "rs" : [
+      "SPITZEN",
+      "EINST",
+      "PEST",
+      "ZEIT",
+      "STEIN",
+      "SEIN",
+      "NETZ"
+    ],
+    "word" : "ZIENSTP"
+  },
+  {
+    "rs" : [
+      "BEREUT",
+      "REUE",
+      "ERBE",
+      "EUER"
+    ],
+    "word" : "TRBUEE"
+  },
+  {
+    "rs" : [
+      "IRGEND",
+      "REIN",
+      "NEID",
+      "DEIN",
+      "GIER",
+      "DREI",
+      "RIND",
+      "RINDE"
+    ],
+    "word" : "IRDNEG"
+  },
+  {
+    "rs" : [
+      "ENDE",
+      "DENEN",
+      "BEENDE",
+      "EBENE"
+    ],
+    "word" : "DBNNEEE"
+  },
+  {
+    "rs" : [
+      "TALENT",
+      "TASTEN",
+      "NASE",
+      "SATTELN",
+      "SATT",
+      "ALTE",
+      "NEST"
+    ],
+    "word" : "ATTENLS"
+  },
+  {
+    "rs" : [
+      "KLOSTER",
+      "ROSE",
+      "ERST",
+      "REST",
+      "ROST",
+      "LOSE"
+    ],
+    "word" : "RESOKTL"
+  },
+  {
+    "rs" : [
+      "TEILT",
+      "KEIL",
+      "TEIL",
+      "KITTEL",
+      "KITT",
+      "TITEL"
+    ],
+    "word" : "TTKILE"
+  },
+  {
+    "rs" : [
+      "FRISCH",
+      "SCHIEF",
+      "HIER",
+      "CHEF",
+      "FRISCHE",
+      "FISCHER",
+      "FREI"
+    ],
+    "word" : "IERFSCH"
+  },
+  {
+    "rs" : [
+      "DETAIL",
+      "LAIE",
+      "IDEAL",
+      "ADEL",
+      "LIED",
+      "ALTE",
+      "LEID"
+    ],
+    "word" : "ATDILE"
+  },
+  {
+    "rs" : [
+      "ECHT",
+      "RECHT",
+      "TIER",
+      "DREI",
+      "DICHT",
+      "DICHTER",
+      "HERD"
+    ],
+    "word" : "DIRETCH"
+  },
+  {
+    "rs" : [
+      "HASE",
+      "WACH",
+      "NASE",
+      "WASCHEN",
+      "NAHE",
+      "WAHN",
+      "WACHSEN",
+      "NACH"
+    ],
+    "word" : "EAWNSCH"
+  },
+  {
+    "rs" : [
+      "AKTE",
+      "IDEAL",
+      "TADEL",
+      "DELIKAT",
+      "DIALEKT",
+      "ALTE",
+      "LEID",
+      "KLEID"
+    ],
+    "word" : "DIEAKTL"
+  },
+  {
+    "rs" : [
+      "NAGEL",
+      "LANG",
+      "ANGELN",
+      "MANGELN",
+      "LAGE",
+      "EGAL",
+      "ELAN",
+      "MANN"
+    ],
+    "word" : "AMGNNLE"
+  },
+  {
+    "rs" : [
+      "MAGEN",
+      "NAME",
+      "MANAGER",
+      "RANG",
+      "MAGER",
+      "ARENA"
+    ],
+    "word" : "AAMRGNE"
+  },
+  {
+    "rs" : [
+      "LEISTEN",
+      "ESEL",
+      "SEIL",
+      "EILE",
+      "SEIT",
+      "SEIN",
+      "STIL",
+      "NEST"
+    ],
+    "word" : "EETINLS"
+  },
+  {
+    "rs" : [
+      "LANDEN",
+      "LAND",
+      "HANDELN",
+      "HAND",
+      "DANN",
+      "DENN",
+      "ELAN"
+    ],
+    "word" : "AHDNNLE"
+  },
+  {
+    "rs" : [
+      "FLECK",
+      "KEIN",
+      "KLEIN",
+      "KNIE",
+      "FLICKEN",
+      "KEIL",
+      "FEIN"
+    ],
+    "word" : "IENFKCL"
+  },
+  {
+    "rs" : [
+      "SCHLAU",
+      "GULASCH",
+      "AUCH",
+      "LAUS",
+      "SCHAL",
+      "HAUS",
+      "GLAS",
+      "HALS"
+    ],
+    "word" : "UASGCLH"
+  },
+  {
+    "rs" : [
+      "MAKLER",
+      "KLAR",
+      "KERL",
+      "MARK",
+      "KREML",
+      "REAL",
+      "MALER"
+    ],
+    "word" : "AMKRLE"
+  },
+  {
+    "rs" : [
+      "CRACK",
+      "KARRE",
+      "ACKER",
+      "CRACKER"
+    ],
+    "word" : "AKRRECC"
+  },
+  {
+    "rs" : [
+      "ENDE",
+      "REDE",
+      "REDEN",
+      "REDNER"
+    ],
+    "word" : "RRDNEE"
+  },
+  {
+    "rs" : [
+      "RUHE",
+      "HERAN",
+      "NEUJAHR",
+      "NAHE",
+      "JAHR",
+      "HAUEN"
+    ],
+    "word" : "URAENJH"
+  },
+  {
+    "rs" : [
+      "ETWA",
+      "WELT",
+      "ALTE",
+      "EGAL",
+      "GEWALT"
+    ],
+    "word" : "ATWGLE"
+  },
+  {
+    "rs" : [
+      "LEINE",
+      "HEILEN",
+      "HILFE",
+      "FEILEN",
+      "HELFEN",
+      "FLIEHEN"
+    ],
+    "word" : "HFINLEE"
+  },
+  {
+    "rs" : [
+      "NACH",
+      "NACHDEM",
+      "DEMNACH",
+      "HAND",
+      "NAHE",
+      "MANCH"
+    ],
+    "word" : "DMEANCH"
+  },
+  {
+    "rs" : [
+      "NIERE",
+      "RINDE",
+      "REDEN",
+      "NIEDER"
+    ],
+    "word" : "DINREE"
+  },
+  {
+    "rs" : [
+      "ÜBER",
+      "ERST",
+      "REST",
+      "BÜRSTE",
+      "RÜBE"
+    ],
+    "word" : "TRBÜES"
+  },
+  {
+    "rs" : [
+      "STEIGEN",
+      "EIGEN",
+      "GENIE",
+      "EISEN",
+      "GESTEIN",
+      "SEITE",
+      "GESTE",
+      "GEIST"
+    ],
+    "word" : "GTINSEE"
+  },
+  {
+    "rs" : [
+      "TABU",
+      "RATE",
+      "TRAUBE",
+      "RAUB",
+      "BART",
+      "TAUB",
+      "RABE",
+      "ABER"
+    ],
+    "word" : "ATRBUE"
+  },
+  {
+    "rs" : [
+      "UNTER",
+      "UNSER",
+      "STURM",
+      "ERNST",
+      "STERN",
+      "MUSTERN"
+    ],
+    "word" : "MRNESTU"
+  },
+  {
+    "rs" : [
+      "EISEN",
+      "SEIN",
+      "EINS",
+      "ENGE",
+      "SIEGEN",
+      "EIGENS"
+    ],
+    "word" : "SIGNEE"
+  },
+  {
+    "rs" : [
+      "MICH",
+      "KOCH",
+      "KOMISCH",
+      "SICH"
+    ],
+    "word" : "MISOKCH"
+  },
+  {
+    "rs" : [
+      "SACHEN",
+      "HASE",
+      "SCHADE",
+      "NASE",
+      "SCHADEN",
+      "HAND",
+      "SCHANDE"
+    ],
+    "word" : "DEANSCH"
+  },
+  {
+    "rs" : [
+      "LIED",
+      "LEDIG",
+      "GELD",
+      "IGEL",
+      "LEID"
+    ],
+    "word" : "DIGLE"
+  },
+  {
+    "rs" : [
+      "FAST",
+      "SAFT",
+      "SAMT",
+      "OFTMALS",
+      "ALSO"
+    ],
+    "word" : "MAFOSTL"
+  },
+  {
+    "rs" : [
+      "OSTERN",
+      "NOTE",
+      "ROSTEN",
+      "STERN",
+      "REST",
+      "SORTE",
+      "ERNST"
+    ],
+    "word" : "OTRNSE"
+  },
+  {
+    "rs" : [
+      "RÖSTEN",
+      "STERN",
+      "TÖTEN",
+      "TRÖSTEN",
+      "ERNST",
+      "STÖREN"
+    ],
+    "word" : "ÖTTRNSE"
+  },
+  {
+    "rs" : [
+      "NEID",
+      "LIED",
+      "DEIN",
+      "LINDE",
+      "LEID"
+    ],
+    "word" : "DINLE"
+  },
+  {
+    "rs" : [
+      "DANKE",
+      "DENKBAR",
+      "BADEN",
+      "ANKER",
+      "BRAND"
+    ],
+    "word" : "DEANRBK"
+  },
+  {
+    "rs" : [
+      "ANTEIL",
+      "HALTEN",
+      "HALT",
+      "INHALT",
+      "NAHE",
+      "HEIL",
+      "EINHALT",
+      "TEIL"
+    ],
+    "word" : "IEANTLH"
+  },
+  {
+    "rs" : [
+      "ELAN",
+      "LACHE",
+      "NAHE",
+      "LACHEN",
+      "CLAN"
+    ],
+    "word" : "HAENLC"
+  },
+  {
+    "rs" : [
+      "NACH",
+      "CHEF",
+      "EINFACH",
+      "FACH",
+      "FEIN"
+    ],
+    "word" : "IEANFCH"
+  },
+  {
+    "rs" : [
+      "REIHE",
+      "RIECHEN",
+      "HEREIN",
+      "REICHEN",
+      "NIERE"
+    ],
+    "word" : "HRINEEC"
+  },
+  {
+    "rs" : [
+      "DORN",
+      "MODE",
+      "MOND",
+      "NORM",
+      "ODER",
+      "MORDEN"
+    ],
+    "word" : "OMDRNE"
+  },
+  {
+    "rs" : [
+      "RATE",
+      "ALTER",
+      "LAUNE",
+      "NATUR",
+      "RATEN",
+      "LAUT",
+      "ALTE",
+      "NEUTRAL"
+    ],
+    "word" : "RAENTLU"
+  },
+  {
+    "rs" : [
+      "EDEL",
+      "REDE",
+      "LEER",
+      "ERDE"
+    ],
+    "word" : "RDLEE"
+  },
+  {
+    "rs" : [
+      "PECH",
+      "ACHSE",
+      "ASCHE",
+      "SPRACHE",
+      "HASE",
+      "RACHE"
+    ],
+    "word" : "RAESPCH"
+  },
+  {
+    "rs" : [
+      "GARTEN",
+      "RANG",
+      "TRAGEN",
+      "GERN",
+      "RATE"
+    ],
+    "word" : "ATRGNE"
+  },
+  {
+    "rs" : [
+      "PISTOLE",
+      "SEIL",
+      "LISTE",
+      "STIL",
+      "SPIEL",
+      "STEIL",
+      "POET"
+    ],
+    "word" : "IESOTPL"
+  },
+  {
+    "rs" : [
+      "GIER",
+      "EHER",
+      "EHRGEIZ",
+      "EHRE",
+      "HIER"
+    ],
+    "word" : "HRIGZEE"
+  },
+  {
+    "rs" : [
+      "EISERN",
+      "EINS",
+      "REIN",
+      "REISEN",
+      "EISEN",
+      "REIS",
+      "REISE"
+    ],
+    "word" : "RINSEE"
+  },
+  {
+    "rs" : [
+      "FEIERN",
+      "FERIEN",
+      "REIFEN",
+      "NIERE",
+      "FERN",
+      "FEIN",
+      "FREI"
+    ],
+    "word" : "FRINEE"
+  },
+  {
+    "rs" : [
+      "TREIBEN",
+      "ERBEN",
+      "ERNTE",
+      "BIENE",
+      "BIRNE",
+      "NIERE",
+      "BETEN",
+      "BREITEN"
+    ],
+    "word" : "TRBNEEI"
+  },
+  {
+    "rs" : [
+      "RABE",
+      "GAGE",
+      "GEBAR",
+      "BERG"
+    ],
+    "word" : "ARBGGE"
+  },
+  {
+    "rs" : [
+      "BEGRÜSSE",
+      "ÜBER",
+      "BERGE",
+      "GRÜSS",
+      "REGE",
+      "BERG"
+    ],
+    "word" : "ÜRBGEESS"
+  },
+  {
+    "rs" : [
+      "GRAM",
+      "AM",
+      "MAG",
+      "ARM",
+      "GAR",
+      "ARG"
+    ],
+    "word" : "AMRG"
+  },
+  {
+    "rs" : [
+      "LIEF",
+      "EILE",
+      "PFEIL",
+      "PFEILE"
+    ],
+    "word" : "FIPLEE"
+  },
+  {
+    "rs" : [
+      "TUE",
+      "TEE",
+      "GUTE",
+      "GUT",
+      "GETUE"
+    ],
+    "word" : "TUEEG"
+  },
+  {
+    "rs" : [
+      "NEID",
+      "REDE",
+      "IDEE",
+      "ERDE",
+      "REIN",
+      "NIEDER"
+    ],
+    "word" : "DINREE"
+  },
+  {
+    "rs" : [
+      "BACH",
+      "ABBRUCH",
+      "BUCH",
+      "BRUCH",
+      "BRAUCH",
+      "AUCH"
+    ],
+    "word" : "HARBBUC"
+  },
+  {
+    "rs" : [
+      "GANZE",
+      "GENIE",
+      "ANZEIGE",
+      "ZIEGE",
+      "EIGEN"
+    ],
+    "word" : "AEEIGZN"
+  },
+  {
+    "rs" : [
+      "REDE",
+      "ERDE",
+      "EHRE",
+      "BEHÖRDE"
+    ],
+    "word" : "HRBDEEÖ"
+  },
+  {
+    "rs" : [
+      "LIEB",
+      "EILE",
+      "BLEI",
+      "LIEBE"
+    ],
+    "word" : "IBLEE"
+  },
+  {
+    "rs" : [
+      "PLANET",
+      "STAPEL",
+      "LASTEN",
+      "SPALTEN"
+    ],
+    "word" : "EANSTPL"
+  },
+  {
+    "rs" : [
+      "EILEN",
+      "LEINE",
+      "EITEL",
+      "ELITE",
+      "TEILEN",
+      "LEITEN"
+    ],
+    "word" : "TINLEE"
+  },
+  {
+    "rs" : [
+      "MERKMAL",
+      "KAMEL",
+      "KAMM",
+      "LAMM",
+      "KAMMER",
+      "MAKLER"
+    ],
+    "word" : "AMMKRLE"
+  },
+  {
+    "rs" : [
+      "METER",
+      "MEER",
+      "KERBE",
+      "BEMERKT",
+      "MERKTE"
+    ],
+    "word" : "MKBREET"
+  },
+  {
+    "rs" : [
+      "DAUER",
+      "DRAUSSEN",
+      "AUSSEN",
+      "RUNDE",
+      "AUSSER"
+    ],
+    "word" : "DRANSSEU"
+  },
+  {
+    "rs" : [
+      "EKEL",
+      "KERL",
+      "LEER",
+      "ERKLÄRE"
+    ],
+    "word" : "ÄRRKLEE"
+  },
+  {
+    "rs" : [
+      "RING",
+      "GIER",
+      "INTRIGE",
+      "GERN",
+      "REIN",
+      "TIER"
+    ],
+    "word" : "TRIIGNE"
+  },
+  {
+    "rs" : [
+      "SCHALE",
+      "SACHE",
+      "ELCH",
+      "ASCHE",
+      "ACHSE",
+      "SCHAL",
+      "HALS"
+    ],
+    "word" : "ACEHLS"
+  },
+  {
+    "rs" : [
+      "IDEE",
+      "DIENEN",
+      "NEID",
+      "NEIN",
+      "DEIN",
+      "DENN",
+      "ENDE"
+    ],
+    "word" : "DINNEE"
+  },
+  {
+    "rs" : [
+      "GEIER",
+      "GENIE",
+      "ENERGIE",
+      "NIERE"
+    ],
+    "word" : "RIGNEEE"
+  },
+  {
+    "rs" : [
+      "NAME",
+      "TEAM",
+      "ATMEN",
+      "ATEM"
+    ],
+    "word" : "ATMNE"
+  },
+  {
+    "rs" : [
+      "BAUER",
+      "BRAUN",
+      "RAUBEN"
+    ],
+    "word" : "ARBUEN"
+  },
+  {
+    "rs" : [
+      "RABE",
+      "RAGT",
+      "BETRAG",
+      "RATE",
+      "ARTE",
+      "GARE"
+    ],
+    "word" : "ATRBGE"
+  },
+  {
+    "rs" : [
+      "POET",
+      "NOTE",
+      "TOPF",
+      "OFEN",
+      "FEIN",
+      "EINTOPF",
+      "TIEF"
+    ],
+    "word" : "IENFOTP"
+  },
+  {
+    "rs" : [
+      "NOTE",
+      "NETT",
+      "TOTE",
+      "KNOTEN"
+    ],
+    "word" : "OTTKNNE"
+  },
+  {
+    "rs" : [
+      "BREI",
+      "REIF",
+      "FREI",
+      "BIER",
+      "BRIEF"
+    ],
+    "word" : "FRIBE"
+  },
+  {
+    "rs" : [
+      "KNIE",
+      "WINKEL",
+      "WEIN",
+      "KEIN",
+      "KEIL",
+      "WEIL"
+    ],
+    "word" : "EKIWLN"
+  },
+  {
+    "rs" : [
+      "LIEB",
+      "BLEI",
+      "LEIB"
+    ],
+    "word" : "IBLE"
+  },
+  {
+    "rs" : [
+      "LEINE",
+      "GLEITEN",
+      "ELITE",
+      "EIGEN"
+    ],
+    "word" : "EETIGLN"
+  },
+  {
+    "rs" : [
+      "SAHNE",
+      "SACHE",
+      "SACHEN",
+      "HAUEN",
+      "SCHAUEN"
+    ],
+    "word" : "UEANSCH"
+  },
+  {
+    "rs" : [
+      "AGENT",
+      "ETAGE",
+      "ELEGANT",
+      "ENGEL",
+      "NAGEL"
+    ],
+    "word" : "AEETGLN"
+  },
+  {
+    "rs" : [
+      "BALD",
+      "HASE",
+      "DESHALB",
+      "ADEL",
+      "HALB",
+      "HABE",
+      "HALS"
+    ],
+    "word" : "DEASBLH"
+  },
+  {
+    "rs" : [
+      "GEMEIN",
+      "GENIE",
+      "EIGEN",
+      "MENGE"
+    ],
+    "word" : "MIGNEE"
+  },
+  {
+    "rs" : [
+      "BETE",
+      "REIT",
+      "BIER",
+      "BREITE",
+      "TRIEBE"
+    ],
+    "word" : "TRIBEE"
+  },
+  {
+    "rs" : [
+      "TADEL",
+      "DIALEKT",
+      "LAIE",
+      "DELIKAT",
+      "IDEAL",
+      "KLEID"
+    ],
+    "word" : "DIEAKTL"
+  },
+  {
+    "rs" : [
+      "TEILE",
+      "ELITE",
+      "LEITE",
+      "TEIL"
+    ],
+    "word" : "TILEE"
+  },
+  {
+    "rs" : [
+      "NOTE",
+      "ROSE",
+      "ERST",
+      "REST",
+      "ERNST",
+      "OSTERN"
+    ],
+    "word" : "OTRNES"
+  },
+  {
+    "rs" : [
+      "BREI",
+      "RHEIN",
+      "HINÜBER",
+      "BIER",
+      "RÜBE",
+      "BIRNE"
+    ],
+    "word" : "ÜIRNEBH"
+  },
+  {
+    "rs" : [
+      "EIS",
+      "SIE",
+      "SKI",
+      "KIES",
+      "KREIS",
+      "KRISE"
+    ],
+    "word" : "KIRES"
+  },
+  {
+    "rs" : [
+      "DANKEN",
+      "DANK",
+      "DENN",
+      "DANN"
+    ],
+    "word" : "AKDNNE"
+  },
+  {
+    "rs" : [
+      "RAT",
+      "GAR",
+      "GRATIS",
+      "TAG",
+      "AST",
+      "ARG",
+      "ART",
+      "GAS"
+    ],
+    "word" : "ATRIGS"
+  },
+  {
+    "rs" : [
+      "TÜR",
+      "TRÜBE",
+      "TRÜBEN",
+      "RÜBE",
+      "ÜBEN"
+    ],
+    "word" : "TRBNEÜ"
+  },
+  {
+    "rs" : [
+      "EWIG",
+      "GEN",
+      "WEIN",
+      "WEH",
+      "HINWEG"
+    ],
+    "word" : "HEIGWN"
+  },
+  {
+    "rs" : [
+      "LEINE",
+      "ENTE",
+      "EITEL",
+      "LEITEN",
+      "TEILEN",
+      "EILEN",
+      "EILE",
+      "TEIL"
+    ],
+    "word" : "TINLEE"
+  },
+  {
+    "rs" : [
+      "SEKT",
+      "STÜCK",
+      "KÜSTE",
+      "STECK"
+    ],
+    "word" : "ETKÜSC"
+  },
+  {
+    "rs" : [
+      "DIENST",
+      "EINS",
+      "NEID",
+      "DEIN",
+      "SEIN",
+      "EINST",
+      "NEST"
+    ],
+    "word" : "TDINES"
+  },
+  {
+    "rs" : [
+      "GLAUBE",
+      "LAUBE",
+      "EGAL",
+      "GELB",
+      "GABEL"
+    ],
+    "word" : "AEBGUL"
+  },
+  {
+    "rs" : [
+      "EISERN",
+      "REIN",
+      "RIESE",
+      "NIERE",
+      "REISEN",
+      "EISEN",
+      "REIS",
+      "REISE"
+    ],
+    "word" : "RINSEE"
+  },
+  {
+    "rs" : [
+      "SEKT",
+      "KOSTÜM",
+      "KOMET",
+      "KÜSTE"
+    ],
+    "word" : "MÜESOKT"
+  },
+  {
+    "rs" : [
+      "TANTE",
+      "TATEN",
+      "TANTEN",
+      "NETT"
+    ],
+    "word" : "ATTNNE"
+  },
+  {
+    "rs" : [
+      "BEIN",
+      "BIER",
+      "REIBEN",
+      "NIERE",
+      "BIENE",
+      "BIRNE",
+      "EBEN",
+      "ERBE"
+    ],
+    "word" : "RBNEEI"
+  },
+  {
+    "rs" : [
+      "IRRE",
+      "RINGER",
+      "GERN",
+      "REIN"
+    ],
+    "word" : "RRINEG"
+  },
+  {
+    "rs" : [
+      "KIES",
+      "KREIS",
+      "KRISE",
+      "REIS",
+      "KAISER"
+    ],
+    "word" : "AKIRES"
+  },
+  {
+    "rs" : [
+      "FEHLER",
+      "EHER",
+      "EHE",
+      "EHRE",
+      "LEHRE"
+    ],
+    "word" : "HFRLEE"
+  },
+  {
+    "rs" : [
+      "ERKLÄR",
+      "KÄLTER",
+      "KERL",
+      "KLÄRT",
+      "ERKLÄRT",
+      "KÄLTE",
+      "ÄLTER"
+    ],
+    "word" : "ÄKRRTLE"
+  },
+  {
+    "rs" : [
+      "LASTER",
+      "RATE",
+      "REST",
+      "ALTER",
+      "ERST",
+      "ALTE",
+      "REAL",
+      "STAR"
+    ],
+    "word" : "ATRELS"
+  },
+  {
+    "rs" : [
+      "ABFAHRT",
+      "HAFT",
+      "BART",
+      "HAAR"
+    ],
+    "word" : "AATRBFH"
+  },
+  {
+    "rs" : [
+      "KAMM",
+      "KLAR",
+      "KERL",
+      "MARK",
+      "MERKMAL",
+      "LAMM",
+      "REAL"
+    ],
+    "word" : "AMMKRLE"
+  },
+  {
+    "rs" : [
+      "WENN",
+      "NEIN",
+      "WEIN",
+      "WEINEN"
+    ],
+    "word" : "INNEEW"
+  },
+  {
+    "rs" : [
+      "REGIE",
+      "REIF",
+      "REGE",
+      "RIEF",
+      "EIFER",
+      "GREIFE"
+    ],
+    "word" : "FRIGEE"
+  },
+  {
+    "rs" : [
+      "FEIERN",
+      "FERIEN",
+      "REIFEN",
+      "FERN",
+      "FEIN",
+      "FEIER",
+      "FREI"
+    ],
+    "word" : "FRINEE"
+  },
+  {
+    "rs" : [
+      "REIFEN",
+      "FEIERN",
+      "GREIFEN",
+      "FERIEN",
+      "FINGER"
+    ],
+    "word" : "FRIGNEE"
+  },
+  {
+    "rs" : [
+      "CAFE",
+      "FACH",
+      "FLASCHE",
+      "HALS",
+      "ELCH"
+    ],
+    "word" : "EASFCLH"
+  },
+  {
+    "rs" : [
+      "NETZ",
+      "NEST",
+      "ERST",
+      "REST",
+      "RÜSTEN",
+      "STÜRZEN"
+    ],
+    "word" : "ÜZRNEST"
+  },
+  {
+    "rs" : [
+      "HABE",
+      "BAHN",
+      "BEIN",
+      "GABE",
+      "HINGABE"
+    ],
+    "word" : "IEANBGH"
+  },
+  {
+    "rs" : [
+      "SATZ",
+      "STAU",
+      "UMSATZ",
+      "SAMT",
+      "ZAUM",
+      "MAUS"
+    ],
+    "word" : "AMTUZS"
+  },
+  {
+    "rs" : [
+      "LEIB",
+      "LIEB",
+      "IGEL",
+      "GELB",
+      "BLEI",
+      "BIOLOGE"
+    ],
+    "word" : "OOEIGLB"
+  },
+  {
+    "rs" : [
+      "HERÜBER",
+      "HERR",
+      "RÜBE",
+      "EHER",
+      "EHRE",
+      "ERBE",
+      "BRÜHE"
+    ],
+    "word" : "HRRBÜEE"
+  },
+  {
+    "rs" : [
+      "GESTE",
+      "ERST",
+      "REST",
+      "GERSTE",
+      "ERSTE"
+    ],
+    "word" : "TRGEES"
+  },
+  {
+    "rs" : [
+      "EKEL",
+      "LIED",
+      "EILE",
+      "KLEIDEN",
+      "LEID"
+    ],
+    "word" : "EEKINLD"
+  },
+  {
+    "rs" : [
+      "SACHE",
+      "AHNEN",
+      "ASCHE",
+      "ACHSE",
+      "SAHNE",
+      "NASCHEN",
+      "NAHEN"
+    ],
+    "word" : "AEHNNSC"
+  },
+  {
+    "rs" : [
+      "IRREN",
+      "KEIN",
+      "KLEIN",
+      "KLIRREN",
+      "KEIL",
+      "IRRE",
+      "KERN"
+    ],
+    "word" : "IKRRNLE"
+  },
+  {
+    "rs" : [
+      "BREI",
+      "ENTE",
+      "BIER",
+      "ERBE",
+      "TREIBEN",
+      "BREITEN"
+    ],
+    "word" : "TRINBEE"
+  },
+  {
+    "rs" : [
+      "FISCH",
+      "SCHIEF",
+      "FRISCHE",
+      "REICH",
+      "FRISCH",
+      "FISCHER"
+    ],
+    "word" : "IERFSCH"
+  },
+  {
+    "rs" : [
+      "ORDEN",
+      "MODERN",
+      "MODE",
+      "MORDEN",
+      "NORM",
+      "MOND",
+      "ENORM"
+    ],
+    "word" : "OMRDNE"
+  },
+  {
+    "rs" : [
+      "FERN",
+      "RABE",
+      "RAUB",
+      "ABRUFEN",
+      "ABER",
+      "FRAU"
+    ],
+    "word" : "RANFBEU"
+  },
+  {
+    "rs" : [
+      "EINS",
+      "SEIN",
+      "GESTEIN",
+      "STEIGEN",
+      "SEIT",
+      "EIGENS"
+    ],
+    "word" : "STIGNEE"
+  },
+  {
+    "rs" : [
+      "TAUGEN",
+      "AGENTUR",
+      "GRAUEN",
+      "TRAGEN",
+      "GARTEN",
+      "TRAUEN"
+    ],
+    "word" : "RANETGU"
+  },
+  {
+    "rs" : [
+      "FAIR",
+      "HIER",
+      "FRAU",
+      "HIERAUF",
+      "RUHE",
+      "REIF",
+      "UFER",
+      "FREI"
+    ],
+    "word" : "UIRAEFH"
+  },
+  {
+    "rs" : [
+      "STERN",
+      "NEST",
+      "RÜSTEN",
+      "ERST",
+      "REST",
+      "ERNST"
+    ],
+    "word" : "TRÜNES"
+  },
+  {
+    "rs" : [
+      "WICKELN",
+      "KNIE",
+      "WEIN",
+      "KEIN",
+      "KEIL",
+      "WEIL"
+    ],
+    "word" : "IENWKCL"
+  },
+  {
+    "rs" : [
+      "GEIER",
+      "REGIE",
+      "RIEGEL",
+      "REGEL"
+    ],
+    "word" : "RIGLEE"
+  },
+  {
+    "rs" : [
+      "RÄTSELN",
+      "NEST",
+      "ERST",
+      "REST",
+      "SÄEN"
+    ],
+    "word" : "RNESÄTL"
+  },
+  {
+    "rs" : [
+      "GERN",
+      "RANG",
+      "MANAGER",
+      "MAGEN",
+      "GRAM",
+      "MAGER",
+      "ARENA",
+      "NAME"
+    ],
+    "word" : "AAMRNEG"
+  },
+  {
+    "rs" : [
+      "BANK",
+      "KNIE",
+      "BEIN",
+      "KEIN",
+      "KABINE"
+    ],
+    "word" : "AKINBE"
+  },
+  {
+    "rs" : [
+      "HEIL",
+      "LEINE",
+      "HEILEN",
+      "LEIHEN",
+      "EILE"
+    ],
+    "word" : "HINLEE"
+  },
+  {
+    "rs" : [
+      "MIES",
+      "NEST",
+      "STIMMEN",
+      "MIST",
+      "MEIN",
+      "EINS"
+    ],
+    "word" : "MMTINES"
+  },
+  {
+    "rs" : [
+      "BIER",
+      "REIN",
+      "BREI",
+      "TRÜBEN",
+      "BIRNE",
+      "TRIBÜNE",
+      "RÜBE"
+    ],
+    "word" : "ÜIRNEBT"
+  },
+  {
+    "rs" : [
+      "NACH",
+      "ECHT",
+      "ACHT",
+      "NAHE",
+      "ACHTEN",
+      "NACHT"
+    ],
+    "word" : "HATNEC"
+  },
+  {
+    "rs" : [
+      "NOTE",
+      "NEST",
+      "PEST",
+      "POET",
+      "POST",
+      "POSTEN"
+    ],
+    "word" : "OTPNES"
+  },
+  {
+    "rs" : [
+      "KREIS",
+      "KRISE",
+      "RIESE",
+      "KREISEL",
+      "LESER",
+      "LEISE"
+    ],
+    "word" : "SKIRLEE"
+  },
+  {
+    "rs" : [
+      "BÜHNE",
+      "ÜBEN",
+      "ÜBEL",
+      "BLÜHEN",
+      "ÜBLEN",
+      "ÜBLE"
+    ],
+    "word" : "HÜBNLE"
+  },
+  {
+    "rs" : [
+      "MIST",
+      "TIER",
+      "MEER",
+      "REIS",
+      "ERST",
+      "REST",
+      "MEISTER",
+      "MIES"
+    ],
+    "word" : "MRTISEE"
+  },
+  {
+    "rs" : [
+      "SAND",
+      "EINS",
+      "DASEIN",
+      "NASE",
+      "NEID",
+      "DEIN",
+      "DIES"
+    ],
+    "word" : "ADINES"
+  },
+  {
+    "rs" : [
+      "GEWAND",
+      "WAGEN",
+      "GNADE",
+      "WANGE"
+    ],
+    "word" : "ADWGNE"
+  },
+  {
+    "rs" : [
+      "FEIERN",
+      "FRIEDEN",
+      "FERIEN",
+      "DIENER",
+      "NIEDER"
+    ],
+    "word" : "FDINREE"
+  },
+  {
+    "rs" : [
+      "KATER",
+      "RATE",
+      "KARTE",
+      "AKTE"
+    ],
+    "word" : "ATRKE"
+  },
+  {
+    "rs" : [
+      "EISEN",
+      "REIS",
+      "EINS",
+      "REIN",
+      "EISERN",
+      "REISEN"
+    ],
+    "word" : "RINEES"
+  },
+  {
+    "rs" : [
+      "ESEL",
+      "EHEMALS",
+      "HASE",
+      "HALS",
+      "LAHM",
+      "HELM"
+    ],
+    "word" : "HMASLEE"
+  },
+  {
+    "rs" : [
+      "BAUER",
+      "BAUEN",
+      "BRAUN",
+      "ERBEN",
+      "ERBAUEN"
+    ],
+    "word" : "ARBUNEE"
+  },
+  {
+    "rs" : [
+      "NAHEN",
+      "BANN",
+      "BAHN",
+      "HABEN",
+      "AHNEN",
+      "BAHNEN"
+    ],
+    "word" : "HABNNE"
+  },
+  {
+    "rs" : [
+      "HEBEN",
+      "ENGE",
+      "GEBE",
+      "HEGEN",
+      "GEBEN",
+      "BEGEHEN",
+      "GEHE",
+      "EBENE"
+    ],
+    "word" : "HBNEEEG"
+  },
+  {
+    "rs" : [
+      "KNIE",
+      "KLINKE",
+      "KEIN",
+      "KEIL",
+      "KLEIN"
+    ],
+    "word" : "KKINLE"
+  },
+  {
+    "rs" : [
+      "KIES",
+      "KNIE",
+      "KUSINE",
+      "KEIN",
+      "EINS"
+    ],
+    "word" : "SKIUNE"
+  },
+  {
+    "rs" : [
+      "CRANE",
+      "NAME",
+      "ARMEN",
+      "ARME"
+    ],
+    "word" : "AMRNEC"
+  },
+  {
+    "rs" : [
+      "LEITER",
+      "LEER",
+      "ELITE",
+      "EILE",
+      "TIER",
+      "TEIL"
+    ],
+    "word" : "TRILEE"
+  },
+  {
+    "rs" : [
+      "DIENER",
+      "REIN",
+      "NIEDER",
+      "NIERE",
+      "DEIN",
+      "DREI",
+      "REDE"
+    ],
+    "word" : "RDNEEI"
+  },
+  {
+    "rs" : [
+      "ELAN",
+      "LAUNE",
+      "LAUTEN",
+      "ALTE"
+    ],
+    "word" : "ATNULE"
+  },
+  {
+    "rs" : [
+      "NOTE",
+      "NEST",
+      "ERST",
+      "REST",
+      "ROSE",
+      "ROSTEN"
+    ],
+    "word" : "OTRNES"
+  },
+  {
+    "rs" : [
+      "FERN",
+      "REIF",
+      "FEIERN",
+      "REIFEN",
+      "FERIEN",
+      "FEIN"
+    ],
+    "word" : "FRINEE"
+  },
+  {
+    "rs" : [
+      "LÄCHLE",
+      "HELL",
+      "LÄCHELN",
+      "ELCH"
+    ],
+    "word" : "HÄENLLC"
+  },
+  {
+    "rs" : [
+      "LAUTER",
+      "RATE",
+      "TREU",
+      "ALTER",
+      "LAUT",
+      "ALTE",
+      "REAL"
+    ],
+    "word" : "ATRULE"
+  },
+  {
+    "rs" : [
+      "ERKLÄR",
+      "KÄLTER",
+      "KERL",
+      "KLÄRT",
+      "ERKLÄRT",
+      "KÄLTE",
+      "ÄLTER"
+    ],
+    "word" : "ÄKRRTLE"
+  },
+  {
+    "rs" : [
+      "GAST",
+      "STANGE",
+      "SAGEN",
+      "NASE",
+      "GANS",
+      "SAGE",
+      "NEST"
+    ],
+    "word" : "ASTGNE"
+  },
+  {
+    "rs" : [
+      "WARE",
+      "WENN",
+      "WANN",
+      "WARNEN"
+    ],
+    "word" : "ARWNNE"
+  },
+  {
+    "rs" : [
+      "BEUGEN",
+      "NEUE",
+      "GEBEN",
+      "EBEN",
+      "ENGE"
+    ],
+    "word" : "EEBGUN"
+  },
+  {
+    "rs" : [
+      "MISERE",
+      "RIESE",
+      "EIMER",
+      "MEER",
+      "REIS",
+      "REISE",
+      "MIES"
+    ],
+    "word" : "MRISEE"
+  },
+  {
+    "rs" : [
+      "SEIN",
+      "NEIN",
+      "NEST",
+      "TENNIS",
+      "SEIT",
+      "EINS"
+    ],
+    "word" : "TINNES"
+  },
+  {
+    "rs" : [
+      "FEUERN",
+      "FREUEN",
+      "REUE",
+      "EUER",
+      "FERN",
+      "NEUE",
+      "UFER",
+      "FERNE"
+    ],
+    "word" : "FRNUEE"
+  },
+  {
+    "rs" : [
+      "BLEIBE",
+      "BLIEB",
+      "BEIL",
+      "BLEI",
+      "BIBEL"
+    ],
+    "word" : "IBBLEE"
+  },
+  {
+    "rs" : [
+      "FERN",
+      "OFEN",
+      "ROSE",
+      "SENF",
+      "FRESNO",
+      "SOFERN"
+    ],
+    "word" : "OFRNES"
+  },
+  {
+    "rs" : [
+      "WIESEL",
+      "SEIL",
+      "EILE",
+      "ESEL"
+    ],
+    "word" : "EEIWSL"
+  },
+  {
+    "rs" : [
+      "NAGEL",
+      "GELTEN",
+      "ETAGE",
+      "ELEGANT",
+      "ENGEL",
+      "LEGEN",
+      "TAGEN",
+      "AGENT"
+    ],
+    "word" : "ATGNLEE"
+  },
+  {
+    "rs" : [
+      "WIESEL",
+      "JEWEILS",
+      "WIESE",
+      "WEILE",
+      "WEISE",
+      "LEISE"
+    ],
+    "word" : "EEJWILS"
+  },
+  {
+    "rs" : [
+      "BREIT",
+      "BIENE",
+      "TREIBEN",
+      "BREITEN"
+    ],
+    "word" : "TRINBEE"
+  },
+  {
+    "rs" : [
+      "MALEN",
+      "NIEMALS",
+      "ASIEN",
+      "INSEL"
+    ],
+    "word" : "MIEANSL"
+  },
+  {
+    "rs" : [
+      "MUSIK",
+      "KRISE",
+      "MUSIKER",
+      "UMKREIS"
+    ],
+    "word" : "MIRESKU"
+  },
+  {
+    "rs" : [
+      "ERLEBEN",
+      "LEBER",
+      "LEBEN",
+      "LEEREN",
+      "LEERE"
+    ],
+    "word" : "RBNLEEE"
+  },
+  {
+    "rs" : [
+      "SEMINAR",
+      "RASEN",
+      "ASIEN",
+      "EINSAM",
+      "MARINE"
+    ],
+    "word" : "MIRANES"
+  },
+  {
+    "rs" : [
+      "REIHE",
+      "RIECHEN",
+      "REICH",
+      "RHEIN",
+      "REICHEN"
+    ],
+    "word" : "HRINEEC"
+  },
+  {
+    "rs" : [
+      "FISCH",
+      "REICH",
+      "FRISCH",
+      "SCHIEF",
+      "FRECH",
+      "SICHER",
+      "FRISCHE",
+      "FISCHER"
+    ],
+    "word" : "IERFSCH"
+  },
+  {
+    "rs" : [
+      "BETON",
+      "TOBEN"
+    ],
+    "word" : "OTBNE"
+  },
+  {
+    "rs" : [
+      "SCHLAF",
+      "SCHAL",
+      "SCHAF",
+      "FLACH",
+      "FALSCH"
+    ],
+    "word" : "HASFLC"
+  },
+  {
+    "rs" : [
+      "WACHSEN",
+      "WASCHEN",
+      "SACHE",
+      "ASCHE",
+      "SCHWAN",
+      "ACHSE"
+    ],
+    "word" : "EAWNSCH"
+  },
+  {
+    "rs" : [
+      "FEGEN",
+      "FLIEGE",
+      "LIEGEN",
+      "FEILEN",
+      "FLIEGEN",
+      "ENGEL"
+    ],
+    "word" : "GFINLEE"
+  },
+  {
+    "rs" : [
+      "ETAGE",
+      "ERNTE",
+      "RENTE",
+      "REGEN",
+      "RATEN",
+      "AGENT",
+      "GERATEN"
+    ],
+    "word" : "ATRNEEG"
+  },
+  {
+    "rs" : [
+      "STEIGEN",
+      "GENIE",
+      "GESTEIN",
+      "SEITE",
+      "GESTE",
+      "EINST",
+      "GEIST"
+    ],
+    "word" : "GTINSEE"
+  },
+  {
+    "rs" : [
+      "UMARMEN",
+      "NUMMER",
+      "MAUERN"
+    ],
+    "word" : "AMMRUEN"
+  },
+  {
+    "rs" : [
+      "ALLEIN",
+      "EINFALL",
+      "FINALE"
+    ],
+    "word" : "AFINLLE"
+  },
+  {
+    "rs" : [
+      "DIALEKT",
+      "DETAIL",
+      "IDEAL",
+      "KLEID",
+      "DELIKAT"
+    ],
+    "word" : "DIEAKTL"
+  },
+  {
+    "rs" : [
+      "MEIST",
+      "MISERE",
+      "MIETER",
+      "ERSTE",
+      "MEISTER"
+    ],
+    "word" : "MRITEES"
+  },
+  {
+    "rs" : [
+      "EILEN",
+      "LEINE",
+      "GENIE",
+      "LIEGEN",
+      "ENGEL"
+    ],
+    "word" : "EEIGLN"
+  },
+  {
+    "rs" : [
+      "LEINE",
+      "EIGEN",
+      "GENIE",
+      "EILEN",
+      "ENGEL",
+      "LEGEN",
+      "EINLAGE"
+    ],
+    "word" : "AGINLEE"
+  },
+  {
+    "rs" : [
+      "EISEN",
+      "CHINESE",
+      "SCHIENE",
+      "SEHEN"
+    ],
+    "word" : "HSINEEC"
+  },
+  {
+    "rs" : [
+      "SCHADE",
+      "SCHADEN",
+      "SACHEN",
+      "SCHANDE"
+    ],
+    "word" : "DEANSCH"
+  },
+  {
+    "rs" : [
+      "FRUCHT",
+      "FURCHT"
+    ],
+    "word" : "HTRFUC"
+  },
+  {
+    "rs" : [
+      "FLECK",
+      "ECKE",
+      "ENKEL",
+      "FLECKEN",
+      "EKELN"
+    ],
+    "word" : "EEFKNLC"
+  },
+  {
+    "rs" : [
+      "VIERT",
+      "RIET",
+      "TIER",
+      "VIER"
+    ],
+    "word" : "VTRIE"
+  },
+  {
+    "rs" : [
+      "RÄTSEL",
+      "RÄTSELN"
+    ],
+    "word" : "ERNSÄTL"
+  },
+  {
+    "rs" : [
+      "SORTE",
+      "OSTERN",
+      "ERNST",
+      "STERN",
+      "ROSTEN"
+    ],
+    "word" : "OTRNES"
+  },
+  {
+    "rs" : [
+      "REICHEN",
+      "RIECHEN",
+      "HEREIN"
+    ],
+    "word" : "HRINEEC"
+  },
+  {
+    "rs" : [
+      "EINST",
+      "FINSTER",
+      "STEIN",
+      "ERNST",
+      "FRIST",
+      "STERN"
+    ],
+    "word" : "IRNEFST"
+  },
+  {
+    "rs" : [
+      "ZIEREN",
+      "NIEDER",
+      "REIZEND",
+      "DIENER",
+      "REIZEN"
+    ],
+    "word" : "EEDINZR"
+  },
+  {
+    "rs" : [
+      "BANGE",
+      "GEBEN",
+      "NAGEN",
+      "NEBEN",
+      "ANGEBEN"
+    ],
+    "word" : "ABGNNEE"
+  },
+  {
+    "rs" : [
+      "EIGEN",
+      "EIGENS",
+      "SIEGEN"
+    ],
+    "word" : "GINSEE"
+  },
+  {
+    "rs" : [
+      "KORKEN",
+      "NOTE",
+      "KRONE",
+      "ORTEN",
+      "KONKRET"
+    ],
+    "word" : "OTKKRNE"
+  },
+  {
+    "rs" : [
+      "ERBEN",
+      "NIERE",
+      "REINE",
+      "TREIBEN",
+      "BREITEN"
+    ],
+    "word" : "TRINBEE"
+  },
+  {
+    "rs" : [
+      "MALER",
+      "ARMEE",
+      "KREML",
+      "MARKE",
+      "KAMEL",
+      "REKLAME"
+    ],
+    "word" : "AMKRLEE"
+  },
+  {
+    "rs" : [
+      "CHRIST",
+      "STRICH",
+      "SCHRITT"
+    ],
+    "word" : "HTTRISC"
+  },
+  {
+    "rs" : [
+      "LEIHEN",
+      "HEILEN",
+      "FLIEHEN",
+      "FEILEN",
+      "HELFEN",
+      "FEHLEN"
+    ],
+    "word" : "HFINLEE"
+  },
+  {
+    "rs" : [
+      "EILEN",
+      "FEGEN",
+      "FEIGE",
+      "LIEGEN",
+      "ENGEL",
+      "FLIEGEN"
+    ],
+    "word" : "GFINLEE"
+  },
+  {
+    "rs" : [
+      "BRAUEN",
+      "RAUBEN",
+      "ERBEN",
+      "ERBAUEN",
+      "BAUEN",
+      "BRAUN",
+      "BAUER"
+    ],
+    "word" : "ARBNUEE"
+  },
+  {
+    "rs" : [
+      "ERNTE",
+      "RENTE",
+      "TREUE",
+      "ERSTE",
+      "STEUERN",
+      "UNSER",
+      "ERNST"
+    ],
+    "word" : "EETRNSU"
+  },
+  {
+    "rs" : [
+      "SAHNE",
+      "WACHSEN",
+      "SACHE",
+      "WASCHEN",
+      "ACHSE",
+      "ASCHE"
+    ],
+    "word" : "EAWNSCH"
+  },
+  {
+    "rs" : [
+      "TADEL",
+      "DIALEKT",
+      "DETAIL",
+      "DELIKAT",
+      "IDEAL",
+      "KLEID"
+    ],
+    "word" : "DIEAKTL"
+  },
+  {
+    "rs" : [
+      "ERBEN",
+      "GEBEN",
+      "REGEN",
+      "EBENE",
+      "ERGEBEN"
+    ],
+    "word" : "RBGNEEE"
+  },
+  {
+    "rs" : [
+      "SERIE",
+      "RIESE",
+      "EISERN",
+      "NIERE",
+      "REISEN",
+      "EISEN",
+      "REISE"
+    ],
+    "word" : "RINSEE"
+  },
+  {
+    "rs" : [
+      "LEINE",
+      "LEBEN",
+      "BIENE",
+      "BEEILEN",
+      "EBENE"
+    ],
+    "word" : "EEEINLB"
+  },
+  {
+    "rs" : [
+      "KNACKEN",
+      "KANN",
+      "KECK",
+      "KANNE",
+      "NACKEN"
+    ],
+    "word" : "AKKNNEC"
+  },
+  {
+    "rs" : [
+      "ERBEN",
+      "STERBEN",
+      "RENTE",
+      "ERBSE",
+      "ERNST",
+      "ERSTE"
+    ],
+    "word" : "TRBNEES"
+  },
+  {
+    "rs" : [
+      "SERIE",
+      "RIESE",
+      "NIERE",
+      "EISEN",
+      "SPEER",
+      "REISE",
+      "PREIS",
+      "PREISEN"
+    ],
+    "word" : "IRPNSEE"
+  },
+  {
+    "rs" : [
+      "HOLEN",
+      "LOHN",
+      "LOHNEN",
+      "HOLE",
+      "OHNE"
+    ],
+    "word" : "HONNLE"
+  },
+  {
+    "rs" : [
+      "GEIER",
+      "REGEN",
+      "GENIE",
+      "REGIE",
+      "EIGEN",
+      "NEUGIER"
+    ],
+    "word" : "EERIGUN"
+  },
+  {
+    "rs" : [
+      "EISEN",
+      "RIESE",
+      "REISEN",
+      "REISE",
+      "NIERE",
+      "SERIE"
+    ],
+    "word" : "RINEES"
+  },
+  {
+    "rs" : [
+      "BEREIT",
+      "BIETEN",
+      "BREITE",
+      "REIBEN",
+      "REITEN",
+      "TREIBEN",
+      "BREITEN"
+    ],
+    "word" : "TRBNEEI"
+  },
+  {
+    "rs" : [
+      "AKTE",
+      "KLAN",
+      "ALTEN",
+      "LAKEN",
+      "LENKT",
+      "KALTE",
+      "ALTE"
+    ],
+    "word" : "ATKNLE"
+  },
+  {
+    "rs" : [
+      "SATTEL",
+      "TALENT",
+      "NASE",
+      "SATTELN",
+      "ALTE",
+      "ETAT",
+      "NEST"
+    ],
+    "word" : "ATTENLS"
+  },
+  {
+    "rs" : [
+      "WAGEN",
+      "WAGE",
+      "WANGEN",
+      "WANNE"
+    ],
+    "word" : "AWGNNE"
+  },
+  {
+    "rs" : [
+      "BECK",
+      "BACK",
+      "ACKER",
+      "BARACKE",
+      "ABER"
+    ],
+    "word" : "AAKBREC"
+  },
+  {
+    "rs" : [
+      "EDEL",
+      "EDLE",
+      "LAD",
+      "ADELE",
+      "ADEL",
+      "LADE"
+    ],
+    "word" : "ADLEE"
+  },
+  {
+    "rs" : [
+      "SODA",
+      "AIDS",
+      "DAS",
+      "ADIOS"
+    ],
+    "word" : "AODIS"
+  },
+  {
+    "rs" : [
+      "FIEL",
+      "LAIE",
+      "ELF",
+      "ALFIE"
+    ],
+    "word" : "AFILE"
+  },
+  {
+    "rs" : [
+      "ELLE",
+      "ALLE",
+      "LEELA",
+      "ALLEE",
+      "ALL"
+    ],
+    "word" : "LLAEE"
+  },
+  {
+    "rs" : [
+      "NINA",
+      "ANNIE",
+      "NIE",
+      "NEIN",
+      "EIN",
+      "INNE"
+    ],
+    "word" : "AINNE"
+  },
+  {
+    "rs" : [
+      "ANSAH",
+      "SANA",
+      "AHN",
+      "HAN"
+    ],
+    "word" : "AAHNS"
+  },
+  {
+    "rs" : [
+      "NOT",
+      "TON",
+      "NATO",
+      "ANTON"
+    ],
+    "word" : "ATONN"
+  },
+  {
+    "rs" : [
+      "NASS",
+      "NEU",
+      "ASSEN",
+      "AUSSEN"
+    ],
+    "word" : "ANUSSE"
+  },
+  {
+    "rs" : [
+      "MIAU",
+      "MAI",
+      "ZUM",
+      "ZAUM",
+      "MAUI",
+      "AZUMI"
+    ],
+    "word" : "AMIUZ"
+  },
+  {
+    "rs" : [
+      "TOUR",
+      "TOR",
+      "ART",
+      "TORA",
+      "TRAU"
+    ],
+    "word" : "ATROU"
+  },
+  {
+    "rs" : [
+      "BAND",
+      "ABEND",
+      "BADEN",
+      "DEN",
+      "BAD"
+    ],
+    "word" : "ADBNE"
+  },
+  {
+    "rs" : [
+      "AST",
+      "BAT",
+      "STAB",
+      "SAAT",
+      "BASTA"
+    ],
+    "word" : "AATBS"
+  },
+  {
+    "rs" : [
+      "ANDREJ",
+      "DEN",
+      "JADE",
+      "ADER",
+      "RAND",
+      "JARED",
+      "DRAN"
+    ],
+    "word" : "ADRNEJ"
+  },
+  {
+    "rs" : [
+      "ANFALL",
+      "FALL",
+      "ALL",
+      "ALLAN"
+    ],
+    "word" : "AAFNLL"
+  },
+  {
+    "rs" : [
+      "FAN",
+      "FANG",
+      "NANA",
+      "ANFANG"
+    ],
+    "word" : "AAFNNG"
+  },
+  {
+    "rs" : [
+      "RABE",
+      "BAR",
+      "ARABER",
+      "ABER"
+    ],
+    "word" : "AARRBE"
+  },
+  {
+    "rs" : [
+      "ARLENE",
+      "REALEN",
+      "RAN",
+      "ELAN",
+      "LERNE",
+      "LEER",
+      "REAL"
+    ],
+    "word" : "ARNLEE"
+  },
+  {
+    "rs" : [
+      "HASE",
+      "YALE",
+      "LAS",
+      "ALS",
+      "YEAH"
+    ],
+    "word" : "AEYHSL"
+  },
+  {
+    "rs" : [
+      "ANMUT",
+      "MAN",
+      "MUT",
+      "ATMUNG"
+    ],
+    "word" : "ATMUNG"
+  },
+  {
+    "rs" : [
+      "DAME",
+      "AUF",
+      "DEM",
+      "AUFM",
+      "MUAD",
+      "AUFDEM"
+    ],
+    "word" : "AMDFUE"
+  },
+  {
+    "rs" : [
+      "NENN",
+      "NNEN",
+      "BANN",
+      "BANNEN"
+    ],
+    "word" : "ABNNNE"
+  },
+  {
+    "rs" : [
+      "ECKE",
+      "BECK",
+      "EBEN",
+      "ECKEN",
+      "BECKEN"
+    ],
+    "word" : "KBNEEC"
+  },
+  {
+    "rs" : [
+      "ECKE",
+      "BECK",
+      "KERBE",
+      "ERBE",
+      "CREEK",
+      "BECKER"
+    ],
+    "word" : "KBREEC"
+  },
+  {
+    "rs" : [
+      "EILE",
+      "LEBE",
+      "BEEILE",
+      "BEIL",
+      "BLEI",
+      "LIEBE"
+    ],
+    "word" : "IBLEEE"
+  },
+  {
+    "rs" : [
+      "ERBEN",
+      "BEEREN",
+      "EBEN",
+      "ERBE",
+      "EBENE"
+    ],
+    "word" : "RBNEEE"
+  },
+  {
+    "rs" : [
+      "BEHÄLT",
+      "BETH",
+      "HEBT",
+      "HÄLT",
+      "LEBT"
+    ],
+    "word" : "HÄTBLE"
+  },
+  {
+    "rs" : [
+      "BEKOMM",
+      "KOMME",
+      "MEMO",
+      "KOMM"
+    ],
+    "word" : "OMMKBE"
+  },
+  {
+    "rs" : [
+      "BELLEN",
+      "EBEN",
+      "LEBEN",
+      "BELL",
+      "LEBE",
+      "BELLE",
+      "NEBEL",
+      "ELLE"
+    ],
+    "word" : "BNLLEE"
+  },
+  {
+    "rs" : [
+      "ELAN",
+      "CLAN",
+      "CLEAN",
+      "LANCE"
+    ],
+    "word" : "AENLC"
+  },
+  {
+    "rs" : [
+      "LIVE",
+      "VIEL",
+      "EVIL",
+      "CLIVE"
+    ],
+    "word" : "EVILC"
+  },
+  {
+    "rs" : [
+      "CLEO",
+      "CLOSE",
+      "COLE",
+      "LOSE"
+    ],
+    "word" : "LEOSC"
+  },
+  {
+    "rs" : [
+      "ECHO",
+      "NOCH",
+      "COHEN",
+      "ONCE",
+      "OHNE"
+    ],
+    "word" : "HONEC"
+  },
+  {
+    "rs" : [
+      "BRAVES",
+      "VERS",
+      "BRAVE",
+      "ABER",
+      "RABE",
+      "BARES",
+      "BRAV",
+      "SAVE"
+    ],
+    "word" : "VARBSE"
+  },
+  {
+    "rs" : [
+      "BREI",
+      "BEREIT",
+      "BIER",
+      "RIET",
+      "TREIB",
+      "BIETE"
+    ],
+    "word" : "TRIBEE"
+  },
+  {
+    "rs" : [
+      "ERBEN",
+      "NEBEN",
+      "BRENNE",
+      "ERBE"
+    ],
+    "word" : "RBNNEE"
+  },
+  {
+    "rs" : [
+      "FREIE",
+      "FIEBER",
+      "REIB",
+      "RIEF",
+      "EIFER",
+      "REIF",
+      "FREI"
+    ],
+    "word" : "FRIBEE"
+  },
+  {
+    "rs" : [
+      "BIER",
+      "LIEB",
+      "BEIL",
+      "REIB",
+      "BLEI",
+      "BELL",
+      "BILL"
+    ],
+    "word" : "RIBLLE"
+  },
+  {
+    "rs" : [
+      "BECK",
+      "RÜCK",
+      "RÜBE",
+      "ÜBER",
+      "BRÜCKE"
+    ],
+    "word" : "ÜKBREC"
+  },
+  {
+    "rs" : [
+      "LUKE",
+      "KLUB",
+      "BUCKEL",
+      "CLUB"
+    ],
+    "word" : "EKBULC"
+  },
+  {
+    "rs" : [
+      "GELB",
+      "BÜGELN",
+      "LÜGE",
+      "ÜBLEN",
+      "ÜBEL",
+      "LÜGEN",
+      "ÜBLE"
+    ],
+    "word" : "EÜBGLN"
+  },
+  {
+    "rs" : [
+      "BÜRGER",
+      "ÜBER",
+      "RÜBE",
+      "BERG"
+    ],
+    "word" : "RRBÜEG"
+  },
+  {
+    "rs" : [
+      "RUBEL",
+      "TREU",
+      "LEBT",
+      "TRUE"
+    ],
+    "word" : "TRBULE"
+  },
+  {
+    "rs" : [
+      "REIFE",
+      "REIF",
+      "FREI",
+      "RIEF",
+      "FEIER",
+      "FREIE"
+    ],
+    "word" : "FRIEE"
+  },
+  {
+    "rs" : [
+      "DOOF",
+      "DOOR",
+      "FOOD",
+      "DORF",
+      "FRODO",
+      "FORD"
+    ],
+    "word" : "OOFDR"
+  },
+  {
+    "rs" : [
+      "BESORG",
+      "GORE",
+      "GROBES",
+      "BORG",
+      "GROBE",
+      "OGER",
+      "BERG"
+    ],
+    "word" : "ORBGSE"
+  },
+  {
+    "rs" : [
+      "ANSTAND",
+      "ANNA",
+      "DANN",
+      "DATA",
+      "SANTA"
+    ],
+    "word" : "AATDNNS"
+  },
+  {
+    "rs" : [
+      "ÄRMSTEN",
+      "SÄEN",
+      "REST",
+      "ÄRMSTE"
+    ],
+    "word" : "MRNESÄT"
+  },
+  {
+    "rs" : [
+      "NASE",
+      "EASY",
+      "ONCE",
+      "CASEY",
+      "ASCOYNE"
+    ],
+    "word" : "EANSOCY"
+  },
+  {
+    "rs" : [
+      "LAGE",
+      "LAUF",
+      "FAUL",
+      "AUFLAGE"
+    ],
+    "word" : "AAFGULE"
+  },
+  {
+    "rs" : [
+      "SAGST",
+      "AUSSAGT",
+      "GAST",
+      "STAU",
+      "SAUGT"
+    ],
+    "word" : "AATGUSS"
+  },
+  {
+    "rs" : [
+      "STRESS",
+      "STUR",
+      "ERST",
+      "REST",
+      "TREU",
+      "ÄUSSERST"
+    ],
+    "word" : "ÄRTUESSS"
+  },
+  {
+    "rs" : [
+      "BLOB",
+      "BABY",
+      "ABBY",
+      "LOBBY"
+    ],
+    "word" : "AOYBBL"
+  },
+  {
+    "rs" : [
+      "BALANCE",
+      "CLEAN",
+      "BANAL",
+      "ALAN",
+      "LANCE"
+    ],
+    "word" : "AAEBNLC"
+  },
+  {
+    "rs" : [
+      "BALL",
+      "BELLA",
+      "ALLE",
+      "DELLA",
+      "BALD",
+      "LADE"
+    ],
+    "word" : "ADBLLE"
+  },
+  {
+    "rs" : [
+      "BESS",
+      "ERBEN",
+      "NESS",
+      "ERBE",
+      "SEES",
+      "ESSEN"
+    ],
+    "word" : "RBNEESS"
+  },
+  {
+    "rs" : [
+      "GÄBE",
+      "TÄTE",
+      "TÄTER",
+      "BETT"
+    ],
+    "word" : "ÄRBTTEG"
+  },
+  {
+    "rs" : [
+      "LEBER",
+      "EVER",
+      "ERBE",
+      "BEVERLY",
+      "VERY"
+    ],
+    "word" : "VYBRLEE"
+  },
+  {
+    "rs" : [
+      "DING",
+      "BUND",
+      "GUNN",
+      "DUNN"
+    ],
+    "word" : "GDIBUNN"
+  },
+  {
+    "rs" : [
+      "LEBE",
+      "EDLEN",
+      "NEBEL",
+      "LEBEND"
+    ],
+    "word" : "DBNLEE"
+  },
+  {
+    "rs" : [
+      "BLONDE",
+      "LOBEN",
+      "NOBLE",
+      "LEON",
+      "OBEN",
+      "BODEN",
+      "BLONDEN"
+    ],
+    "word" : "ODBNNLE"
+  },
+  {
+    "rs" : [
+      "ERBEN",
+      "NEBEN",
+      "NENNE",
+      "BRENNE",
+      "ERBE",
+      "NENNER"
+    ],
+    "word" : "RBNNNEE"
+  },
+  {
+    "rs" : [
+      "NEBEN",
+      "BRENNE",
+      "ERBE",
+      "RENNE"
+    ],
+    "word" : "RBNNEE"
+  },
+  {
+    "rs" : [
+      "RETTER",
+      "BETE",
+      "BRETT",
+      "RETTE",
+      "BRETTER"
+    ],
+    "word" : "TTRRBEE"
+  },
+  {
+    "rs" : [
+      "KORN",
+      "ROCKEN",
+      "BECK",
+      "KRONE",
+      "KERN",
+      "KORB"
+    ],
+    "word" : "ENROKBC"
+  },
+  {
+    "rs" : [
+      "BÜCKEN",
+      "BECK",
+      "RÜCK",
+      "ÜBER",
+      "BRÜCKEN",
+      "KERN"
+    ],
+    "word" : "ÜENRBKC"
+  },
+  {
+    "rs" : [
+      "BELL",
+      "ÜBEL",
+      "ÜBER",
+      "RÜBE",
+      "ÜBLE"
+    ],
+    "word" : "RBÜLLE"
+  },
+  {
+    "rs" : [
+      "NYMAN",
+      "MAN",
+      "MANN",
+      "MONEY"
+    ],
+    "word" : "AMYONNE"
+  },
+  {
+    "rs" : [
+      "ANSTAND",
+      "DASTAN",
+      "DAS",
+      "SANA",
+      "STAND"
+    ],
+    "word" : "AATDNNS"
+  },
+  {
+    "rs" : [
+      "TAT",
+      "NASA",
+      "SANA",
+      "ANTAT",
+      "SATAN",
+      "STATT"
+    ],
+    "word" : "AATTTNS"
+  },
+  {
+    "rs" : [
+      "ANTENNE",
+      "NNEN",
+      "NENNE",
+      "TEE",
+      "TANNEN"
+    ],
+    "word" : "ATNNNEE"
+  },
+  {
+    "rs" : [
+      "TITAN",
+      "ANTRITT",
+      "RITT",
+      "TIN"
+    ],
+    "word" : "ATTTRIN"
+  },
+  {
+    "rs" : [
+      "ALT",
+      "ELAN",
+      "ETWA",
+      "ALTEN",
+      "ANWÄLTE"
+    ],
+    "word" : "EAWNÄTL"
+  },
+  {
+    "rs" : [
+      "PAPA",
+      "PAAR",
+      "PART",
+      "PARAT",
+      "RAT"
+    ],
+    "word" : "AATRPP"
+  },
+  {
+    "rs" : [
+      "NORA",
+      "IRON",
+      "ION",
+      "ZORN"
+    ],
+    "word" : "AORINZ"
+  },
+  {
+    "rs" : [
+      "SIE",
+      "SIEB",
+      "WEIS",
+      "WEISE",
+      "WIES"
+    ],
+    "word" : "SIWBEE"
+  },
+  {
+    "rs" : [
+      "HALBE",
+      "ZEH",
+      "HABE",
+      "ZAHL",
+      "ZAHLE"
+    ],
+    "word" : "HAEBLZ"
+  },
+  {
+    "rs" : [
+      "BEI",
+      "BELL",
+      "LIEB",
+      "BEIL",
+      "BILLIE",
+      "BILL"
+    ],
+    "word" : "IIBLLE"
+  },
+  {
+    "rs" : [
+      "MAI",
+      "MAMI",
+      "MIMA",
+      "BIMBAM"
+    ],
+    "word" : "AMMIBB"
+  },
+  {
+    "rs" : [
+      "DREI",
+      "BIRD",
+      "EID",
+      "DIEB"
+    ],
+    "word" : "RIBDE"
+  },
+  {
+    "rs" : [
+      "ISTJA",
+      "BIST",
+      "BIS",
+      "STAB"
+    ],
+    "word" : "ATIBSJ"
+  },
+  {
+    "rs" : [
+      "BITTET",
+      "BITTE",
+      "BEI",
+      "TIBET",
+      "TITTE",
+      "BETT",
+      "BITT"
+    ],
+    "word" : "TTTIBE"
+  },
+  {
+    "rs" : [
+      "FÜRS",
+      "FÜRST",
+      "FÜHRST",
+      "FÜHRT"
+    ],
+    "word" : "HFRÜTS"
+  },
+  {
+    "rs" : [
+      "FUTSCH",
+      "SCHT",
+      "SUCH",
+      "SCHUF",
+      "SCHUFT",
+      "TUCH"
+    ],
+    "word" : "HFTUSC"
+  },
+  {
+    "rs" : [
+      "TRUE",
+      "RUFT",
+      "UFER",
+      "TREU",
+      "FREUT",
+      "FUTTER"
+    ],
+    "word" : "FRTTUE"
+  },
+  {
+    "rs" : [
+      "ABER",
+      "GRAB",
+      "ERGAB",
+      "GABE",
+      "GEBAR",
+      "RABE"
+    ],
+    "word" : "ARBGE"
+  },
+  {
+    "rs" : [
+      "BETE",
+      "BOTE",
+      "GEBE",
+      "GEBOTE"
+    ],
+    "word" : "OTBGEE"
+  },
+  {
+    "rs" : [
+      "ERGEBT",
+      "BERGE",
+      "ERBE",
+      "GEBT"
+    ],
+    "word" : "TRBGEE"
+  },
+  {
+    "rs" : [
+      "GEFIEL",
+      "GEILE",
+      "LIEF",
+      "IGEL",
+      "EILE",
+      "FEIGE",
+      "LIEGE"
+    ],
+    "word" : "FIGLEE"
+  },
+  {
+    "rs" : [
+      "GREG",
+      "NEGER",
+      "REGE",
+      "GEGNER",
+      "REGEN",
+      "GERNE",
+      "ENGER"
+    ],
+    "word" : "RNEEGG"
+  },
+  {
+    "rs" : [
+      "TEIG",
+      "REGT",
+      "GIER",
+      "RITT",
+      "TIER",
+      "GITTER"
+    ],
+    "word" : "TTRIGE"
+  },
+  {
+    "rs" : [
+      "TÖTE",
+      "GÖRE",
+      "GÖTTER",
+      "REGT"
+    ],
+    "word" : "TTRGEÖ"
+  },
+  {
+    "rs" : [
+      "GÄBE",
+      "GRÄBER",
+      "ÄRGER",
+      "BERG"
+    ],
+    "word" : "ÄRRBGE"
+  },
+  {
+    "rs" : [
+      "GREENE",
+      "ENGE",
+      "GERN",
+      "REGE",
+      "NEGER",
+      "GERNE",
+      "ENGER"
+    ],
+    "word" : "RNEEEG"
+  },
+  {
+    "rs" : [
+      "GREG",
+      "GEORG",
+      "GORE",
+      "OGER",
+      "GREGOR",
+      "ROGER"
+    ],
+    "word" : "ORRGGE"
+  },
+  {
+    "rs" : [
+      "FEIGER",
+      "REGIE",
+      "REGE",
+      "GREIF",
+      "GIER",
+      "FEIGE",
+      "FEIER"
+    ],
+    "word" : "FRIGEE"
+  },
+  {
+    "rs" : [
+      "REGEN",
+      "NEGER",
+      "ENGE",
+      "REGE",
+      "GRENZE"
+    ],
+    "word" : "EERGZN"
+  },
+  {
+    "rs" : [
+      "LEGE",
+      "REGEL",
+      "LEER",
+      "REGLE",
+      "LEGTE"
+    ],
+    "word" : "TRGLEE"
+  },
+  {
+    "rs" : [
+      "GORE",
+      "GROSSER",
+      "OGER",
+      "GROSS",
+      "GROSSE",
+      "ROGER"
+    ],
+    "word" : "ORRGESS"
+  },
+  {
+    "rs" : [
+      "TUE",
+      "GUTE",
+      "MUT",
+      "GUT",
+      "GUTEM"
+    ],
+    "word" : "TMUEG"
+  },
+  {
+    "rs" : [
+      "NEU",
+      "GUTEN",
+      "ENG",
+      "TUN"
+    ],
+    "word" : "GTUEN"
+  },
+  {
+    "rs" : [
+      "HACKT",
+      "HAT",
+      "AKT",
+      "ACH",
+      "HACK"
+    ],
+    "word" : "ATKHC"
+  },
+  {
+    "rs" : [
+      "FAHNE",
+      "FAN",
+      "NAHE",
+      "AHN",
+      "NAH",
+      "HAFEN"
+    ],
+    "word" : "HAFNE"
+  },
+  {
+    "rs" : [
+      "HANK",
+      "KAHN",
+      "NAH",
+      "NAHE"
+    ],
+    "word" : "AHKNE"
+  },
+  {
+    "rs" : [
+      "HAB",
+      "HABE",
+      "HALB",
+      "HALBE"
+    ],
+    "word" : "AHBLE"
+  },
+  {
+    "rs" : [
+      "MEINEN",
+      "MIEZ",
+      "MIENE",
+      "EMINENZ",
+      "INNE",
+      "MEIN",
+      "EINEM",
+      "EINE"
+    ],
+    "word" : "MINNZEE"
+  },
+  {
+    "rs" : [
+      "ZEIT",
+      "ZEITIG",
+      "ZEIGT",
+      "TEIG"
+    ],
+    "word" : "TIIGZE"
+  },
+  {
+    "rs" : [
+      "ORDEN",
+      "DREW",
+      "WERD",
+      "DOWN"
+    ],
+    "word" : "ORDNEW"
+  },
+  {
+    "rs" : [
+      "SUCH",
+      "WUNSCH",
+      "WUCHS",
+      "CHUN"
+    ],
+    "word" : "NHWUSC"
+  },
+  {
+    "rs" : [
+      "WUND",
+      "RUND",
+      "WURDE",
+      "WUNDER"
+    ],
+    "word" : "WRDUEN"
+  },
+  {
+    "rs" : [
+      "DREW",
+      "WERT",
+      "WURDE",
+      "WURDET"
+    ],
+    "word" : "TRDUEW"
+  },
+  {
+    "rs" : [
+      "ESST",
+      "TESS",
+      "WEST",
+      "WÜST",
+      "WÜSSTE",
+      "WÜSTE"
+    ],
+    "word" : "TWÜESS"
+  },
+  {
+    "rs" : [
+      "ZEIGE",
+      "ZEIG",
+      "ZEIGER",
+      "REGE",
+      "ZIEGE"
+    ],
+    "word" : "RIGZEE"
+  },
+  {
+    "rs" : [
+      "LENZ",
+      "LEINE",
+      "ZEILEN",
+      "ZIELEN",
+      "EILEN",
+      "EILE",
+      "EINE",
+      "ZEILE"
+    ],
+    "word" : "EEINLZ"
+  },
+  {
+    "rs" : [
+      "EILT",
+      "TILL",
+      "LEILA",
+      "LAIE",
+      "LILA"
+    ],
+    "word" : "ATILLE"
+  },
+  {
+    "rs" : [
+      "IWAN",
+      "WAIT",
+      "ANITA",
+      "TWAIN",
+      "TAIWAN"
+    ],
+    "word" : "AATIWN"
+  },
+  {
+    "rs" : [
+      "AKTE",
+      "KANTE",
+      "KANNTE",
+      "TANKEN",
+      "KANN",
+      "KENNT",
+      "KANNE"
+    ],
+    "word" : "ATKNNE"
+  },
+  {
+    "rs" : [
+      "NENN",
+      "NNEN",
+      "TANNEN",
+      "NENNT",
+      "NANNTE"
+    ],
+    "word" : "ATNNNE"
+  },
+  {
+    "rs" : [
+      "NETZ",
+      "TANZE",
+      "TANZ",
+      "TANZEN"
+    ],
+    "word" : "ATNNZE"
+  },
+  {
+    "rs" : [
+      "TICKET",
+      "TICK",
+      "KITT",
+      "TICKT"
+    ],
+    "word" : "TTKIEC"
+  },
+  {
+    "rs" : [
+      "GREG",
+      "TIGER",
+      "GIER",
+      "TIER",
+      "TEIG",
+      "TIGGER"
+    ],
+    "word" : "TRIGGE"
+  },
+  {
+    "rs" : [
+      "SENATS",
+      "ASSE",
+      "TASSEN",
+      "NASE",
+      "TASSE",
+      "TESS",
+      "NASSE",
+      "NEST"
+    ],
+    "word" : "ATNSSE"
+  },
+  {
+    "rs" : [
+      "SUCHE",
+      "ECHT",
+      "EUCH",
+      "HEUT"
+    ],
+    "word" : "ETHUSC"
+  },
+  {
+    "rs" : [
+      "SURFEN",
+      "RUFE",
+      "FERN",
+      "SENF",
+      "UNSER",
+      "UFER",
+      "RUFEN"
+    ],
+    "word" : "SFRUNE"
+  },
+  {
+    "rs" : [
+      "WÄRT",
+      "WERT",
+      "WEST",
+      "REST",
+      "WÄREST"
+    ],
+    "word" : "ÄRWTES"
+  },
+  {
+    "rs" : [
+      "WENN",
+      "WANN",
+      "WARNE",
+      "WAREN",
+      "WANNE"
+    ],
+    "word" : "ARWNNE"
+  },
+  {
+    "rs" : [
+      "WECKER",
+      "CREW",
+      "WECK",
+      "CREWE",
+      "WECKE",
+      "CREEK",
+      "ECKE"
+    ],
+    "word" : "KRWEEC"
+  },
+  {
+    "rs" : [
+      "SEKT",
+      "WECK",
+      "WEST",
+      "WECKST"
+    ],
+    "word" : "ETKWSC"
+  },
+  {
+    "rs" : [
+      "WEIZEN",
+      "ZWEI",
+      "WEIN",
+      "WEINE"
+    ],
+    "word" : "WINZEE"
+  },
+  {
+    "rs" : [
+      "WIGAND",
+      "IWAN",
+      "DAWN",
+      "DING",
+      "WAND",
+      "WANG",
+      "WIND"
+    ],
+    "word" : "ADIGWN"
+  },
+  {
+    "rs" : [
+      "THEY",
+      "WEIT",
+      "WITH",
+      "WHITE",
+      "WEHT"
+    ],
+    "word" : "HTYIWE"
+  },
+  {
+    "rs" : [
+      "SOHN",
+      "COHEN",
+      "SCHONE",
+      "OHNE"
+    ],
+    "word" : "EOHNSC"
+  },
+  {
+    "rs" : [
+      "SUCH",
+      "SCHUBS",
+      "SCHUB",
+      "CUBS",
+      "BUSCH"
+    ],
+    "word" : "HBUSSC"
+  },
+  {
+    "rs" : [
+      "SCHUTZ",
+      "SCHT",
+      "SUCH",
+      "TUCH",
+      "ZUCHT"
+    ],
+    "word" : "HSTUZC"
+  },
+  {
+    "rs" : [
+      "LEGE",
+      "SEGEL",
+      "SEGELN",
+      "ENGE",
+      "ESEL",
+      "LESE"
+    ],
+    "word" : "EESGLN"
+  },
+  {
+    "rs" : [
+      "SEHE",
+      "SEHNE",
+      "SEHEN",
+      "SEHNEN"
+    ],
+    "word" : "HNNEES"
+  },
+  {
+    "rs" : [
+      "LEBENS",
+      "LEBEN",
+      "LESBEN",
+      "NEBEL",
+      "SELBE"
+    ],
+    "word" : "SBNLEE"
+  },
+  {
+    "rs" : [
+      "SELBST",
+      "LEBST",
+      "LEBT",
+      "BESS",
+      "ESST",
+      "LEST",
+      "TESS"
+    ],
+    "word" : "SSTBLE"
+  },
+  {
+    "rs" : [
+      "GIGI",
+      "SEIT",
+      "SIEG",
+      "STIEG",
+      "TEIG",
+      "GEIST"
+    ],
+    "word" : "TIIGGES"
+  },
+  {
+    "rs" : [
+      "KAUF",
+      "TAUFE",
+      "KAUFTE",
+      "GUTE",
+      "FAKT",
+      "AKTE"
+    ],
+    "word" : "EAFKTGU"
+  },
+  {
+    "rs" : [
+      "GILT",
+      "GEKILLT",
+      "LEGT",
+      "KEIL",
+      "GELL"
+    ],
+    "word" : "TKIGLLE"
+  },
+  {
+    "rs" : [
+      "KLÄGER",
+      "KÄLTER",
+      "KLÄRT",
+      "LEGT",
+      "LÄGE",
+      "REGT",
+      "ÄLTER"
+    ],
+    "word" : "REÄKGTL"
+  },
+  {
+    "rs" : [
+      "KÜSSTE",
+      "ESST",
+      "KÜSSE",
+      "KÜSST",
+      "GÜTE",
+      "TESS",
+      "KÜSTE",
+      "GEKÜSST"
+    ],
+    "word" : "TKÜGSSE"
+  },
+  {
+    "rs" : [
+      "EDEL",
+      "LEGE",
+      "MÄDEL",
+      "GELD"
+    ],
+    "word" : "ÄDMGLEE"
+  },
+  {
+    "rs" : [
+      "HÜTER",
+      "EHRT",
+      "HÜTE",
+      "GÜTER",
+      "GEHT",
+      "RECHT"
+    ],
+    "word" : "ÜRETGCH"
+  },
+  {
+    "rs" : [
+      "RÜHRT",
+      "GEHT",
+      "HÜTE",
+      "RÜHR",
+      "GÜTE",
+      "GERÜHRT",
+      "EHRT"
+    ],
+    "word" : "HTRRÜGE"
+  },
+  {
+    "rs" : [
+      "ZEIGE",
+      "GEZEIGT",
+      "GEIGE",
+      "ZIEGE",
+      "ZEIGT"
+    ],
+    "word" : "TIGGZEE"
+  },
+  {
+    "rs" : [
+      "ZEUGT",
+      "GETUE",
+      "GUTE",
+      "GEZEUGT"
+    ],
+    "word" : "EETGGUZ"
+  },
+  {
+    "rs" : [
+      "GREGOR",
+      "GORE",
+      "ROGER",
+      "GREGORY",
+      "OGER",
+      "GREY",
+      "GEORG"
+    ],
+    "word" : "ORRYGGE"
+  },
+  {
+    "rs" : [
+      "RING",
+      "FING",
+      "GRIFFIN",
+      "GRIFF"
+    ],
+    "word" : "FFRIIGN"
+  },
+  {
+    "rs" : [
+      "GRÖSSER",
+      "GÖRE",
+      "REGE",
+      "GRÖSSERE"
+    ],
+    "word" : "SSRRGEEÖ"
+  },
+  {
+    "rs" : [
+      "GRÖSSE",
+      "GRÖSSER",
+      "GÖRE",
+      "GRÖSSTER",
+      "GRÖSSTE",
+      "REGT"
+    ],
+    "word" : "ÖTRRGSSE"
+  },
+  {
+    "rs" : [
+      "GREG",
+      "GÜTIG",
+      "REGT",
+      "RIET",
+      "TIGGER"
+    ],
+    "word" : "TRIGGEÜ"
+  },
+  {
+    "rs" : [
+      "TOUCH",
+      "HUCH",
+      "HOCH",
+      "MUCH",
+      "TUCO",
+      "HUTCH",
+      "HOCHMUT"
+    ],
+    "word" : "OMTHHUC"
+  },
+  {
+    "rs" : [
+      "HARD",
+      "RADAR",
+      "HARVARD",
+      "ARAV"
+    ],
+    "word" : "HVAADRR"
+  },
+  {
+    "rs" : [
+      "NÄHE",
+      "HÄSCHEN",
+      "SÄEN",
+      "SÄHE"
+    ],
+    "word" : "EÄHHNSC"
+  },
+  {
+    "rs" : [
+      "TÄTE",
+      "STÄTTE",
+      "HÄTTET",
+      "SÄHE"
+    ],
+    "word" : "HÄTTTES"
+  },
+  {
+    "rs" : [
+      "NACH",
+      "NOCH",
+      "KHAN",
+      "HACK"
+    ],
+    "word" : "AOKHNC"
+  },
+  {
+    "rs" : [
+      "KÖPFEN",
+      "PENN",
+      "KÖNNE",
+      "KÖPFE",
+      "KNÖPFE",
+      "KNÖPFEN"
+    ],
+    "word" : "FKPNNEÖ"
+  },
+  {
+    "rs" : [
+      "NONNE",
+      "NNEN",
+      "NENNE",
+      "KONNEN",
+      "KOENNEN"
+    ],
+    "word" : "OKNNNEE"
+  },
+  {
+    "rs" : [
+      "KNETEN",
+      "NOTE",
+      "KNOTEN",
+      "KONNTE",
+      "KONNT",
+      "KONTEN",
+      "KOENNTE"
+    ],
+    "word" : "OTKNNEE"
+  },
+  {
+    "rs" : [
+      "KÖNNEN",
+      "TÖNEN",
+      "KÖNNE",
+      "KÖNNT",
+      "KENNT",
+      "NENNT",
+      "KÖNNTEN"
+    ],
+    "word" : "TKNNNEÖ"
+  },
+  {
+    "rs" : [
+      "NETZ",
+      "NUTTE",
+      "NETT",
+      "NUTZT"
+    ],
+    "word" : "NTTUZE"
+  },
+  {
+    "rs" : [
+      "HOSEN",
+      "OCHSE",
+      "OCHSEN",
+      "SCHOEN",
+      "SCHONE",
+      "SOHN",
+      "ECHO",
+      "SCHON"
+    ],
+    "word" : "OEHNSC"
+  },
+  {
+    "rs" : [
+      "OFEN",
+      "OFFENE",
+      "OFFEN",
+      "NEFFE"
+    ],
+    "word" : "OFFNEE"
+  },
+  {
+    "rs" : [
+      "ÖFTER",
+      "ERST",
+      "STÖRE",
+      "ÖFTERS"
+    ],
+    "word" : "SFRTEÖ"
+  },
+  {
+    "rs" : [
+      "OLSEN",
+      "ONKELS",
+      "KLON",
+      "ONKEL",
+      "LOSEN"
+    ],
+    "word" : "OSKNLE"
+  },
+  {
+    "rs" : [
+      "ORDEN",
+      "DONNER",
+      "ODER",
+      "DORNEN",
+      "NORDEN",
+      "ORDNEN",
+      "DENN",
+      "DORN"
+    ],
+    "word" : "ORDNNE"
+  },
+  {
+    "rs" : [
+      "DOOF",
+      "DOOR",
+      "DORF",
+      "FRODO",
+      "FORD"
+    ],
+    "word" : "OOFDR"
+  },
+  {
+    "rs" : [
+      "NASE",
+      "ZONE",
+      "OZEANS",
+      "SOZE",
+      "OZEAN"
+    ],
+    "word" : "AOSNZE"
+  },
+  {
+    "rs" : [
+      "AKTE",
+      "PETE",
+      "PAKT",
+      "PAKET"
+    ],
+    "word" : "ATKPEE"
+  },
+  {
+    "rs" : [
+      "RAMPE",
+      "MALE",
+      "AMPEL",
+      "PALME"
+    ],
+    "word" : "AMRPLE"
+  },
+  {
+    "rs" : [
+      "PEARL",
+      "PARO",
+      "REAL",
+      "OPER"
+    ],
+    "word" : "AORPLE"
+  },
+  {
+    "rs" : [
+      "PARTEI",
+      "PATER",
+      "TRIP",
+      "PIER",
+      "TIER",
+      "PIRAT"
+    ],
+    "word" : "ATRIPE"
+  },
+  {
+    "rs" : [
+      "TAPE",
+      "ESST",
+      "TESS",
+      "PEST",
+      "PSST"
+    ],
+    "word" : "ATPESS"
+  },
+  {
+    "rs" : [
+      "SHOP",
+      "PHOTOS",
+      "PHOTO",
+      "POST"
+    ],
+    "word" : "OOTHPS"
+  },
+  {
+    "rs" : [
+      "KELP",
+      "PICKEL",
+      "PIKE",
+      "KEIL"
+    ],
+    "word" : "EKIPLC"
+  },
+  {
+    "rs" : [
+      "EILTE",
+      "EITEL",
+      "EILE",
+      "PLEITE"
+    ],
+    "word" : "TIPLEE"
+  },
+  {
+    "rs" : [
+      "KORN",
+      "KRONE",
+      "PORK",
+      "POKER",
+      "POKERN"
+    ],
+    "word" : "OKPNRE"
+  },
+  {
+    "rs" : [
+      "PREIS",
+      "RIESE",
+      "PIER",
+      "REISE"
+    ],
+    "word" : "RIPSEE"
+  },
+  {
+    "rs" : [
+      "SPEER",
+      "SEES",
+      "ESSE",
+      "PRESS"
+    ],
+    "word" : "RPSSEE"
+  },
+  {
+    "rs" : [
+      "RASSE",
+      "MARS",
+      "ARMES",
+      "MASSE",
+      "RAMSES"
+    ],
+    "word" : "AMRESS"
+  },
+  {
+    "rs" : [
+      "RAYS",
+      "ARMES",
+      "ARMY",
+      "EASY",
+      "MARY"
+    ],
+    "word" : "AMYRES"
+  },
+  {
+    "rs" : [
+      "ÄLTER",
+      "LEST",
+      "ERST",
+      "REST",
+      "RÄTSEL"
+    ],
+    "word" : "SÄRTLE"
+  },
+  {
+    "rs" : [
+      "ALLER",
+      "YALE",
+      "ALLE",
+      "REAL",
+      "EARLY",
+      "REALLY"
+    ],
+    "word" : "AYRLLE"
+  },
+  {
+    "rs" : [
+      "REBELL",
+      "BELLE",
+      "LEBER",
+      "BELL",
+      "LEBE",
+      "ERBE",
+      "LEER"
+    ],
+    "word" : "RBLLEE"
+  },
+  {
+    "rs" : [
+      "ECHT",
+      "SETH",
+      "RECHT",
+      "SCHER"
+    ],
+    "word" : "ETRHSC"
+  },
+  {
+    "rs" : [
+      "ENDE",
+      "REDE",
+      "ERDEN",
+      "REDNER"
+    ],
+    "word" : "RRDNEE"
+  },
+  {
+    "rs" : [
+      "REGIE",
+      "MEER",
+      "GIER",
+      "REGE",
+      "EIMER",
+      "REGIME"
+    ],
+    "word" : "MRIGEE"
+  },
+  {
+    "rs" : [
+      "HEER",
+      "REICHE",
+      "EHER",
+      "EICHE",
+      "REICH"
+    ],
+    "word" : "HRIEEC"
+  },
+  {
+    "rs" : [
+      "INNERE",
+      "REINEN",
+      "NIERE",
+      "REINE",
+      "NIEREN",
+      "RENNE"
+    ],
+    "word" : "RINNEE"
+  },
+  {
+    "rs" : [
+      "REISSE",
+      "REIN",
+      "REINE",
+      "EINE"
+    ],
+    "word" : "RINSSEE"
+  },
+  {
+    "rs" : [
+      "NIETE",
+      "ENTE",
+      "REITEN",
+      "NIERE",
+      "TIER",
+      "REINE",
+      "EINE"
+    ],
+    "word" : "TRINEE"
+  },
+  {
+    "rs" : [
+      "NENN",
+      "NNEN",
+      "NENNE",
+      "NENNER",
+      "RENNEN",
+      "RENNE"
+    ],
+    "word" : "NNNREE"
+  },
+  {
+    "rs" : [
+      "STERN",
+      "RENNST",
+      "ERST",
+      "REST",
+      "ERNST"
+    ],
+    "word" : "TRNNES"
+  },
+  {
+    "rs" : [
+      "RIVER",
+      "IRRE",
+      "EVER",
+      "REVIER"
+    ],
+    "word" : "VRRIEE"
+  },
+  {
+    "rs" : [
+      "IRRE",
+      "TERRI",
+      "RIET",
+      "RITT",
+      "IRRTE",
+      "RITTER"
+    ],
+    "word" : "TTRRIE"
+  },
+  {
+    "rs" : [
+      "ROCKEN",
+      "ROCK",
+      "KRONE",
+      "KORN",
+      "ONCE",
+      "COKE",
+      "KERN"
+    ],
+    "word" : "OKRNEC"
+  },
+  {
+    "rs" : [
+      "ROGERS",
+      "SORG",
+      "SORGE",
+      "GORE"
+    ],
+    "word" : "ORRGSE"
+  },
+  {
+    "rs" : [
+      "LEON",
+      "LONE",
+      "NOEL",
+      "ROLL",
+      "ROLLEN",
+      "ROLLE"
+    ],
+    "word" : "ORNLLE"
+  },
+  {
+    "rs" : [
+      "ERROL",
+      "ROLLE",
+      "ROLL",
+      "ROLLER"
+    ],
+    "word" : "ORRLLE"
+  },
+  {
+    "rs" : [
+      "RABE",
+      "NAME",
+      "AMBER",
+      "BAR",
+      "ARMEN",
+      "ARME"
+    ],
+    "word" : "AMRBNE"
+  },
+  {
+    "rs" : [
+      "SEES",
+      "SEE",
+      "ERBSE",
+      "ERBE",
+      "ESSE"
+    ],
+    "word" : "RBEESS"
+  },
+  {
+    "rs" : [
+      "BENS",
+      "EBEN",
+      "BEST",
+      "BESEN",
+      "TEE",
+      "BESTE",
+      "NEST"
+    ],
+    "word" : "TBNEES"
+  },
+  {
+    "rs" : [
+      "BUCH",
+      "HEU",
+      "CUBS",
+      "BUSCH",
+      "SUCHE",
+      "BUCHES",
+      "SCHEU"
+    ],
+    "word" : "HSBUEC"
+  },
+  {
+    "rs" : [
+      "TUE",
+      "BLUTE",
+      "BETT",
+      "BLUTET"
+    ],
+    "word" : "TTBULE"
+  },
+  {
+    "rs" : [
+      "GUT",
+      "GILT",
+      "BLUT",
+      "BLUTIG",
+      "GIBT",
+      "GLUT"
+    ],
+    "word" : "BTIGUL"
+  },
+  {
+    "rs" : [
+      "HOB",
+      "OBEN",
+      "BOHNEN",
+      "BOHNE",
+      "OHNE"
+    ],
+    "word" : "HOBNNE"
+  },
+  {
+    "rs" : [
+      "OBEN",
+      "BOB",
+      "BOMBE",
+      "BOMBEN"
+    ],
+    "word" : "OMBBNE"
+  },
+  {
+    "rs" : [
+      "BRAV",
+      "RABE",
+      "BRAVE",
+      "BRAVER",
+      "BAR",
+      "ABER"
+    ],
+    "word" : "VARRBE"
+  },
+  {
+    "rs" : [
+      "RAND",
+      "BART",
+      "BRANDT",
+      "DRAN",
+      "BAD"
+    ],
+    "word" : "ATDBNR"
+  },
+  {
+    "rs" : [
+      "BAUER",
+      "SAU",
+      "RAUB",
+      "SAUER",
+      "SAUBER",
+      "RABE"
+    ],
+    "word" : "ARBUES"
+  },
+  {
+    "rs" : [
+      "MÖCHTE",
+      "NEHMT",
+      "MÖNCH",
+      "MÖCHT",
+      "ECHT",
+      "TÖNE",
+      "MÖCHTEN"
+    ],
+    "word" : "MENÖTCH"
+  },
+  {
+    "rs" : [
+      "TÖTE",
+      "ECHT",
+      "MÖCHT",
+      "MÖCHTE",
+      "MÖCHTET"
+    ],
+    "word" : "HMCTTEÖ"
+  },
+  {
+    "rs" : [
+      "MONTE",
+      "NOTE",
+      "ENTE",
+      "MOMENTE"
+    ],
+    "word" : "OMMTNEE"
+  },
+  {
+    "rs" : [
+      "SOME",
+      "HOSE",
+      "HOME",
+      "COME"
+    ],
+    "word" : "EMOHSC"
+  },
+  {
+    "rs" : [
+      "REUE",
+      "EUER",
+      "URMEL",
+      "MEER",
+      "EUREM",
+      "MUELLER",
+      "LEER"
+    ],
+    "word" : "MRULLEE"
+  },
+  {
+    "rs" : [
+      "MÜHEN",
+      "MENÜ",
+      "MÜHE",
+      "MÜNCHEN"
+    ],
+    "word" : "HMÜNNEC"
+  },
+  {
+    "rs" : [
+      "RUCK",
+      "DRUM",
+      "DRUCK",
+      "DOCK",
+      "ROCK"
+    ],
+    "word" : "DMROKCU"
+  },
+  {
+    "rs" : [
+      "DELL",
+      "BALD",
+      "BAD",
+      "BELLA",
+      "BALL",
+      "BELL",
+      "BLADE"
+    ],
+    "word" : "ADBLLE"
+  },
+  {
+    "rs" : [
+      "GAB",
+      "BANK",
+      "BANG",
+      "KANG",
+      "KONG",
+      "BANGKOK"
+    ],
+    "word" : "AOKKBGN"
+  },
+  {
+    "rs" : [
+      "BAR",
+      "BARACKE",
+      "BACK",
+      "BECK",
+      "RABE",
+      "ACKER",
+      "BACKE",
+      "ABER"
+    ],
+    "word" : "AAKRBEC"
+  },
+  {
+    "rs" : [
+      "SPÄT",
+      "SPÄTER",
+      "ERST",
+      "PEST"
+    ],
+    "word" : "ÄRTPSE"
+  },
+  {
+    "rs" : [
+      "RAMPE",
+      "MARS",
+      "ARMES",
+      "SPERMA",
+      "ARME"
+    ],
+    "word" : "AMRPES"
+  },
+  {
+    "rs" : [
+      "SPERR",
+      "ERST",
+      "PEST",
+      "REST",
+      "SPERRT"
+    ],
+    "word" : "TRRPES"
+  },
+  {
+    "rs" : [
+      "RINGS",
+      "RING",
+      "SING",
+      "SPRING"
+    ],
+    "word" : "PRINSG"
+  },
+  {
+    "rs" : [
+      "TUCK",
+      "SPUCK",
+      "SPUKT",
+      "STUCK",
+      "SPUCKT"
+    ],
+    "word" : "TKPUSC"
+  },
+  {
+    "rs" : [
+      "SEKT",
+      "STÄRKE",
+      "ERST",
+      "REST",
+      "KÄSE"
+    ],
+    "word" : "ÄKRTES"
+  },
+  {
+    "rs" : [
+      "BRETT",
+      "BEST",
+      "ERST",
+      "TEST",
+      "STERBT"
+    ],
+    "word" : "TTRBES"
+  },
+  {
+    "rs" : [
+      "ENTE",
+      "ERNTE",
+      "ERSTEN",
+      "STERNE"
+    ],
+    "word" : "TRNEES"
+  },
+  {
+    "rs" : [
+      "STERNS",
+      "NEST",
+      "STERN",
+      "ESST",
+      "NESS",
+      "REST",
+      "TESS",
+      "ERNST"
+    ],
+    "word" : "TRNSSE"
+  },
+  {
+    "rs" : [
+      "SCHÖNES",
+      "NESS",
+      "SECHS",
+      "SÖHNE",
+      "SCHÖN",
+      "SCHÖNE"
+    ],
+    "word" : "HCSSNEÖ"
+  },
+  {
+    "rs" : [
+      "KEHR",
+      "CHECK",
+      "HECK",
+      "SEHR"
+    ],
+    "word" : "EHRKSCC"
+  },
+  {
+    "rs" : [
+      "SCHT",
+      "LUTSCH",
+      "SCHUTZ",
+      "TUCH",
+      "SCHULTZ",
+      "LUST",
+      "STUHL"
+    ],
+    "word" : "UZSTCLH"
+  },
+  {
+    "rs" : [
+      "SCHT",
+      "STEH",
+      "ECHT",
+      "HÜTE",
+      "SETZ",
+      "SEHT",
+      "SCHÜTZE",
+      "SETH"
+    ],
+    "word" : "ÜZESTCH"
+  },
+  {
+    "rs" : [
+      "ZEUS",
+      "NEUE",
+      "SEQUENZ",
+      "QUEENS"
+    ],
+    "word" : "QEESUZN"
+  },
+  {
+    "rs" : [
+      "SHELLEY",
+      "SHELL",
+      "SHELLY",
+      "HELLES"
+    ],
+    "word" : "HSYLLEE"
+  },
+  {
+    "rs" : [
+      "MOSS",
+      "SOMMER",
+      "SORS",
+      "SOMMERS"
+    ],
+    "word" : "OMMRESS"
+  },
+  {
+    "rs" : [
+      "POOR",
+      "PORNOS",
+      "SPONSOR",
+      "SORS"
+    ],
+    "word" : "OORPNSS"
+  },
+  {
+    "rs" : [
+      "TOTEN",
+      "NEST",
+      "PEST",
+      "POET",
+      "TEST",
+      "SPOTTEN"
+    ],
+    "word" : "OTTPNES"
+  },
+  {
+    "rs" : [
+      "NEST",
+      "PEST",
+      "GERN",
+      "ERNST",
+      "STRENG"
+    ],
+    "word" : "RNESTPG"
+  },
+  {
+    "rs" : [
+      "KERN",
+      "NEST",
+      "ERST",
+      "STERN",
+      "STÄRKEN",
+      "KÄSE"
+    ],
+    "word" : "RNESÄKT"
+  },
+  {
+    "rs" : [
+      "SUMMER",
+      "SUMME",
+      "RUSS",
+      "SUMMERS"
+    ],
+    "word" : "MMRUESS"
+  },
+  {
+    "rs" : [
+      "SYSTEMS",
+      "ESST",
+      "TESS",
+      "SYSTEM"
+    ],
+    "word" : "MYTESSS"
+  },
+  {
+    "rs" : [
+      "RUTH",
+      "THURSBY",
+      "STUR",
+      "RUHT",
+      "BRUST",
+      "RUSTY"
+    ],
+    "word" : "URSBTYH"
+  },
+  {
+    "rs" : [
+      "TÖTET",
+      "TÖTETE",
+      "NETT",
+      "TÖTETEN"
+    ],
+    "word" : "TTTNEEÖ"
+  },
+  {
+    "rs" : [
+      "RENNT",
+      "TRÄNEN",
+      "KERN",
+      "TRÄNE",
+      "KENNT",
+      "TRÄNKEN"
+    ],
+    "word" : "ÄKRNNET"
+  },
+  {
+    "rs" : [
+      "RENNT",
+      "ENTE",
+      "ERNTEN",
+      "NENNER",
+      "NENNE",
+      "NENNT",
+      "NNEN"
+    ],
+    "word" : "TRNNNEE"
+  },
+  {
+    "rs" : [
+      "TEMPLE",
+      "ESEL",
+      "STEMPEL",
+      "LEST",
+      "PEEL",
+      "PETE",
+      "LESE"
+    ],
+    "word" : "EEMTPLS"
+  },
+  {
+    "rs" : [
+      "NEST",
+      "STÜCK",
+      "KÜNSTE",
+      "STECK"
+    ],
+    "word" : "ÜENSKTC"
+  },
+  {
+    "rs" : [
+      "NESS",
+      "TESS",
+      "ESSE",
+      "ESSEN"
+    ],
+    "word" : "TNSSEE"
+  },
+  {
+    "rs" : [
+      "STECK",
+      "STOCK",
+      "STOCKEN",
+      "KOSTEN"
+    ],
+    "word" : "ENSOKTC"
+  },
+  {
+    "rs" : [
+      "SÖHNEN",
+      "STEH",
+      "SÖHNE",
+      "TÖNEN",
+      "SEHNT",
+      "STÖHNEN",
+      "NEST"
+    ],
+    "word" : "ÖTHNNSE"
+  },
+  {
+    "rs" : [
+      "POSTEN",
+      "STOPF",
+      "SENF",
+      "POET",
+      "TOPF"
+    ],
+    "word" : "ENFOSTP"
+  },
+  {
+    "rs" : [
+      "SECRET",
+      "STECKE",
+      "STRECK",
+      "SEKTE",
+      "ERST",
+      "SEKT",
+      "STECK"
+    ],
+    "word" : "EETKRSC"
+  },
+  {
+    "rs" : [
+      "RÖSTEN",
+      "STÖRE",
+      "STÖREN",
+      "STERN",
+      "TÖNE",
+      "REST",
+      "STRÖMEN"
+    ],
+    "word" : "MRNESÖT"
+  },
+  {
+    "rs" : [
+      "PRESS",
+      "ASSE",
+      "SPARE",
+      "RASSE"
+    ],
+    "word" : "ARPSSE"
+  },
+  {
+    "rs" : [
+      "LEST",
+      "ERST",
+      "TREU",
+      "TULSE",
+      "VERLUST"
+    ],
+    "word" : "VRESTLU"
+  },
+  {
+    "rs" : [
+      "RUHE",
+      "VERS",
+      "HURE",
+      "SEHR"
+    ],
+    "word" : "VHRUSE"
+  },
+  {
+    "rs" : [
+      "EVER",
+      "ERBEN",
+      "ÜBER",
+      "VERÜBEN",
+      "NERV",
+      "NEVER",
+      "EVEN",
+      "VERNE"
+    ],
+    "word" : "VRÜNBEE"
+  },
+  {
+    "rs" : [
+      "GIVE",
+      "GIER",
+      "ZEIG",
+      "REIZ",
+      "VIERZIG"
+    ],
+    "word" : "VRIIGZE"
+  },
+  {
+    "rs" : [
+      "VISUELL",
+      "EVIL",
+      "LIES",
+      "LUIS"
+    ],
+    "word" : "EVIUSLL"
+  },
+  {
+    "rs" : [
+      "FELD",
+      "FREDO",
+      "LOVE",
+      "LOVER",
+      "DORF",
+      "FORD"
+    ],
+    "word" : "DVREFOL"
+  },
+  {
+    "rs" : [
+      "ROTER",
+      "OVER",
+      "VERRÄT",
+      "ORTE"
+    ],
+    "word" : "VÄRRTOE"
+  },
+  {
+    "rs" : [
+      "CLAN",
+      "KLAN",
+      "WALK",
+      "LANCE"
+    ],
+    "word" : "EAWNKCL"
+  },
+  {
+    "rs" : [
+      "AKTE",
+      "ETWA",
+      "WECK",
+      "LECKT"
+    ],
+    "word" : "EAWKTCL"
+  },
+  {
+    "rs" : [
+      "WEGGEHT",
+      "GEHE",
+      "WEGE",
+      "GEHWEG",
+      "GEHT",
+      "WEHT"
+    ],
+    "word" : "HTWGGEE"
+  },
+  {
+    "rs" : [
+      "HEER",
+      "WEHR",
+      "LEER",
+      "EHER",
+      "WEHE",
+      "LEERE"
+    ],
+    "word" : "HRWLEEE"
+  },
+  {
+    "rs" : [
+      "SOME",
+      "ROSE",
+      "ROMS",
+      "WORMSER"
+    ],
+    "word" : "OMRRWSE"
+  },
+  {
+    "rs" : [
+      "BÜRO",
+      "WORÜBER",
+      "ÜBER",
+      "RÜBE",
+      "OBER"
+    ],
+    "word" : "ORRWBEÜ"
+  },
+  {
+    "rs" : [
+      "SCHT",
+      "WÜST",
+      "WÜNSCH",
+      "WÜNSCHT"
+    ],
+    "word" : "ÜNWSTCH"
+  },
+  {
+    "rs" : [
+      "WÜSSTEN",
+      "ESST",
+      "NEST",
+      "WÜSSTE",
+      "NESS",
+      "WÜSTE"
+    ],
+    "word" : "ÜTWNESS"
+  },
+  {
+    "rs" : [
+      "NASE",
+      "KAYE",
+      "SNAKE",
+      "EASY",
+      "YANKEES"
+    ],
+    "word" : "AKYNEES"
+  },
+  {
+    "rs" : [
+      "TRENNE",
+      "ENTE",
+      "NETZE",
+      "RENTE",
+      "ZENTNER",
+      "NETZ",
+      "RENNE"
+    ],
+    "word" : "TRNNZEE"
+  },
+  {
+    "rs" : [
+      "ALLE",
+      "FALLE",
+      "FALL",
+      "FELL",
+      "ALLER",
+      "ZERFALL",
+      "REAL",
+      "FELLA"
+    ],
+    "word" : "AERFLLZ"
+  },
+  {
+    "rs" : [
+      "KEMP",
+      "KÄME",
+      "KÄMPF",
+      "KÄMPFEN",
+      "KÄMEN",
+      "KÄMPFE"
+    ],
+    "word" : "MENFÄKP"
+  },
+  {
+    "rs" : [
+      "KÄMPFT",
+      "SPÄT",
+      "KÄMPF",
+      "KÄPT",
+      "KÄMPFST",
+      "KÄMST"
+    ],
+    "word" : "MSÄKTPF"
+  },
+  {
+    "rs" : [
+      "KEMP",
+      "KÄME",
+      "KÄMPF",
+      "KÄMPFT",
+      "KÄMPFTE",
+      "KÄMPFE"
+    ],
+    "word" : "MEFÄKTP"
+  },
+  {
+    "rs" : [
+      "NENN",
+      "NNEN",
+      "KANN",
+      "ONNEN",
+      "KONNEN"
+    ],
+    "word" : "AOKNNNE"
+  },
+  {
+    "rs" : [
+      "ZANK",
+      "KERN",
+      "KRANZ",
+      "REAL",
+      "ANKER",
+      "LAKEN"
+    ],
+    "word" : "ZEARNKL"
+  },
+  {
+    "rs" : [
+      "EKEL",
+      "ENKEL",
+      "KELLER",
+      "KELLNER",
+      "LERNE",
+      "ELLEN"
+    ],
+    "word" : "KRNLLEE"
+  },
+  {
+    "rs" : [
+      "DENKEN",
+      "DENNY",
+      "ENDE",
+      "DENEN",
+      "DENN",
+      "KENNEDY",
+      "DENK"
+    ],
+    "word" : "KYNNDEE"
+  },
+  {
+    "rs" : [
+      "PLAN",
+      "KLAN",
+      "KANAL",
+      "KAPLAN"
+    ],
+    "word" : "AAKPNL"
+  },
+  {
+    "rs" : [
+      "SNAKE",
+      "KANTE",
+      "NEST",
+      "AKTE",
+      "KNAST"
+    ],
+    "word" : "ATKNES"
+  },
+  {
+    "rs" : [
+      "AKTE",
+      "KANTE",
+      "TANK",
+      "KATZEN",
+      "KATZE",
+      "TANZ"
+    ],
+    "word" : "ATKNZE"
+  },
+  {
+    "rs" : [
+      "EKEL",
+      "KERL",
+      "LEER",
+      "KELLER",
+      "ELLE"
+    ],
+    "word" : "KRLLEE"
+  },
+  {
+    "rs" : [
+      "NENN",
+      "NNEN",
+      "NENNE",
+      "KENNEN",
+      "KENNE"
+    ],
+    "word" : "KNNNEE"
+  },
+  {
+    "rs" : [
+      "RENNE",
+      "KENNER",
+      "KERN",
+      "KENNE"
+    ],
+    "word" : "KRNNEE"
+  },
+  {
+    "rs" : [
+      "SEKT",
+      "NEST",
+      "KENNST",
+      "KENNT"
+    ],
+    "word" : "TKNNSE"
+  },
+  {
+    "rs" : [
+      "KEPLER",
+      "KELP",
+      "KERL",
+      "PERLE",
+      "EKEL",
+      "LEER",
+      "PEEL"
+    ],
+    "word" : "KPRLEE"
+  },
+  {
+    "rs" : [
+      "ELAN",
+      "KLARE",
+      "KLAREN",
+      "REAL",
+      "KRAN"
+    ],
+    "word" : "AKRNLE"
+  },
+  {
+    "rs" : [
+      "KERL",
+      "KLAR",
+      "KLARE",
+      "KARRE",
+      "REAL",
+      "KLARER"
+    ],
+    "word" : "AKRRLE"
+  },
+  {
+    "rs" : [
+      "EKEL",
+      "ENKEL",
+      "LEBE",
+      "EKELN",
+      "LENKE",
+      "KLEBEN"
+    ],
+    "word" : "KBNLEE"
+  },
+  {
+    "rs" : [
+      "KICK",
+      "TICK",
+      "KLICK",
+      "KLICKT"
+    ],
+    "word" : "TKKILC"
+  },
+  {
+    "rs" : [
+      "KLINIK",
+      "LINK",
+      "KIKI",
+      "NIKKI"
+    ],
+    "word" : "KKIINL"
+  },
+  {
+    "rs" : [
+      "KLIPPE",
+      "KELP",
+      "PIKE",
+      "KLIPP",
+      "LIPPE",
+      "KEIL",
+      "KIPPE"
+    ],
+    "word" : "KPPILE"
+  },
+  {
+    "rs" : [
+      "BANKEN",
+      "KNABEN",
+      "KNABE",
+      "BANN",
+      "BANK",
+      "KANN",
+      "KANNE"
+    ],
+    "word" : "AKBNNE"
+  },
+  {
+    "rs" : [
+      "KEEP",
+      "KNIE",
+      "KEIN",
+      "PINK",
+      "PIKE"
+    ],
+    "word" : "KINPEE"
+  },
+  {
+    "rs" : [
+      "HOCKEN",
+      "KOCHEN",
+      "OHNE",
+      "KOCHE",
+      "COHEN",
+      "ONCE",
+      "COKE",
+      "ECHO"
+    ],
+    "word" : "OHKNEC"
+  },
+  {
+    "rs" : [
+      "SCHT",
+      "STOCK",
+      "KOCHT",
+      "KOCHST"
+    ],
+    "word" : "HOKTSC"
+  },
+  {
+    "rs" : [
+      "KOCHT",
+      "KOCHTE",
+      "COKE",
+      "HECK"
+    ],
+    "word" : "OTKHEC"
+  },
+  {
+    "rs" : [
+      "LEON",
+      "OBEN",
+      "LOBEN",
+      "KLON",
+      "NOBEL",
+      "ONKEL"
+    ],
+    "word" : "OKBNLE"
+  },
+  {
+    "rs" : [
+      "KOMME",
+      "KOMMEN",
+      "MEMO",
+      "KOMM"
+    ],
+    "word" : "OMMKNE"
+  },
+  {
+    "rs" : [
+      "LUKE",
+      "LUMP",
+      "LUPE",
+      "KUMPEL"
+    ],
+    "word" : "MKPULE"
+  },
+  {
+    "rs" : [
+      "SEKT",
+      "NEST",
+      "KÜNSTE",
+      "KÜSTE"
+    ],
+    "word" : "TKÜNSE"
+  },
+  {
+    "rs" : [
+      "LUKE",
+      "KUPPEL",
+      "LUPE",
+      "KELP"
+    ],
+    "word" : "KPPULE"
+  },
+  {
+    "rs" : [
+      "KÜSS",
+      "KÜSSEN",
+      "NÜSSE",
+      "NESS"
+    ],
+    "word" : "KÜNSSE"
+  },
+  {
+    "rs" : [
+      "KÜSSTE",
+      "ESST",
+      "KÜSSE",
+      "KÜSST",
+      "KÜSS",
+      "SEKT",
+      "TESS",
+      "KÜSTE"
+    ],
+    "word" : "TKÜSSE"
+  },
+  {
+    "rs" : [
+      "RACHEL",
+      "LACHE",
+      "CARL",
+      "ELCH",
+      "RACHE"
+    ],
+    "word" : "HARELC"
+  },
+  {
+    "rs" : [
+      "NADELN",
+      "LAND",
+      "NADEL",
+      "LANDE",
+      "ADEL",
+      "LADE",
+      "DENN",
+      "ELAN"
+    ],
+    "word" : "ADNNLE"
+  },
+  {
+    "rs" : [
+      "FLUT",
+      "LUFT",
+      "LÄUFT",
+      "LUST",
+      "SÄUFT",
+      "LÄUFST"
+    ],
+    "word" : "ÄFTULS"
+  },
+  {
+    "rs" : [
+      "ELAN",
+      "LAUNE",
+      "ALTE",
+      "LAUT",
+      "LAUTE"
+    ],
+    "word" : "AETULN"
+  },
+  {
+    "rs" : [
+      "EDEL",
+      "ELEND",
+      "LEBEND",
+      "NEBEL"
+    ],
+    "word" : "DBNLEE"
+  },
+  {
+    "rs" : [
+      "LEBENS",
+      "LESBEN",
+      "SELBE",
+      "NEBEL",
+      "BESEN",
+      "LESBE",
+      "BENS"
+    ],
+    "word" : "EEBNLS"
+  },
+  {
+    "rs" : [
+      "CALEB",
+      "CARL",
+      "REAL",
+      "LEBRAC"
+    ],
+    "word" : "AERBLC"
+  },
+  {
+    "rs" : [
+      "EKEL",
+      "ECKE",
+      "LECKEN",
+      "ECKEN",
+      "LENKE"
+    ],
+    "word" : "EEKNLC"
+  },
+  {
+    "rs" : [
+      "EKEL",
+      "ECKE",
+      "LEER",
+      "LECKER",
+      "CREEK"
+    ],
+    "word" : "EEKRLC"
+  },
+  {
+    "rs" : [
+      "LEERE",
+      "LEER",
+      "LEEREN",
+      "LERNE"
+    ],
+    "word" : "RNLEEE"
+  },
+  {
+    "rs" : [
+      "EILTE",
+      "RIET",
+      "EILE",
+      "EITEL",
+      "LEITE"
+    ],
+    "word" : "TRILEE"
+  },
+  {
+    "rs" : [
+      "EKEL",
+      "ENKEL",
+      "LENKEN",
+      "KENNE"
+    ],
+    "word" : "KNNLEE"
+  },
+  {
+    "rs" : [
+      "ARME",
+      "MARKE",
+      "ARMER",
+      "MARK"
+    ],
+    "word" : "AMRRKE"
+  },
+  {
+    "rs" : [
+      "KERZE",
+      "KREUZE",
+      "REUE",
+      "KREUZ"
+    ],
+    "word" : "KRUZEE"
+  },
+  {
+    "rs" : [
+      "LIED",
+      "LAD",
+      "LAIE",
+      "IDEAL",
+      "LADE"
+    ],
+    "word" : "ADILE"
+  },
+  {
+    "rs" : [
+      "TJA",
+      "GAST",
+      "SAGT",
+      "JAGST"
+    ],
+    "word" : "ATGSJ"
+  },
+  {
+    "rs" : [
+      "JAMAL",
+      "ALMA",
+      "LAMA",
+      "MALA",
+      "MAL"
+    ],
+    "word" : "AAMLJ"
+  },
+  {
+    "rs" : [
+      "DER",
+      "DEAR",
+      "ADER",
+      "JADE",
+      "JARED"
+    ],
+    "word" : "ADREJ"
+  },
+  {
+    "rs" : [
+      "ENDE",
+      "JEDEN",
+      "JEDE",
+      "DEN",
+      "JENE"
+    ],
+    "word" : "DNEEJ"
+  },
+  {
+    "rs" : [
+      "REDE",
+      "JEDER",
+      "DER",
+      "JEDE",
+      "ERDE"
+    ],
+    "word" : "DREEJ"
+  },
+  {
+    "rs" : [
+      "LEER",
+      "LERNEN",
+      "LERNE",
+      "RENNE"
+    ],
+    "word" : "RNNLEE"
+  },
+  {
+    "rs" : [
+      "LEST",
+      "LERNST",
+      "ERST",
+      "REST",
+      "ERNST",
+      "STERN"
+    ],
+    "word" : "STRNLE"
+  },
+  {
+    "rs" : [
+      "SEES",
+      "SEE",
+      "JESSE",
+      "JESS",
+      "ESSE"
+    ],
+    "word" : "JEESS"
+  },
+  {
+    "rs" : [
+      "ILJA",
+      "LAU",
+      "JULIA",
+      "JULI"
+    ],
+    "word" : "AIULJ"
+  },
+  {
+    "rs" : [
+      "LUST",
+      "GILT",
+      "GLUT",
+      "LUIS",
+      "LUSTIG"
+    ],
+    "word" : "STIGUL"
+  },
+  {
+    "rs" : [
+      "DONNY",
+      "LYNN",
+      "LYON",
+      "ONLY",
+      "LYNDON"
+    ],
+    "word" : "OYDNNL"
+  },
+  {
+    "rs" : [
+      "STACH",
+      "MACH",
+      "MATCH",
+      "HATS"
+    ],
+    "word" : "ATMHSC"
+  },
+  {
+    "rs" : [
+      "MADAME",
+      "MADAM",
+      "DAME",
+      "ADAM",
+      "DAMM"
+    ],
+    "word" : "AAMMDE"
+  },
+  {
+    "rs" : [
+      "NASE",
+      "KAMEN",
+      "MASKE",
+      "SNAKE",
+      "SAMEN",
+      "MENSA"
+    ],
+    "word" : "AMKNES"
+  },
+  {
+    "rs" : [
+      "AMEN",
+      "NAME",
+      "SAMS",
+      "MASSEN",
+      "SESAM"
+    ],
+    "word" : "AMNESS"
+  },
+  {
+    "rs" : [
+      "MEILE",
+      "EILE",
+      "MEIN",
+      "MEILEN"
+    ],
+    "word" : "MINLEE"
+  },
+  {
+    "rs" : [
+      "SOME",
+      "MODE",
+      "MOND",
+      "SONDE"
+    ],
+    "word" : "OMDNSE"
+  },
+  {
+    "rs" : [
+      "LUKE",
+      "MUSKEL",
+      "SLUM",
+      "MUSE"
+    ],
+    "word" : "EMKUSL"
+  },
+  {
+    "rs" : [
+      "MÜSSE",
+      "MÜSSEN",
+      "MENÜ",
+      "NÜSSE",
+      "NESS"
+    ],
+    "word" : "MÜNESS"
+  },
+  {
+    "rs" : [
+      "MÜSSE",
+      "ESST",
+      "TESS",
+      "MÜSST",
+      "MÜSSTE"
+    ],
+    "word" : "MTÜESS"
+  },
+  {
+    "rs" : [
+      "NÄHE",
+      "ECHT",
+      "NÄCHTE",
+      "NÄHTE"
+    ],
+    "word" : "HÄTNEC"
+  },
+  {
+    "rs" : [
+      "AMEN",
+      "NAME",
+      "NASE",
+      "MANN",
+      "MENSA"
+    ],
+    "word" : "AMNNES"
+  },
+  {
+    "rs" : [
+      "REINEN",
+      "REIN",
+      "IRREN",
+      "NIERE",
+      "REINER",
+      "ERINNER",
+      "EINE"
+    ],
+    "word" : "RRINNEE"
+  },
+  {
+    "rs" : [
+      "ABER",
+      "NARBEN",
+      "BANN",
+      "BANNER"
+    ],
+    "word" : "ARBNNE"
+  },
+  {
+    "rs" : [
+      "NECKEN",
+      "ECKE",
+      "ECKEN",
+      "KENNE"
+    ],
+    "word" : "KNNEEC"
+  },
+  {
+    "rs" : [
+      "NOEL",
+      "LONE",
+      "SONNE",
+      "LOSEN",
+      "NELSON"
+    ],
+    "word" : "OSNNLE"
+  },
+  {
+    "rs" : [
+      "NENN",
+      "NNEN",
+      "NENNE",
+      "NENNEN"
+    ],
+    "word" : "EENNNN"
+  },
+  {
+    "rs" : [
+      "BRUNO",
+      "ROB",
+      "BONJOUR",
+      "BURO"
+    ],
+    "word" : "OORBUNJ"
+  },
+  {
+    "rs" : [
+      "RAN",
+      "ABER",
+      "BANN",
+      "BANNEN",
+      "BRENNAN"
+    ],
+    "word" : "ARBNNNE"
+  },
+  {
+    "rs" : [
+      "ROCKEN",
+      "KERN",
+      "OBEN",
+      "ROB",
+      "ROCK",
+      "KRONE",
+      "ONCE",
+      "BROCK"
+    ],
+    "word" : "ERNOKBC"
+  },
+  {
+    "rs" : [
+      "BÜRDE",
+      "RÜBE",
+      "DEN",
+      "DRÜBEN"
+    ],
+    "word" : "NRBÜDE"
+  },
+  {
+    "rs" : [
+      "ÜBEN",
+      "BÜCHER",
+      "RÜBE",
+      "BÜCHERN",
+      "REH",
+      "BÜHNE",
+      "BRÜHE"
+    ],
+    "word" : "ÜERNBCH"
+  },
+  {
+    "rs" : [
+      "BUMM",
+      "NEU",
+      "BUMMELN",
+      "BLUMEN"
+    ],
+    "word" : "EMMBULN"
+  },
+  {
+    "rs" : [
+      "BINS",
+      "SIND",
+      "BÜNDNIS",
+      "SÜD",
+      "SINN"
+    ],
+    "word" : "ÜDINNBS"
+  },
+  {
+    "rs" : [
+      "COLA",
+      "LOLA",
+      "OLLI",
+      "ALL",
+      "CALL"
+    ],
+    "word" : "AOILLC"
+  },
+  {
+    "rs" : [
+      "CASS",
+      "CIAO",
+      "CASINOS",
+      "ION"
+    ],
+    "word" : "AOINSSC"
+  },
+  {
+    "rs" : [
+      "KARREN",
+      "KNARRE",
+      "NARR",
+      "KRANKE",
+      "KRANKER",
+      "KRAN",
+      "KRANK"
+    ],
+    "word" : "AKKRRNE"
+  },
+  {
+    "rs" : [
+      "EURE",
+      "KERZE",
+      "KURZ",
+      "EURER",
+      "KURZE",
+      "KREUZ"
+    ],
+    "word" : "KRRUZEE"
+  },
+  {
+    "rs" : [
+      "GEIER",
+      "IRRE",
+      "REGIE",
+      "KRIEGER",
+      "KRIEGE"
+    ],
+    "word" : "KIGRREE"
+  },
+  {
+    "rs" : [
+      "KÜMMER",
+      "MERKE",
+      "KÜMMERE",
+      "MERK",
+      "MEER"
+    ],
+    "word" : "MMKRÜEE"
+  },
+  {
+    "rs" : [
+      "MENÜ",
+      "KÜMMER",
+      "KÜMMERN",
+      "MERK",
+      "KERN"
+    ],
+    "word" : "MMKRNEÜ"
+  },
+  {
+    "rs" : [
+      "LUMP",
+      "KELP",
+      "PLUS",
+      "KUMPELS"
+    ],
+    "word" : "MESKPLU"
+  },
+  {
+    "rs" : [
+      "GOLF",
+      "LEGT",
+      "OFT",
+      "FOLGT",
+      "FOLGTE",
+      "FOGG"
+    ],
+    "word" : "OFTGGLE"
+  },
+  {
+    "rs" : [
+      "ROT",
+      "FORM",
+      "OGER",
+      "ROTE",
+      "FORT",
+      "MORT"
+    ],
+    "word" : "MREFOGT"
+  },
+  {
+    "rs" : [
+      "GEBEN",
+      "EBEN",
+      "ENGE",
+      "ENG",
+      "EBENE"
+    ],
+    "word" : "BGNEEE"
+  },
+  {
+    "rs" : [
+      "GREG",
+      "GRÜSSE",
+      "TÜR",
+      "GRÜSST",
+      "GÜTER",
+      "GÜTE",
+      "REGT"
+    ],
+    "word" : "TRÜGGESS"
+  },
+  {
+    "rs" : [
+      "TUCK",
+      "GUTE",
+      "GUCKE",
+      "GUT"
+    ],
+    "word" : "GTKUEC"
+  },
+  {
+    "rs" : [
+      "GEHT",
+      "GEN",
+      "GENÄHT",
+      "HÄNGE",
+      "NÄHTE",
+      "GEHÄNGT"
+    ],
+    "word" : "HÄTGGNE"
+  },
+  {
+    "rs" : [
+      "ZEH",
+      "GEHE",
+      "ZEHE",
+      "HETZE",
+      "GEHETZT"
+    ],
+    "word" : "HTTGZEE"
+  },
+  {
+    "rs" : [
+      "AKTE",
+      "JACK",
+      "JETT",
+      "TAKT",
+      "TAT",
+      "JACKETT",
+      "JACKE",
+      "ETAT"
+    ],
+    "word" : "ATTKJEC"
+  },
+  {
+    "rs" : [
+      "JAMMER",
+      "NAME",
+      "ARM",
+      "JAMMERN",
+      "RAMMEN"
+    ],
+    "word" : "AMMRNEJ"
+  },
+  {
+    "rs" : [
+      "PAAREN",
+      "PAAR",
+      "NAJA",
+      "PAN",
+      "PAARE",
+      "JAPANER",
+      "JAPAN"
+    ],
+    "word" : "AARPNEJ"
+  },
+  {
+    "rs" : [
+      "ARON",
+      "LAU",
+      "NORA",
+      "JUNO",
+      "RONJA"
+    ],
+    "word" : "RNAJOLU"
+  },
+  {
+    "rs" : [
+      "JÜRGEN",
+      "GEN",
+      "NEGER",
+      "JENER",
+      "JENE"
+    ],
+    "word" : "EERÜGNJ"
+  },
+  {
+    "rs" : [
+      "EULE",
+      "WEN",
+      "JUWELEN",
+      "JENE"
+    ],
+    "word" : "EENWULJ"
+  },
+  {
+    "rs" : [
+      "TANK",
+      "KLAN",
+      "LINK",
+      "TAL",
+      "KAITLIN"
+    ],
+    "word" : "ATKIINL"
+  },
+  {
+    "rs" : [
+      "KÄFER",
+      "KÄMPFE",
+      "KEMP",
+      "MERK",
+      "KAMPFER",
+      "KÄMPF",
+      "PER",
+      "KRÄMPFE"
+    ],
+    "word" : "MRAEFÄKP"
+  },
+  {
+    "rs" : [
+      "FLORA",
+      "AFRO",
+      "KARO",
+      "KLAR",
+      "LOK",
+      "KARLOFF",
+      "KAFF",
+      "ROLF"
+    ],
+    "word" : "OAKRFFL"
+  },
+  {
+    "rs" : [
+      "TANK",
+      "AKT",
+      "ANTIK",
+      "TRANK"
+    ],
+    "word" : "ATRIKN"
+  },
+  {
+    "rs" : [
+      "ENDEN",
+      "DENKEN",
+      "YEN",
+      "KENNY",
+      "DENEN",
+      "DENN",
+      "ENDE",
+      "KENNEDY"
+    ],
+    "word" : "KYNNDEE"
+  },
+  {
+    "rs" : [
+      "KEUCHT",
+      "EUCH",
+      "KETCHUP",
+      "PECH",
+      "TUCH",
+      "TUE",
+      "HUPT"
+    ],
+    "word" : "UEKTPCH"
+  },
+  {
+    "rs" : [
+      "CHUN",
+      "ECKE",
+      "HEU",
+      "KEUCHEN",
+      "HECK"
+    ],
+    "word" : "HEEKUNC"
+  },
+  {
+    "rs" : [
+      "KOPF",
+      "OIE",
+      "KEIN",
+      "PIKE",
+      "PINK"
+    ],
+    "word" : "IENFOKP"
+  },
+  {
+    "rs" : [
+      "KLAN",
+      "KELP",
+      "KAPPEN",
+      "KAPPE",
+      "KLAPPEN",
+      "PAN",
+      "KNAPP",
+      "PLANE"
+    ],
+    "word" : "AKPPNLE"
+  },
+  {
+    "rs" : [
+      "KLINKE",
+      "NIE",
+      "KLEIN",
+      "KEIN",
+      "KNIE",
+      "KLICK",
+      "LINKE"
+    ],
+    "word" : "EKKINLC"
+  },
+  {
+    "rs" : [
+      "SONAR",
+      "SOHN",
+      "HORN",
+      "ROSA",
+      "SHARON"
+    ],
+    "word" : "HAORNS"
+  },
+  {
+    "rs" : [
+      "SCHT",
+      "SKETCH",
+      "ECHT",
+      "SEHT",
+      "HECK",
+      "SEKT",
+      "STECK"
+    ],
+    "word" : "HSKTEC"
+  },
+  {
+    "rs" : [
+      "SOCKE",
+      "SOCKEN",
+      "COKE",
+      "ONCE"
+    ],
+    "word" : "EOKNSC"
+  },
+  {
+    "rs" : [
+      "OFEN",
+      "FRESNO",
+      "SENF",
+      "SOFERN"
+    ],
+    "word" : "OFRNES"
+  },
+  {
+    "rs" : [
+      "HOSEN",
+      "SOHN",
+      "SOHNES",
+      "HOSE",
+      "NESS"
+    ],
+    "word" : "HONESS"
+  },
+  {
+    "rs" : [
+      "OCHSE",
+      "CLEO",
+      "LOHSE",
+      "CLOSE",
+      "ECHO",
+      "SOLCH",
+      "CHLOE"
+    ],
+    "word" : "OCEHLS"
+  },
+  {
+    "rs" : [
+      "NOEL",
+      "SOLLE",
+      "SOLLEN",
+      "LOSE"
+    ],
+    "word" : "EONSLL"
+  },
+  {
+    "rs" : [
+      "NENN",
+      "NNEN",
+      "NONNE",
+      "ONNEN",
+      "SONNE",
+      "SONNEN"
+    ],
+    "word" : "ONNNES"
+  },
+  {
+    "rs" : [
+      "SHOP",
+      "OPAS",
+      "PASO",
+      "AHOI",
+      "SOPHIA"
+    ],
+    "word" : "HAOIPS"
+  },
+  {
+    "rs" : [
+      "SHOW",
+      "SOLO",
+      "WOHL",
+      "OSLO",
+      "WHOO"
+    ],
+    "word" : "HOOWLS"
+  },
+  {
+    "rs" : [
+      "SARA",
+      "PAAR",
+      "PART",
+      "PARAT",
+      "RAST"
+    ],
+    "word" : "AATRPS"
+  },
+  {
+    "rs" : [
+      "SAND",
+      "DAS",
+      "DOWN",
+      "DAWSON",
+      "DAWN",
+      "ONDA",
+      "WAND",
+      "SNOW"
+    ],
+    "word" : "OADWNS"
+  },
+  {
+    "rs" : [
+      "ONDA",
+      "DEACON",
+      "OCEAN",
+      "CODE",
+      "DEN",
+      "ONCE"
+    ],
+    "word" : "AODNEC"
+  },
+  {
+    "rs" : [
+      "BEIDE",
+      "IDEE",
+      "DIEBE",
+      "DIEB",
+      "DIE"
+    ],
+    "word" : "DIBEE"
+  },
+  {
+    "rs" : [
+      "DECK",
+      "ECKEN",
+      "DECKEN",
+      "DENK",
+      "DEN",
+      "ECKE",
+      "ENDE",
+      "DECKE"
+    ],
+    "word" : "KDNEEC"
+  },
+  {
+    "rs" : [
+      "ENDE",
+      "DENEN",
+      "DENN",
+      "DEHNEN",
+      "EHE",
+      "ENDEN"
+    ],
+    "word" : "HDNNEE"
+  },
+  {
+    "rs" : [
+      "ENDE",
+      "DENKE",
+      "ENDEN",
+      "DEN"
+    ],
+    "word" : "KDNNEE"
+  },
+  {
+    "rs" : [
+      "DENKER",
+      "DEREN",
+      "DENK",
+      "ENDE",
+      "DEN",
+      "ERDEN",
+      "REDEN"
+    ],
+    "word" : "KDNREE"
+  },
+  {
+    "rs" : [
+      "ENDE",
+      "DEEP",
+      "DEPPEN",
+      "DEPP",
+      "PEPE",
+      "DEN"
+    ],
+    "word" : "DPPNEE"
+  },
+  {
+    "rs" : [
+      "NEID",
+      "KNIE",
+      "DECK",
+      "KID",
+      "DICKE"
+    ],
+    "word" : "EKINDC"
+  },
+  {
+    "rs" : [
+      "DIE",
+      "DREI",
+      "DECK",
+      "DIRK",
+      "DRECK"
+    ],
+    "word" : "EKIDRC"
+  },
+  {
+    "rs" : [
+      "DICK",
+      "DECK",
+      "EID",
+      "DICKIE"
+    ],
+    "word" : "KIIDEC"
+  },
+  {
+    "rs" : [
+      "IDOL",
+      "ODIN",
+      "DILLON",
+      "DINO",
+      "ION"
+    ],
+    "word" : "ODINLL"
+  },
+  {
+    "rs" : [
+      "EID",
+      "TIER",
+      "KREDIT",
+      "DIREKT"
+    ],
+    "word" : "TRIKDE"
+  },
+  {
+    "rs" : [
+      "COOLE",
+      "COOL",
+      "COOLER",
+      "COLE",
+      "CLEO"
+    ],
+    "word" : "OOERLC"
+  },
+  {
+    "rs" : [
+      "CURT",
+      "TREU",
+      "CUTTER",
+      "TRUE"
+    ],
+    "word" : "TTRUEC"
+  },
+  {
+    "rs" : [
+      "CORY",
+      "GROB",
+      "CYBORG",
+      "BORG"
+    ],
+    "word" : "OYBRGC"
+  },
+  {
+    "rs" : [
+      "DECK",
+      "DECKEL",
+      "ECKE",
+      "EDEL",
+      "EDLE",
+      "DECKE",
+      "EKEL"
+    ],
+    "word" : "EEKDLC"
+  },
+  {
+    "rs" : [
+      "TRÄNE",
+      "HÄRTE",
+      "NÄHE",
+      "HÄRTER",
+      "NÄHTE",
+      "NÄHERT",
+      "NÄHER",
+      "EHRT"
+    ],
+    "word" : "HÄRRTNE"
+  },
+  {
+    "rs" : [
+      "KRÄUTER",
+      "TUE",
+      "REKRUT",
+      "KURT"
+    ],
+    "word" : "ÄKRRUET"
+  },
+  {
+    "rs" : [
+      "LARA",
+      "WAL",
+      "WALL",
+      "WALK"
+    ],
+    "word" : "AARKWLL"
+  },
+  {
+    "rs" : [
+      "ZUR",
+      "KREUZE",
+      "KURZ",
+      "KURZE",
+      "KREUZ"
+    ],
+    "word" : "KRUZEE"
+  },
+  {
+    "rs" : [
+      "KERL",
+      "KRÜPPEL",
+      "PER",
+      "KELP"
+    ],
+    "word" : "PPRÜKLE"
+  },
+  {
+    "rs" : [
+      "KIES",
+      "LUKE",
+      "KULI",
+      "SEIL",
+      "KULISSE",
+      "ISS"
+    ],
+    "word" : "SSKIULE"
+  },
+  {
+    "rs" : [
+      "KÜMMERT",
+      "MERKT",
+      "KÜMMER",
+      "TÜR",
+      "TÜRME",
+      "MERK"
+    ],
+    "word" : "MMKRÜET"
+  },
+  {
+    "rs" : [
+      "NÄHE",
+      "LÄCHLE",
+      "LCH",
+      "LÄCHELN",
+      "ELCH"
+    ],
+    "word" : "HÄENLLC"
+  },
+  {
+    "rs" : [
+      "ENDE",
+      "ABENDE",
+      "ABEND",
+      "EBEN",
+      "DEENA"
+    ],
+    "word" : "ADBNEE"
+  },
+  {
+    "rs" : [
+      "NÄHE",
+      "LHNEN",
+      "NÄHEN",
+      "ÄHNELN"
+    ],
+    "word" : "HÄNNLE"
+  },
+  {
+    "rs" : [
+      "NÄHE",
+      "LEHNT",
+      "ÄHNELT",
+      "HÄLT",
+      "NÄHTE"
+    ],
+    "word" : "HÄTNLE"
+  },
+  {
+    "rs" : [
+      "KINN",
+      "NINA",
+      "KANN",
+      "NANA",
+      "ANAKIN"
+    ],
+    "word" : "AAKINN"
+  },
+  {
+    "rs" : [
+      "NASA",
+      "ANNA",
+      "NANA",
+      "SANA",
+      "ANANAS"
+    ],
+    "word" : "NNAAAS"
+  },
+  {
+    "rs" : [
+      "AKTE",
+      "KANTE",
+      "KENIA",
+      "KEIN",
+      "ANTIKE"
+    ],
+    "word" : "ATKINE"
+  },
+  {
+    "rs" : [
+      "GERÄT",
+      "REGT",
+      "TRÄGER",
+      "ÄRGER",
+      "TRÄGE",
+      "ÄRGERT"
+    ],
+    "word" : "ÄRRTGE"
+  },
+  {
+    "rs" : [
+      "NETZ",
+      "ÄRZTE",
+      "ÄRZTEN",
+      "TRÄNE",
+      "TÄNZER"
+    ],
+    "word" : "ÄRTNZE"
+  },
+  {
+    "rs" : [
+      "ADER",
+      "READY",
+      "DRAU",
+      "DAUER"
+    ],
+    "word" : "AYRDEU"
+  },
+  {
+    "rs" : [
+      "EURE",
+      "REUE",
+      "ÄUSSERE",
+      "EUER"
+    ],
+    "word" : "ÄRUSSEE"
+  },
+  {
+    "rs" : [
+      "TEILT",
+      "LITT",
+      "ERLITT",
+      "TEIL",
+      "RITT",
+      "TITEL"
+    ],
+    "word" : "TTRILE"
+  },
+  {
+    "rs" : [
+      "LÖSE",
+      "ERST",
+      "REST",
+      "LÖSTE"
+    ],
+    "word" : "ÖERTSL"
+  },
+  {
+    "rs" : [
+      "RENTE",
+      "ERNTE",
+      "REST",
+      "STERN",
+      "ERNSTE"
+    ],
+    "word" : "TRNEES"
+  },
+  {
+    "rs" : [
+      "TÖTE",
+      "ERTÖNT",
+      "NETT",
+      "TÖTEN"
+    ],
+    "word" : "TTRNEÖ"
+  },
+  {
+    "rs" : [
+      "TAPE",
+      "PETE",
+      "PATE",
+      "ETAPPE"
+    ],
+    "word" : "ATPPEE"
+  },
+  {
+    "rs" : [
+      "FLECK",
+      "FALKE",
+      "FACKEL",
+      "CAFE"
+    ],
+    "word" : "AEKFLC"
+  },
+  {
+    "rs" : [
+      "HEFT",
+      "EHRT",
+      "FÄHRTE",
+      "HÄRTE"
+    ],
+    "word" : "HÄRTFE"
+  },
+  {
+    "rs" : [
+      "REIF",
+      "FREI",
+      "RIEF",
+      "FAIR",
+      "FAIRE",
+      "FAIRER"
+    ],
+    "word" : "AFRRIE"
+  },
+  {
+    "rs" : [
+      "PIPI",
+      "HILL",
+      "PHILIP",
+      "PHIL",
+      "PHILLIP"
+    ],
+    "word" : "HIIPPLL"
+  },
+  {
+    "rs" : [
+      "PHILLY",
+      "LILY",
+      "HILL",
+      "HILLS",
+      "PHIL",
+      "PHYLLIS"
+    ],
+    "word" : "HYIPLLS"
+  },
+  {
+    "rs" : [
+      "LENZ",
+      "PELZ",
+      "ZELT",
+      "PLÄTZE"
+    ],
+    "word" : "ZENÄTPL"
+  },
+  {
+    "rs" : [
+      "MIEP",
+      "EMPIRE",
+      "PIERRE",
+      "EIMER",
+      "MEER",
+      "PREMIER",
+      "PIER",
+      "IRRE"
+    ],
+    "word" : "MRRPIEE"
+  },
+  {
+    "rs" : [
+      "LÜGNER",
+      "GERN",
+      "GRÜNE",
+      "LÜGEN"
+    ],
+    "word" : "ERÜGLN"
+  },
+  {
+    "rs" : [
+      "NEUN",
+      "UNTEN",
+      "KNUT",
+      "NEPTUN",
+      "PUNKTEN"
+    ],
+    "word" : "TKPUNNE"
+  },
+  {
+    "rs" : [
+      "LARA",
+      "RAND",
+      "RANDALL",
+      "ALLAN"
+    ],
+    "word" : "AADRNLL"
+  },
+  {
+    "rs" : [
+      "LERNST",
+      "RÄTSELN",
+      "LERNT",
+      "REST",
+      "STERN",
+      "TRÄNE"
+    ],
+    "word" : "RNESÄTL"
+  },
+  {
+    "rs" : [
+      "REKORDE",
+      "ODER",
+      "DERER",
+      "REKORD",
+      "ORDER"
+    ],
+    "word" : "OKDRREE"
+  },
+  {
+    "rs" : [
+      "RENTE",
+      "ERNTE",
+      "RENNT",
+      "TRENNE"
+    ],
+    "word" : "TRNNEE"
+  },
+  {
+    "rs" : [
+      "REEVES",
+      "EVER",
+      "VERS",
+      "REESE",
+      "SERVER",
+      "RESERVE",
+      "VERSE"
+    ],
+    "word" : "VRRSEEE"
+  },
+  {
+    "rs" : [
+      "KEEP",
+      "PETER",
+      "PEST",
+      "ERSTE",
+      "SPEER"
+    ],
+    "word" : "TKPREES"
+  },
+  {
+    "rs" : [
+      "RETTET",
+      "TRETET",
+      "RETTEST",
+      "RETTE",
+      "ERSTE",
+      "TESTE",
+      "TRETE"
+    ],
+    "word" : "TTTRSEE"
+  },
+  {
+    "rs" : [
+      "OLLI",
+      "GINO",
+      "IRON",
+      "ROLLING",
+      "GIRL",
+      "LONG",
+      "GRILL"
+    ],
+    "word" : "ORIGLLN"
+  },
+  {
+    "rs" : [
+      "RÜHRE",
+      "RÜHREN",
+      "RÜHREND",
+      "DÜRRE",
+      "HERRN"
+    ],
+    "word" : "HDRRNEÜ"
+  },
+  {
+    "rs" : [
+      "SPÜLEN",
+      "SPÜRE",
+      "SPÜR",
+      "SPÜREN"
+    ],
+    "word" : "ÜRNESPL"
+  },
+  {
+    "rs" : [
+      "RUSSEL",
+      "RUSS",
+      "RUSSELL",
+      "RUSSE"
+    ],
+    "word" : "SSRULLE"
+  },
+  {
+    "rs" : [
+      "SARA",
+      "NASA",
+      "SANA",
+      "SABRINA"
+    ],
+    "word" : "AARIBSN"
+  },
+  {
+    "rs" : [
+      "NASE",
+      "NENN",
+      "NNEN",
+      "CANNES",
+      "SCANNEN"
+    ],
+    "word" : "ASNNNEC"
+  },
+  {
+    "rs" : [
+      "ASCHE",
+      "CHEF",
+      "AFFE",
+      "SCHAFFE",
+      "ACHSE",
+      "SCHAF"
+    ],
+    "word" : "HASFFEC"
+  },
+  {
+    "rs" : [
+      "SÄHE",
+      "MÄHEN",
+      "SÄEN",
+      "SÄHEN",
+      "SCHÄM"
+    ],
+    "word" : "MENSÄCH"
+  },
+  {
+    "rs" : [
+      "SCHT",
+      "SCHÄMT",
+      "SCHÄMST",
+      "SCHÄM"
+    ],
+    "word" : "HÄMTSSC"
+  },
+  {
+    "rs" : [
+      "TÜTE",
+      "HÜTE",
+      "HÜTET",
+      "HÜTTE"
+    ],
+    "word" : "HTTÜE"
+  },
+  {
+    "rs" : [
+      "IRRE",
+      "TERRI",
+      "RIET",
+      "IRRT",
+      "TIER",
+      "IRRTE"
+    ],
+    "word" : "TRRIE"
+  },
+  {
+    "rs" : [
+      "LANCE",
+      "LACK",
+      "FALKEN",
+      "FACKELN",
+      "CAFE",
+      "LAKEN"
+    ],
+    "word" : "EANFKCL"
+  },
+  {
+    "rs" : [
+      "JOHN",
+      "JOSH",
+      "SOHN",
+      "JOHNS"
+    ],
+    "word" : "OHNSJ"
+  },
+  {
+    "rs" : [
+      "FAIRE",
+      "FAIRER",
+      "FRAZIER",
+      "FAIR",
+      "REIF",
+      "IRRE",
+      "REIZ",
+      "FREI"
+    ],
+    "word" : "AFRRIZE"
+  },
+  {
+    "rs" : [
+      "KALB",
+      "BLAKE",
+      "KABEL",
+      "KABLE"
+    ],
+    "word" : "AKBLE"
+  },
+  {
+    "rs" : [
+      "ANNA",
+      "KANN",
+      "NANA",
+      "KANNA"
+    ],
+    "word" : "AAKNN"
+  },
+  {
+    "rs" : [
+      "EKEL",
+      "EULE",
+      "LUKE",
+      "KEULE"
+    ],
+    "word" : "KULEE"
+  },
+  {
+    "rs" : [
+      "LANG",
+      "KLANG",
+      "KANG",
+      "KLAN"
+    ],
+    "word" : "AKNLG"
+  },
+  {
+    "rs" : [
+      "NÄHE",
+      "ECHT",
+      "NÄCHTE",
+      "NÄCHTEN",
+      "NÄHEN",
+      "NÄHTE"
+    ],
+    "word" : "HÄTNNEC"
+  },
+  {
+    "rs" : [
+      "KANTE",
+      "KANN",
+      "KENNT",
+      "NACKEN",
+      "TANKEN"
+    ],
+    "word" : "ATKNNEC"
+  },
+  {
+    "rs" : [
+      "NENN",
+      "NNEN",
+      "TANNEN",
+      "NENNT",
+      "NANNTEN",
+      "NANNTE"
+    ],
+    "word" : "ATNNNNE"
+  },
+  {
+    "rs" : [
+      "NENN",
+      "NEBEN",
+      "BANN",
+      "NENNE",
+      "NEBENAN"
+    ],
+    "word" : "ABNNNEE"
+  },
+  {
+    "rs" : [
+      "POOR",
+      "DOOR",
+      "POLO",
+      "POOL",
+      "PORNO",
+      "NORDPOL"
+    ],
+    "word" : "OODPNLR"
+  },
+  {
+    "rs" : [
+      "OFFENE",
+      "OFFEN",
+      "NEFFE",
+      "OFFENEM"
+    ],
+    "word" : "OMFFNEE"
+  },
+  {
+    "rs" : [
+      "OFEN",
+      "OFFENE",
+      "OFFEN",
+      "NEFFEN",
+      "OFFENEN",
+      "NEFFE"
+    ],
+    "word" : "OFFNNEE"
+  },
+  {
+    "rs" : [
+      "OFFENE",
+      "FERNE",
+      "OFFEN",
+      "FERN",
+      "OFEN",
+      "NEFFE",
+      "OFFENER"
+    ],
+    "word" : "OFFRNEE"
+  },
+  {
+    "rs" : [
+      "ÖFFNET",
+      "FEST",
+      "ÖFFNEST",
+      "TÖNE",
+      "SENF",
+      "ÖFFNE",
+      "NEST"
+    ],
+    "word" : "ÖTFFNSE"
+  },
+  {
+    "rs" : [
+      "LOVER",
+      "VIEL",
+      "EVIL",
+      "OLIVIER",
+      "OLIVE"
+    ],
+    "word" : "VORIILE"
+  },
+  {
+    "rs" : [
+      "OTHELLO",
+      "TOLL",
+      "HOLE",
+      "HOTEL"
+    ],
+    "word" : "HOOTLLE"
+  },
+  {
+    "rs" : [
+      "FEURIG",
+      "FIGUR",
+      "GREIF",
+      "RIEF",
+      "GIER",
+      "RUFE",
+      "FREI"
+    ],
+    "word" : "FRIGUE"
+  },
+  {
+    "rs" : [
+      "BREI",
+      "REIB",
+      "RIEF",
+      "FEIER",
+      "FIEBER"
+    ],
+    "word" : "FRIBEE"
+  },
+  {
+    "rs" : [
+      "FILTER",
+      "RIEF",
+      "LIFT",
+      "REIF",
+      "LITER",
+      "TEIL",
+      "FIEL"
+    ],
+    "word" : "FRITLE"
+  },
+  {
+    "rs" : [
+      "OFEN",
+      "FROM",
+      "FORM",
+      "FORMEN"
+    ],
+    "word" : "OMRFNE"
+  },
+  {
+    "rs" : [
+      "ROSE",
+      "ERST",
+      "ROTE",
+      "FOSTER",
+      "FROST"
+    ],
+    "word" : "OFRTES"
+  },
+  {
+    "rs" : [
+      "BETONT",
+      "NETT",
+      "TOBT",
+      "TOBEN"
+    ],
+    "word" : "OTTBNE"
+  },
+  {
+    "rs" : [
+      "GUTER",
+      "BURG",
+      "GEBURT",
+      "BEUGT",
+      "REGT"
+    ],
+    "word" : "TRBGUE"
+  },
+  {
+    "rs" : [
+      "BETTER",
+      "BETE",
+      "BRETT",
+      "RETTE",
+      "BETT",
+      "ERBE",
+      "TRETE",
+      "BETET"
+    ],
+    "word" : "TTRBEE"
+  },
+  {
+    "rs" : [
+      "BETE",
+      "BEUTEL",
+      "BEUTE",
+      "LEBTE"
+    ],
+    "word" : "TBULEE"
+  },
+  {
+    "rs" : [
+      "ENTE",
+      "EBEN",
+      "BIENE",
+      "EINE"
+    ],
+    "word" : "TIBEEN"
+  },
+  {
+    "rs" : [
+      "LEIB",
+      "BIBEL",
+      "TIBBE",
+      "LEBT"
+    ],
+    "word" : "TIBBLE"
+  },
+  {
+    "rs" : [
+      "KEIL",
+      "BECK",
+      "LIEB",
+      "BLEI",
+      "BLICKE"
+    ],
+    "word" : "EKIBLC"
+  },
+  {
+    "rs" : [
+      "LENZ",
+      "NETT",
+      "LETZT",
+      "LETZEN",
+      "LETZTE",
+      "NETZ",
+      "NETTE"
+    ],
+    "word" : "EETTNLZ"
+  },
+  {
+    "rs" : [
+      "OLLIE",
+      "OLLI",
+      "LEER",
+      "LORELEI"
+    ],
+    "word" : "ORILLEE"
+  },
+  {
+    "rs" : [
+      "ANNA",
+      "DANN",
+      "NANA",
+      "MANDAT"
+    ],
+    "word" : "AATDMNN"
+  },
+  {
+    "rs" : [
+      "NENN",
+      "NNEN",
+      "MÄNNER",
+      "MÄNNERN"
+    ],
+    "word" : "ÄMRNNNE"
+  },
+  {
+    "rs" : [
+      "MAIS",
+      "MAMI",
+      "MIAU",
+      "MIMA",
+      "MAXIMUS"
+    ],
+    "word" : "AMMIUSX"
+  },
+  {
+    "rs" : [
+      "SODA",
+      "SOME",
+      "DOSE",
+      "DAME",
+      "WADE"
+    ],
+    "word" : "DMEAWSO"
+  },
+  {
+    "rs" : [
+      "MERKEN",
+      "MERKE",
+      "MECKERN",
+      "MEER",
+      "CREME",
+      "ECKEN",
+      "ECKE"
+    ],
+    "word" : "MKRNEEC"
+  }
+]
